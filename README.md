@@ -13,5 +13,5 @@
 - [The Modern AI Stack: Design Principles for the Future of Enterprise AI Architectures](https://menlovc.com/perspective/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures/)
 
 ## Tech Twitter
-- [antirez](https://twitter.com/antirez/status/1746857737584099781)
+- [@antirez](https://twitter.com/antirez/status/1746857737584099781)
 - [@ivanfioravanti](https://twitter.com/ivanfioravanti)
