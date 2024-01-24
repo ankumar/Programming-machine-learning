@@ -1,6 +1,6 @@
 # awesome-llm-architectures
 
-## Analytics
+## Analysis
 - [ArtificialAnalysis](https://artificialanalysis.ai/)
 
 ## Code
