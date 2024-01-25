@@ -30,4 +30,4 @@
 - [Large Language Model Course](https://github.com/mlabonne/llm-course)
 
 ## Papers
-- 
+- [RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture](https://arxiv.org/abs/2401.08406)
