@@ -12,6 +12,7 @@
 
 ## Security, Compliance & Privacy
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
+- [How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://chats-lab.github.io/persuasive_jailbreaker/)
 
 ## Articles
 - [A Guide to Large Language Model Abstractions](https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/)
