@@ -2,6 +2,7 @@
 
 ## Analysis
 - [ArtificialAnalysis](https://artificialanalysis.ai/)
+- [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
   
 ## Tools & Dev Stacks
 - [Vercel AI SDK](https://sdk.vercel.ai/)
