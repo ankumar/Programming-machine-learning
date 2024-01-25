@@ -21,8 +21,8 @@
 - [@antirez](https://twitter.com/antirez/status/1746857737584099781)
 - [@ivanfioravanti](https://twitter.com/ivanfioravanti)
 
+## Learning
+- [Large Language Model Course](https://github.com/mlabonne/llm-course)
+
 ## Papers
 - 
-
-# Learning
-- [Large Language Model Course](https://github.com/mlabonne/llm-course)
