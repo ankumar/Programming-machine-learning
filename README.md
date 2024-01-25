@@ -18,6 +18,7 @@
 ## Articles
 - [A Guide to Large Language Model Abstractions](https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/)
 - [The Modern AI Stack: Design Principles for the Future of Enterprise AI Architectures](https://menlovc.com/perspective/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures/)
+- [AI Copilot Interfaces](https://byrnemluke.com/ideas/llm-interfaces)
 
 ## Tech Twitter
 - [@antirez](https://twitter.com/antirez/status/1746857737584099781)
