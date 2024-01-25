@@ -1,8 +1,11 @@
 # awesome-llm-architectures
 
-## Analysis
+## Analysis & Benchmarks
 - [ArtificialAnalysis](https://artificialanalysis.ai/)
+- [AI Fundamentals: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
 - [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+- []()
+- []()
   
 ## Tools & Dev Stacks
 - [Vercel AI SDK](https://sdk.vercel.ai/)
