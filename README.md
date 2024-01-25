@@ -3,6 +3,7 @@
 ## Analysis & Benchmarks
 - [ArtificialAnalysis](https://artificialanalysis.ai/)
 - [AI Fundamentals: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
+- [A holistic framework for evaluating foundation models](https://crfm.stanford.edu/helm/lite/latest/)
 - [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 - []()
 - []()
