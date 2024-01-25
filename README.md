@@ -11,7 +11,7 @@
 - [Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)
 - [Stanford DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
 - [Easily use and train state of the art retrieval methods in any RAG pipeline. Designed for modularity and ease-of-use, backed by research](https://github.com/bclavie/RAGatouille)
-- [lm-app-stack](https://github.com/a16z-infra/llm-app-stack)
+- [lm-app-stack aka Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
 - [Data Provenance Explorer](https://dataprovenance.org/)
 
 ## Security, Compliance & Privacy
