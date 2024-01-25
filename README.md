@@ -10,6 +10,9 @@
 - [RAGStack](https://docs.datastax.com/en/ragstack/docs/index.html)
 - [lm-app-stack](https://github.com/a16z-infra/llm-app-stack)
 
+## Security, Compliance & Privacy
+- [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
+
 ## Articles
 - [A Guide to Large Language Model Abstractions](https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/)
 - [The Modern AI Stack: Design Principles for the Future of Enterprise AI Architectures](https://menlovc.com/perspective/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures/)
