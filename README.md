@@ -2,12 +2,13 @@
 
 ## Analysis
 - [ArtificialAnalysis](https://artificialanalysis.ai/)
-
+  
 ## Code
 - [Vercel AI SDK](https://sdk.vercel.ai/)
 - [Vercel v0](https://v0.dev/)
 - [Prompt Engineering with Llama 2](https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb)
 - [RAGStack](https://docs.datastax.com/en/ragstack/docs/index.html)
+- [Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)
 - [lm-app-stack](https://github.com/a16z-infra/llm-app-stack)
 - [Data Provenance Explorer](https://dataprovenance.org/)
 
