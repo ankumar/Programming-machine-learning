@@ -12,6 +12,8 @@
 - [Vercel AI SDK](https://sdk.vercel.ai/)
 - [Vercel v0](https://v0.dev/)
 - [SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface](https://github.com/skypilot-org)
+- [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
+- []()
 - []()
 - [Prompt Engineering with Llama 2](https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb)
 - [RAGStack](https://docs.datastax.com/en/ragstack/docs/index.html)
