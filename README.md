@@ -11,7 +11,6 @@
 ## Tools & Dev Stacks
 - [Vercel AI SDK](https://sdk.vercel.ai/)
 - [Vercel v0](https://v0.dev/)
-- [SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface](https://github.com/skypilot-org)
 - [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
 - []()
 - []()
@@ -22,6 +21,7 @@
 - [Easily use and train state of the art retrieval methods in any RAG pipeline. Designed for modularity and ease-of-use, backed by research](https://github.com/bclavie/RAGatouille)
 - [lm-app-stack aka Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
 - [Data Provenance Explorer](https://dataprovenance.org/)
+- [SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface](https://github.com/skypilot-org)
 
 ## Security, Compliance & Privacy
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
