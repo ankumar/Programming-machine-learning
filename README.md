@@ -9,11 +9,13 @@
 - []()
   
 ## Tools & Dev Stacks
-- [Vercel AI SDK](https://sdk.vercel.ai/)
-- [Vercel v0](https://v0.dev/)
+- [HuggingCha](https://github.com/huggingface/chat-ui)
+- [OpenAI Evals](https://github.com/withmartian/martian-evals)
 - [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
 - []()
 - []()
+- [Vercel AI SDK](https://sdk.vercel.ai/)
+- [Vercel v0](https://v0.dev/)
 - [Prompt Engineering with Llama 2](https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb)
 - [RAGStack](https://docs.datastax.com/en/ragstack/docs/index.html)
 - [Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)
@@ -38,6 +40,13 @@
 - []()
 
 ## Tech Twitter
+- []()
+- []()
+- [@karpathy](https://twitter.com/karpathy)
+- []()
+- []()
+- []()
+- []()
 - [@antirez](https://twitter.com/antirez/status/1746857737584099781)
 - [@ivanfioravanti](https://twitter.com/ivanfioravanti)
 
