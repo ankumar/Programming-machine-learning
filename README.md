@@ -9,7 +9,7 @@
 - []()
   
 ## Tools & Dev Stacks
-- [HuggingCha](https://github.com/huggingface/chat-ui)
+- [HuggingChat](https://github.com/huggingface/chat-ui)
 - [OpenAI Evals](https://github.com/withmartian/martian-evals)
 - [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
 - []()
