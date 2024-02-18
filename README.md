@@ -1,7 +1,6 @@
 # awesome-llm-architectures
 
 ## Analysis & Benchmarks
-- [ArtificialAnalysis](https://artificialanalysis.ai/)
 - [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 - [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 - [A holistic framework for evaluating foundation models](https://crfm.stanford.edu/helm/lite/latest/)
@@ -11,13 +10,14 @@
 - []()
 - []()
 - []()
+- [ArtificialAnalysis](https://artificialanalysis.ai/)
   
 ## Tools & Dev Stacks
 - [HuggingChat](https://github.com/huggingface/chat-ui)
-- [OpenAI Evals](https://github.com/withmartian/martian-evals)
 - [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
 - []()
 - []()
+- [OpenAI Evals](https://github.com/withmartian/martian-evals)
 - [Vercel AI SDK](https://sdk.vercel.ai/)
 - [Vercel v0](https://v0.dev/)
 - [Prompt Engineering with Llama 2](https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb)
