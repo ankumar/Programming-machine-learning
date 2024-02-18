@@ -44,9 +44,9 @@
 - []()
 
 ## AI Twitter
-- []()
-- []()
 - [@karpathy](https://twitter.com/karpathy)
+- []()
+- []()
 - []()
 - []()
 - []()
