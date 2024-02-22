@@ -14,6 +14,7 @@
 - [AI Fundamentals: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
   
 ## Tools & Dev Stacks
+- [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
 - [HuggingChat](https://github.com/huggingface/chat-ui)
 - [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
 - []()
