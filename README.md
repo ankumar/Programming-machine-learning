@@ -15,7 +15,9 @@
   
 ## Tools & Dev Stacks
 - [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
-- [HuggingChat](https://github.com/huggingface/chat-ui)
+- [Hugging Face's Chat UI](https://github.com/huggingface/chat-ui)  
+  - [Hugging Face's Chat Assistants](https://huggingface.co/chat/assistants)
+  - [Open source implementation of the OpenAI 'data analysis mode' (aka ChatGPT + Python execution) based on Mistral-7B](https://github.com/xingyaoww/code-act) / [Hugging Face for Chat UI, ProjectJupyter for code executor](https://chat.xwang.dev)
 - [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
 - []()
 - []()
