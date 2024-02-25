@@ -14,18 +14,20 @@
 - [AI Fundamentals: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
   
 ## Open GPT
-- [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
 - [Hugging Face's Chat UI](https://github.com/huggingface/chat-ui)  
   - [Hugging Face's Chat Assistants](https://huggingface.co/chat/assistants)
   - [Open source implementation of the OpenAI 'data analysis mode' (aka ChatGPT + Python execution) based on Mistral-7B](https://github.com/xingyaoww/code-act) / [Hugging Face for Chat UI, ProjectJupyter for code executor](https://chat.xwang.dev)
   - [Tokenizer Playground - How different models tokenize text](https://huggingface.co/spaces/Xenova/the-tokenizer-playground)
-- [LangChain OpenGPTs](https://github.com/langchain-ai/opengpts)  
+
+- [Vercel AI SDK](https://sdk.vercel.ai/)
+- [Vercel v0](https://v0.dev/)
+  
+- [LangChain OpenGPTs](https://github.com/langchain-ai/opengpts)
+
+- [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
 - [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
 - []()
 - []()
-- [OpenAI Evals](https://github.com/withmartian/martian-evals)
-- [Vercel AI SDK](https://sdk.vercel.ai/)
-- [Vercel v0](https://v0.dev/)
 - [Prompt Engineering with Llama 2](https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb)
 - [RAGStack](https://docs.datastax.com/en/ragstack/docs/index.html)
 - [Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)
@@ -34,6 +36,12 @@
 - [lm-app-stack aka Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
 - [Data Provenance Explorer](https://dataprovenance.org/)
 - [SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface](https://github.com/skypilot-org)
+
+**Evals**
+- [OpenAI Evals](https://github.com/withmartian/martian-evals)
+- [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark)
+- [Evaluate-Iterate-Improve](https://github.com/uptrain-ai/uptrain)
+- [Open-Source Evaluation for GenAI Application Pipelines](https://github.com/relari-ai/continuous-eval)  
 
 ## Security, Compliance & Privacy
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
