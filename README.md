@@ -13,11 +13,13 @@
 - [ArtificialAnalysis](https://artificialanalysis.ai/)
 - [AI Fundamentals: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
   
-## Tools & Dev Stacks
+## Open GPT
 - [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
 - [Hugging Face's Chat UI](https://github.com/huggingface/chat-ui)  
   - [Hugging Face's Chat Assistants](https://huggingface.co/chat/assistants)
   - [Open source implementation of the OpenAI 'data analysis mode' (aka ChatGPT + Python execution) based on Mistral-7B](https://github.com/xingyaoww/code-act) / [Hugging Face for Chat UI, ProjectJupyter for code executor](https://chat.xwang.dev)
+  - [Tokenizer Playground - How different models tokenize text](https://huggingface.co/spaces/Xenova/the-tokenizer-playground)
+- [LangChain OpenGPTs](https://github.com/langchain-ai/opengpts)  
 - [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
 - []()
 - []()
