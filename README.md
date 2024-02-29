@@ -23,15 +23,17 @@
 - [Vercel v0](https://v0.dev/)
   
 - [LangChain OpenGPTs](https://github.com/langchain-ai/opengpts)
-
+-
+- [Stanford DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
+-
 - [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
+- 
 - [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
 - []()
 - []()
 - [Prompt Engineering with Llama 2](https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb)
 - [RAGStack](https://docs.datastax.com/en/ragstack/docs/index.html)
 - [Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)
-- [Stanford DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
 - [Easily use and train state of the art retrieval methods in any RAG pipeline. Designed for modularity and ease-of-use, backed by research](https://github.com/bclavie/RAGatouille)
 - [lm-app-stack aka Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
 - [Data Provenance Explorer](https://dataprovenance.org/)
