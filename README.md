@@ -1,7 +1,6 @@
 # awesome-llm-architectures
 
-## Analysis & Benchmarks
-- [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
+## Benchmarks & Analysis 
 - [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 - [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 - [A holistic framework for evaluating foundation models](https://crfm.stanford.edu/helm/lite/latest/)
@@ -10,10 +9,11 @@
 - []()
 - []()
 - []()
-- [ArtificialAnalysis](https://artificialanalysis.ai/)
+- [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
 - [AI Fundamentals: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
-  
-## Open GPT
+- [ArtificialAnalysis](https://artificialanalysis.ai/)
+
+## OpenGPT
 - [Hugging Face's Chat UI](https://github.com/huggingface/chat-ui)  
   - [Hugging Face's Chat Assistants](https://huggingface.co/chat/assistants)
   - [Open source implementation of the OpenAI 'data analysis mode' (aka ChatGPT + Python execution) based on Mistral-7B](https://github.com/xingyaoww/code-act) / [Hugging Face for Chat UI, ProjectJupyter for code executor](https://chat.xwang.dev)
