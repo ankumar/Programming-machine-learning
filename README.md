@@ -22,6 +22,7 @@
 - [Vercel AI SDK](https://sdk.vercel.ai/)
 - [Vercel v0](https://v0.dev/)
 - 
+- [GPTScript](https://github.com/gptscript-ai/gptscript)
 - 
 - [LangChain OpenGPTs](https://github.com/langchain-ai/opengpts)
 -
