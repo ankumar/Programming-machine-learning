@@ -11,7 +11,7 @@
 - []()
 - [ArtificialAnalysis](https://artificialanalysis.ai/)
 
-## OpenGPT
+## GPTs
 
 ### Hugging Face Chat UI
 - [Chat UI](https://github.com/huggingface/chat-ui)  
@@ -26,8 +26,8 @@
   - [v0](https://v0.dev/)
   
 ### Scripting
-- [GPTScript](https://github.com/gptscript-ai/gptscript)
 - [LangChain OpenGPTs](https://github.com/langchain-ai/opengpts)
+- [GPTScript](https://github.com/gptscript-ai/gptscript)
 -
 
 ## Evals
@@ -93,6 +93,5 @@
 - [RAGStack](https://docs.datastax.com/en/ragstack/docs/index.html)
 - [Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)
 - [Easily use and train state of the art retrieval methods in any RAG pipeline. Designed for modularity and ease-of-use, backed by research](https://github.com/bclavie/RAGatouille)
-
 - [Data Provenance Explorer](https://dataprovenance.org/)
 - [SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface](https://github.com/skypilot-org)
