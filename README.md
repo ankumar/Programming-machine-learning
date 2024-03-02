@@ -48,7 +48,7 @@
 - []()
 
 ## Articles
-- [lm-app-stack aka Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
+- [LLM App Stack aka Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
 - [A Guide to Large Language Model Abstractions](https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/)
 - [AI Fundamentals: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
 - [The Modern AI Stack: Design Principles for the Future of Enterprise AI Architectures](https://menlovc.com/perspective/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures/)
