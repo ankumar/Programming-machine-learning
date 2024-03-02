@@ -47,14 +47,14 @@
 - []()
 - []()
 
-## Articles
+## Articles & Talks
 - [LLM App Stack aka Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
 - [A Guide to Large Language Model Abstractions](https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/)
 - [AI Fundamentals: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
 - [The Modern AI Stack: Design Principles for the Future of Enterprise AI Architectures](https://menlovc.com/perspective/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures/)
 - [AI Copilot Interfaces](https://byrnemluke.com/ideas/llm-interfaces)
 - [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
-- []()
+- [Large Language Models and Theories of Meaning](https://drive.google.com/file/d/15oXHUBaUWwhFziB1G2Tg5kQ1PPJ3XqP7/view)
 - []()
 
 ## AI Twitter
