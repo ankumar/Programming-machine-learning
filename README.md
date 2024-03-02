@@ -9,8 +9,6 @@
 - []()
 - []()
 - []()
-- [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
-- [AI Fundamentals: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
 - [ArtificialAnalysis](https://artificialanalysis.ai/)
 
 ## OpenGPT
@@ -40,7 +38,7 @@
 - [RAGStack](https://docs.datastax.com/en/ragstack/docs/index.html)
 - [Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)
 - [Easily use and train state of the art retrieval methods in any RAG pipeline. Designed for modularity and ease-of-use, backed by research](https://github.com/bclavie/RAGatouille)
-- [lm-app-stack aka Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
+
 - [Data Provenance Explorer](https://dataprovenance.org/)
 - [SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface](https://github.com/skypilot-org)
 
@@ -62,9 +60,12 @@
 - []()
 
 ## Articles
+- [lm-app-stack aka Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
 - [A Guide to Large Language Model Abstractions](https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/)
+- [AI Fundamentals: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
 - [The Modern AI Stack: Design Principles for the Future of Enterprise AI Architectures](https://menlovc.com/perspective/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures/)
 - [AI Copilot Interfaces](https://byrnemluke.com/ideas/llm-interfaces)
+- [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
 - []()
 - []()
 
