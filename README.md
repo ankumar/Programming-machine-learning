@@ -9,7 +9,7 @@
 - []()
 - []()
 - []()
-- [ArtificialAnalysis](https://artificialanalysis.ai/)
+- [Artificial Analysis](https://artificialanalysis.ai/)
 
 ## GPTs
 
