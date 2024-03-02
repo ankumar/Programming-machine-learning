@@ -15,8 +15,8 @@
 
 ### Hugging Face Chat UI
 - [Chat UI](https://github.com/huggingface/chat-ui)  
- - [Hugging Face's Chat Assistants](https://huggingface.co/chat/assistants)
- - [Open source implementation of the OpenAI 'data analysis mode' (aka ChatGPT + Python execution) based on Mistral-7B](https://github.com/xingyaoww/code-act) / [Hugging Face for Chat UI, ProjectJupyter for code executor](https://chat.xwang.dev)
+  - [Hugging Face's Chat Assistants](https://huggingface.co/chat/assistants)
+  - [Open source implementation of the OpenAI 'data analysis mode' (aka ChatGPT + Python execution) based on Mistral-7B](https://github.com/xingyaoww/code-act) / [Hugging Face for Chat UI, ProjectJupyter for code executor](https://chat.xwang.dev)
 - [Tokenizer Playground - How different models tokenize text](https://huggingface.co/spaces/Xenova/the-tokenizer-playground)
 
 ### Vercel Generative UI
