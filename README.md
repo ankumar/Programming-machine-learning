@@ -19,10 +19,10 @@
 
 ### Vercel Generative UI
 - [AI RSC Demo](https://sdk.vercel.ai/demo)
+  - [Prompt Playground](https://sdk.vercel.ai/prompt) like Chatbot Arena Like https://chat.lmsys.org/
   - [Vercel AI SDK](https://sdk.vercel.ai/)
   - [Vercel v0](https://v0.dev/)
-  - [Prompt Playground](https://sdk.vercel.ai/prompt) like Chatbot Arena Like https://chat.lmsys.org/
-
+  
 ### Scripting
 - [GPTScript](https://github.com/gptscript-ai/gptscript)
 - 
