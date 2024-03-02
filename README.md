@@ -68,11 +68,6 @@
 - [@antirez](https://twitter.com/antirez/status/1746857737584099781)
 - [@ivanfioravanti](https://twitter.com/ivanfioravanti)
 
-## Learning
-- [Large Language Model Course](https://github.com/mlabonne/llm-course)
-- []()
-- []()
-
 ## Papers
 - [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196)
 - [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/pdf/2304.12244.pdf)
@@ -95,3 +90,8 @@
 - [Easily use and train state of the art retrieval methods in any RAG pipeline. Designed for modularity and ease-of-use, backed by research](https://github.com/bclavie/RAGatouille)
 - [Data Provenance Explorer](https://dataprovenance.org/)
 - [SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface](https://github.com/skypilot-org)
+
+## Learning
+- [Large Language Model Course](https://github.com/mlabonne/llm-course)
+- []()
+- []()
