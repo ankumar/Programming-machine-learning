@@ -17,7 +17,7 @@
   - [Open source implementation of the OpenAI 'data analysis mode' (aka ChatGPT + Python execution) based on Mistral-7B](https://github.com/xingyaoww/code-act) / [Hugging Face for Chat UI, ProjectJupyter for code executor](https://chat.xwang.dev)
   - [Tokenizer Playground - How different models tokenize text](https://huggingface.co/spaces/Xenova/the-tokenizer-playground)
 
-### Generative UI
+### Vercel Generative UI
 - [AI RSC Demo](https://sdk.vercel.ai/demo)
   - [Vercel AI SDK](https://sdk.vercel.ai/)
   - [Vercel v0](https://v0.dev/)
