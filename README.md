@@ -11,6 +11,12 @@
 - []()
 - [Artificial Analysis](https://artificialanalysis.ai/)
 
+## "open" models
+- [Llama](https://llama.meta.com/)
+- [Gemma](https://opensource.googleblog.com/2024/02/building-open-models-responsibly-gemini-era.html)
+- []()
+- []()
+
 ## GPTs
 
 ### Hugging Face Chat UI
