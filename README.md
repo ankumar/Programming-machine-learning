@@ -7,8 +7,7 @@
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)
 - []()
-- []()
-- []()
+- 
 - [Artificial Analysis](https://artificialanalysis.ai/)
 
 ## "open" models
@@ -69,10 +68,6 @@
 
 ## AI Twitter
 - [@karpathy](https://twitter.com/karpathy)
-- []()
-- []()
-- []()
-- []()
 - []()
 - []()
 - [@antirez](https://twitter.com/antirez/status/1746857737584099781)
