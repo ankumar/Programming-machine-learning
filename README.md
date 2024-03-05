@@ -36,6 +36,9 @@
 - [GPTScript](https://github.com/gptscript-ai/gptscript)
 -
 
+### Programming—not prompting—Language Models
+- [Stanford DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
+
 ## Evals
 - [OpenAI Evals](https://github.com/withmartian/martian-evals)
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark)
