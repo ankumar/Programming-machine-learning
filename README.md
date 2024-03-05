@@ -13,8 +13,8 @@
 
 ## "open" models
 - [Llama](https://llama.meta.com/)
+- [OLMo](https://allenai.org/olmo)
 - [Gemma](https://opensource.googleblog.com/2024/02/building-open-models-responsibly-gemini-era.html)
-- []()
 - []()
 
 ## GPTs
