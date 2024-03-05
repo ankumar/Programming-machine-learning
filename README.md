@@ -31,13 +31,14 @@
   - [AI SDK](https://sdk.vercel.ai/)
   - [v0](https://v0.dev/)
   
+### Programming—not prompting—Language Models
+- [Stanford DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
+- 
+
 ### Scripting
 - [LangChain OpenGPTs](https://github.com/langchain-ai/opengpts)
 - [GPTScript](https://github.com/gptscript-ai/gptscript)
 -
-
-### Programming—not prompting—Language Models
-- [Stanford DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
 
 ## Evals
 - [OpenAI Evals](https://github.com/withmartian/martian-evals)
