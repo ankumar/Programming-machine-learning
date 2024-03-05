@@ -46,7 +46,7 @@
 - [Establishing industry wide AI best practices and standards for AI Engineers](https://github.com/AI-Engineer-Foundation)
 - [The Data Provenance Initiative](https://github.com/Data-Provenance-Initiative/Data-Provenance-Collection)
 
-## Security, Compliance & Privacy
+## Security
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
 - [How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://chats-lab.github.io/persuasive_jailbreaker/)
 - [Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://www.nist.gov/news-events/news/2024/01/nist-identifies-types-cyberattacks-manipulate-behavior-ai-systems)
