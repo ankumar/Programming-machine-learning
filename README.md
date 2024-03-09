@@ -79,21 +79,14 @@
 - []()
 - []()
 
-## Uncategorized
--
+## Learning
 - [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
-- 
-- [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
-- []()
-- []()
+- [Large Language Model Course](https://github.com/mlabonne/llm-course)
+- [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index)
 - [Prompt Engineering with Llama 2](https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb)
 - [RAGStack](https://docs.datastax.com/en/ragstack/docs/index.html)
 - [Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)
 - [Easily use and train state of the art retrieval methods in any RAG pipeline. Designed for modularity and ease-of-use, backed by research](https://github.com/bclavie/RAGatouille)
+- [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
 - [Data Provenance Explorer](https://dataprovenance.org/)
 - [SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface](https://github.com/skypilot-org)
-
-## Learning
-- [Large Language Model Course](https://github.com/mlabonne/llm-course)
-- [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index)
-- []()
