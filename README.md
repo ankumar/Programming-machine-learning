@@ -1,5 +1,3 @@
-# awesome-llm-architectures
-
 ## Leaderboards, Benchmarks & Evaluations
 - [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 - [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
