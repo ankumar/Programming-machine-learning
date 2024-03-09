@@ -6,13 +6,12 @@
 - [A holistic framework for evaluating foundation models](https://crfm.stanford.edu/helm/lite/latest/)
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)
+- [Artificial Analysis](https://artificialanalysis.ai/)
 - []()
 - [OpenAI Evals](https://github.com/withmartian/martian-evals)
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark)
 - [Evaluate-Iterate-Improve](https://github.com/uptrain-ai/uptrain)
 - [Open-Source Evaluation for GenAI Application Pipelines](https://github.com/relari-ai/continuous-eval)  
-- []()
-- [Artificial Analysis](https://artificialanalysis.ai/)
 
 ## "open" models
 - [Llama](https://llama.meta.com/)
