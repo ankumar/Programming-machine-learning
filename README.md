@@ -1,6 +1,8 @@
 # awesome-llm-architectures
 
-## Evals, Benchmarks & Analysis 
+A collection of critical pieces of AI building process.
+
+## Leaderboards, Benchmarks & Evaluations
 - [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 - [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 - [A holistic framework for evaluating foundation models](https://crfm.stanford.edu/helm/lite/latest/)
