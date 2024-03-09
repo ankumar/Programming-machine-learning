@@ -18,7 +18,7 @@
 - []()
 
 ## Prompt
-- [Prompt library](https://docs.anthropic.com/claude/prompt-library)
+- [Anthropic Prompt library](https://docs.anthropic.com/claude/prompt-library)
 - [Prompt Engineering with Llama 2](https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb)
 
 ## GPTs
