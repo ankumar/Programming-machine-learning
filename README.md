@@ -17,6 +17,10 @@
 - [Gemma](https://opensource.googleblog.com/2024/02/building-open-models-responsibly-gemini-era.html)
 - []()
 
+## Prompt
+- [Prompt library](https://docs.anthropic.com/claude/prompt-library)
+- [Prompt Engineering with Llama 2](https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb)
+
 ## GPTs
 
 ### Hugging Face Chat UI
@@ -80,7 +84,6 @@
 - [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
 - [Large Language Model Course](https://github.com/mlabonne/llm-course)
 - [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index)
-- [Prompt Engineering with Llama 2](https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb)
 - [RAGStack](https://docs.datastax.com/en/ragstack/docs/index.html)
 - [Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)
 - [Easily use and train state of the art retrieval methods in any RAG pipeline. Designed for modularity and ease-of-use, backed by research](https://github.com/bclavie/RAGatouille)
