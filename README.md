@@ -63,7 +63,7 @@
 
 ## AI Twitter
 - [@karpathy](https://twitter.com/karpathy)
-- []()
+- [@simonw](https://twitter.com/simonw)
 - []()
 - [@antirez](https://twitter.com/antirez/status/1746857737584099781)
 - [@ivanfioravanti](https://twitter.com/ivanfioravanti)
