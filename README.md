@@ -1,13 +1,17 @@
 # awesome-llm-architectures
 
-## Benchmarks & Analysis 
+## Evals, Benchmarks & Analysis 
 - [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 - [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 - [A holistic framework for evaluating foundation models](https://crfm.stanford.edu/helm/lite/latest/)
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)
 - []()
-- 
+- [OpenAI Evals](https://github.com/withmartian/martian-evals)
+- [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark)
+- [Evaluate-Iterate-Improve](https://github.com/uptrain-ai/uptrain)
+- [Open-Source Evaluation for GenAI Application Pipelines](https://github.com/relari-ai/continuous-eval)  
+- []()
 - [Artificial Analysis](https://artificialanalysis.ai/)
 
 ## "open" models
@@ -38,12 +42,6 @@
 - [LangChain OpenGPTs](https://github.com/langchain-ai/opengpts)
 - [GPTScript](https://github.com/gptscript-ai/gptscript)
 -
-
-## Evals
-- [OpenAI Evals](https://github.com/withmartian/martian-evals)
-- [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark)
-- [Evaluate-Iterate-Improve](https://github.com/uptrain-ai/uptrain)
-- [Open-Source Evaluation for GenAI Application Pipelines](https://github.com/relari-ai/continuous-eval)  
 
 ## Standards
 - [Establishing industry wide AI best practices and standards for AI Engineers](https://github.com/AI-Engineer-Foundation)
