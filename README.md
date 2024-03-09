@@ -5,6 +5,7 @@
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)
 - [Artificial Analysis](https://artificialanalysis.ai/)
+- [Collections](https://huggingface.co/collections/clefourrier/leaderboards-and-benchmarks-64f99d2e11e92ca5568a7cce)
 - []()
 - [OpenAI Evals](https://github.com/withmartian/martian-evals)
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark)
