@@ -6,11 +6,14 @@
 - [EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)
 - [Artificial Analysis](https://artificialanalysis.ai/)
 - [Collections](https://huggingface.co/collections/clefourrier/leaderboards-and-benchmarks-64f99d2e11e92ca5568a7cce)
-- []()
+- [Functional Benchmarks and the Reasoning Gap](https://github.com/ConsequentAI/fneval)
 - [OpenAI Evals](https://github.com/withmartian/martian-evals)
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark)
 - [Evaluate-Iterate-Improve](https://github.com/uptrain-ai/uptrain)
 - [Open-Source Evaluation for GenAI Application Pipelines](https://github.com/relari-ai/continuous-eval)  
+- []()
+- []()
+- []()
 
 ## "open" models
 - [Llama](https://llama.meta.com/)
@@ -79,6 +82,8 @@
 - [RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture](https://arxiv.org/abs/2401.08406)
 - [Multi-line AI-assisted Code Authoring](https://huggingface.co/papers/2402.04141)
 - [Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](https://arxiv.org/pdf/2402.14207.pdf)
+- []()
+- []()
 - []()
 
 ## Learning
