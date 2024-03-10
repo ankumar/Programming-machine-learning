@@ -78,7 +78,7 @@
 - [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/pdf/2304.12244.pdf)
 - [RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture](https://arxiv.org/abs/2401.08406)
 - [Multi-line AI-assisted Code Authoring](https://huggingface.co/papers/2402.04141)
-- []()
+- [Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](https://arxiv.org/pdf/2402.14207.pdf)
 - []()
 
 ## Learning
