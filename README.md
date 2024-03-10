@@ -7,6 +7,7 @@
 - [Artificial Analysis](https://artificialanalysis.ai/)
 - [Collections](https://huggingface.co/collections/clefourrier/leaderboards-and-benchmarks-64f99d2e11e92ca5568a7cce)
 - [Functional Benchmarks and the Reasoning Gap](https://github.com/ConsequentAI/fneval)
+- [CodeMind is a generic framework for evaluating inductive code reasoning of LLMs. It is equipped with a static analysis component that enables in-depth analysis of the results.](https://github.com/Intelligent-CAT-Lab/CodeMind)
 - [OpenAI Evals](https://github.com/withmartian/martian-evals)
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark)
 - [Evaluate-Iterate-Improve](https://github.com/uptrain-ai/uptrain)
