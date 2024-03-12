@@ -20,6 +20,7 @@
 - []()
 
 ## "open" models
+- [Little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
 - [Llama](https://llama.meta.com/)
 - [OLMo](https://allenai.org/olmo)
 - [Gemma](https://opensource.googleblog.com/2024/02/building-open-models-responsibly-gemini-era.html)
