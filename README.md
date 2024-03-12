@@ -19,7 +19,7 @@
 - []()
 - []()
 
-## "open" models
+## Open vs Closed Models
 - [Little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
 - [Llama](https://llama.meta.com/)
 - [OLMo](https://allenai.org/olmo)
