@@ -70,7 +70,7 @@
 - [AI Copilot Interfaces](https://byrnemluke.com/ideas/llm-interfaces)
 - [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
 - [Large Language Models and Theories of Meaning](https://drive.google.com/file/d/15oXHUBaUWwhFziB1G2Tg5kQ1PPJ3XqP7/view)
-- []()
+- [Predictive Human Preference(PHP)](https://huyenchip.com/2024/02/28/predictive-human-preference.html)
 
 ## AI Twitter
 - [@karpathy](https://twitter.com/karpathy)
