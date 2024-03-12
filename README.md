@@ -1,7 +1,7 @@
 ## Leaderboards, Benchmarks & Evaluations
 - [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
   - [LLM Judge](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)
-- [SWE-bench](https://www.swebench.com/)
+- [SWE-bench coding benchmark](https://www.swebench.com/)
 - [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 - [A holistic framework for evaluating foundation models](https://crfm.stanford.edu/helm/lite/latest/)
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
