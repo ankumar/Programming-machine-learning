@@ -46,7 +46,7 @@
   
 ### Programming—not prompting—Language Models
 - [Stanford DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
-- 
+- [Stanford NLP Python Library for Understanding and Improving PyTorch Models via Interventions](https://github.com/stanfordnlp/pyvene)
 
 ### Scripting
 - [LangChain OpenGPTs](https://github.com/langchain-ai/opengpts)
