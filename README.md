@@ -6,7 +6,6 @@
 - [A holistic framework for evaluating foundation models](https://crfm.stanford.edu/helm/lite/latest/)
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [EvalPlus Leaderboard](https://evalplus.github.io/leaderboard.html)
-- [Artificial Analysis](https://artificialanalysis.ai/)
 - [Collections](https://huggingface.co/collections/clefourrier/leaderboards-and-benchmarks-64f99d2e11e92ca5568a7cce)
 - [Functional Benchmarks and the Reasoning Gap](https://github.com/ConsequentAI/fneval)
 - [CodeMind is a generic framework for evaluating inductive code reasoning of LLMs. It is equipped with a static analysis component that enables in-depth analysis of the results.](https://github.com/Intelligent-CAT-Lab/CodeMind)
@@ -18,6 +17,7 @@
 - []()
 - []()
 - []()
+- [Artificial Analysis](https://artificialanalysis.ai/)
 
 ## "Open" vs Closed Models
 - [Little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
