@@ -14,7 +14,6 @@
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark)
 - [Evaluate-Iterate-Improve](https://github.com/uptrain-ai/uptrain)
 - [Open-Source Evaluation for GenAI Application Pipelines](https://github.com/relari-ai/continuous-eval)  
-- [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 - []()
 - []()
 - [Artificial Analysis](https://artificialanalysis.ai/)
@@ -26,6 +25,8 @@
 - [Gemma](https://opensource.googleblog.com/2024/02/building-open-models-responsibly-gemini-era.html)
 - [Robust recipes to align language models with human and AI preferences](https://github.com/huggingface/alignment-handbook)
 - [A natural language interface for computers](https://github.com/KillianLucas/open-interpreter)
+- [OpenDevin](https://github.com/OpenDevin/OpenDevin)
+- []()
 - []()
 
 ## Prompt
