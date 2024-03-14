@@ -24,6 +24,8 @@
 - [Llama](https://llama.meta.com/)
 - [OLMo](https://allenai.org/olmo)
 - [Gemma](https://opensource.googleblog.com/2024/02/building-open-models-responsibly-gemini-era.html)
+- [Robust recipes to align language models with human and AI preferences](https://github.com/huggingface/alignment-handbook)
+- []()
 - []()
 
 ## Prompt
