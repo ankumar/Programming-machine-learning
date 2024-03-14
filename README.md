@@ -14,7 +14,7 @@
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark)
 - [Evaluate-Iterate-Improve](https://github.com/uptrain-ai/uptrain)
 - [Open-Source Evaluation for GenAI Application Pipelines](https://github.com/relari-ai/continuous-eval)  
-- []()
+- [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 - []()
 - []()
 - [Artificial Analysis](https://artificialanalysis.ai/)
