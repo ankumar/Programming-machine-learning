@@ -18,7 +18,7 @@
 - []()
 - [Artificial Analysis](https://artificialanalysis.ai/)
 
-## "Open" vs Closed 
+## "Open" vs Closed Models
 - [Little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
 - [Llama](https://llama.meta.com/)
 - [OLMo](https://allenai.org/olmo)
@@ -26,6 +26,14 @@
 - [Robust recipes to align language models with human and AI preferences](https://github.com/huggingface/alignment-handbook)
 - [A natural language interface for computers](https://github.com/KillianLucas/open-interpreter)
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin)
+- []()
+- []()
+
+## Inferencing
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 
