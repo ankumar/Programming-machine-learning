@@ -93,7 +93,7 @@
 - [Large Language Models and Theories of Meaning](https://drive.google.com/file/d/15oXHUBaUWwhFziB1G2Tg5kQ1PPJ3XqP7/view)
 - [Predictive Human Preference(PHP)](https://huyenchip.com/2024/02/28/predictive-human-preference.html)
 
-## AI Twitter
+## AI Twitter & Discord
 - [@karpathy](https://twitter.com/karpathy)
 - [@simonw](https://twitter.com/simonw)
 - []()
