@@ -30,6 +30,7 @@
 - []()
 
 ## Inferencing
+- [Text Generation Inference](https://huggingface.co/docs/text-generation-inference/index)
 - [vLLM](https://github.com/vllm-project/vllm)
 - [LLM inference in C/C++](https://github.com/ggerganov/llama.cpp)
 - [Baseten](https://github.com/basetenlabs)
