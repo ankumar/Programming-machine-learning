@@ -39,6 +39,11 @@
 - []()
 - []()
 
+## Training
+- []()
+- []()
+- []()
+
 ## GPTs
 
 ### Prompt
@@ -108,6 +113,7 @@
 ## Learning
 - [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
 - [AI GUIDE](https://ai-guide.future.mozilla.org/)
+- [A little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
 - [Large Language Model Course](https://github.com/mlabonne/llm-course)
 - [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index)
 - [RAGStack](https://docs.datastax.com/en/ragstack/docs/index.html)
