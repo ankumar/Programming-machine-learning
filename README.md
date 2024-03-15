@@ -30,7 +30,8 @@
 - []()
 
 ## Inferencing
-- []()
+- [vLLM](https://github.com/vllm-project/vllm)
+- [LLM inference in C/C++](https://github.com/ggerganov/llama.cpp)
 - [Baseten](https://github.com/basetenlabs)
 - []()
 - []()
