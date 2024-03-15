@@ -31,7 +31,7 @@
 
 ## Inferencing
 - []()
-- []()
+- [Baseten](https://github.com/basetenlabs)
 - []()
 - []()
 - []()
@@ -104,6 +104,7 @@
 
 ## Learning
 - [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
+- [AI GUIDE](https://ai-guide.future.mozilla.org/)
 - [Large Language Model Course](https://github.com/mlabonne/llm-course)
 - [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index)
 - [RAGStack](https://docs.datastax.com/en/ragstack/docs/index.html)
