@@ -111,7 +111,7 @@
 - []()
 
 ## Learning
-A best place to learn all in one place https://huggingface.co/docs & Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index)
+A best place to learn all in one place https://huggingface.co/docs & [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index)
 - [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
 - [AI GUIDE](https://ai-guide.future.mozilla.org/)
 - [A little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
