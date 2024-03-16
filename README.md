@@ -19,6 +19,7 @@
 - [Artificial Analysis](https://artificialanalysis.ai/)
 
 ## "Open" vs Closed Models
+- [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
 - [Little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
 - [Llama](https://llama.meta.com/)
 - [OLMo](https://allenai.org/olmo)
