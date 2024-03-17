@@ -110,6 +110,7 @@
 
 ## Papers
 - [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196)
+- [On the Planning Abilities of Large Language Models : A Critical Investigation](https://arxiv.org/abs/2305.15771)
 - [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/pdf/2304.12244.pdf)
 - [RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture](https://arxiv.org/abs/2401.08406)
 - [Multi-line AI-assisted Code Authoring](https://huggingface.co/papers/2402.04141)
