@@ -22,6 +22,7 @@
 - [Llama](https://llama.meta.com/)
 - [OLMo](https://allenai.org/olmo)
 - [Gemma](https://opensource.googleblog.com/2024/02/building-open-models-responsibly-gemini-era.html)
+- [Grok open release](https://github.com/xai-org/grok-1)
 - [Robust recipes to align language models with human and AI preferences](https://github.com/huggingface/alignment-handbook)
 - [A natural language interface for computers](https://github.com/KillianLucas/open-interpreter)
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin)
