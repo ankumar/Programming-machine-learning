@@ -36,7 +36,7 @@
 - [vLLM](https://github.com/vllm-project/vllm)
 - [LLM inference in C/C++](https://github.com/ggerganov/llama.cpp)
 - [Baseten](https://github.com/basetenlabs)
-- [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+- [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) / (Use Case: https://www.perplexity.ai/hub/blog/introducing-pplx-api)
 - []()
 - []()
 - []()
