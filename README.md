@@ -21,6 +21,13 @@
 ## "Open" vs Closed Models
 - [Llama](https://llama.meta.com/)
 - [OLMo](https://allenai.org/olmo)
+[OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
+  - weights
+  - training and inference code
+  - data
+  - evaluation
+  - adaptation
+  - logs
 - [Gemma](https://opensource.googleblog.com/2024/02/building-open-models-responsibly-gemini-era.html)
 - [Grok open release](https://github.com/xai-org/grok-1)
 - [Robust recipes to align language models with human and AI preferences](https://github.com/huggingface/alignment-handbook)
