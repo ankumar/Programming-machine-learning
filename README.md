@@ -20,8 +20,7 @@
 
 ## "Open" vs Closed Models
 - [Llama](https://llama.meta.com/)
-- [OLMo](https://allenai.org/olmo)  
-[OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
+- [OLMo](https://allenai.org/olmo) / [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
   - weights
   - training and inference code
   - data
