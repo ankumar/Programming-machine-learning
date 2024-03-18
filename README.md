@@ -127,6 +127,10 @@ state-of-the-art AI results are increasingly obtained by compound systems with m
 A best place to learn all in one place https://huggingface.co/docs & [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index)
 - [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
   - [Byte Pair Encoding: building the GPT tokenizer with Karpathy](https://francescopochetti.com/byte-pair-encoding-building-the-gpt-tokenizer-with-karpathy/)
+
+- Why not implement this in Pytorch?
+  - https://github.com/ml-explore/mlx/issues/12
+
 - [AI GUIDE](https://ai-guide.future.mozilla.org/)
 - [A little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
 - [Large Language Model Course](https://github.com/mlabonne/llm-course)
