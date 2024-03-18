@@ -128,7 +128,7 @@ A best place to learn all in one place https://huggingface.co/docs & [Open-Sourc
 - [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
   - [Byte Pair Encoding: building the GPT tokenizer with Karpathy](https://francescopochetti.com/byte-pair-encoding-building-the-gpt-tokenizer-with-karpathy/)
 
-- Why not implement this in Pytorch?
+- Why not implement this in PyTorch?
   - https://github.com/ml-explore/mlx/issues/12
 
 - [AI GUIDE](https://ai-guide.future.mozilla.org/)
