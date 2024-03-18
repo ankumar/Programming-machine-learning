@@ -36,7 +36,7 @@ Common LLM workloads:
 
 ## "Open" vs Closed Models  
 
-Weights, Training & Inference Code, Data & Evaluation  
+**Weights, Training & Inference Code, Data & Evaluation**  
 - [OLMo](https://allenai.org/olmo) / [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
 
 ---
@@ -53,6 +53,7 @@ Weights, Training & Inference Code, Data & Evaluation
 - [Little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
 
 ## Inferencing
+
 - [Text Generation Inference](https://huggingface.co/docs/text-generation-inference/index)
 - [vLLM](https://github.com/vllm-project/vllm)
 - [LLM inference in C/C++](https://github.com/ggerganov/llama.cpp)
@@ -63,13 +64,16 @@ Weights, Training & Inference Code, Data & Evaluation
 - []()
 
 ## Training
-abstract away cloud infra burdens, Launch jobs & clusters on any cloud, Maximize GPU usage  
+
+**abstract away cloud infra burdens, Launch jobs & clusters on any cloud, Maximize GPU usage**  
 - [SkyPilot: A framework for running ML and batch jobs on any cloud cost-effectively](https://github.com/skypilot-org)
 - []()
 - []()
 
 ## Compound AI Systems
-state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models  
+
+**state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models**  
+
 - [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 - [ALTO: An Efficient Network Orchestrator for Compound AI Systems](https://arxiv.org/pdf/2403.04311.pdf)
 - []()
@@ -130,6 +134,7 @@ state-of-the-art AI results are increasingly obtained by compound systems with m
 - [@ivanfioravanti](https://twitter.com/ivanfioravanti)
 
 ## Papers
+
 - [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196)
 - [On the Planning Abilities of Large Language Models : A Critical Investigation](https://arxiv.org/abs/2305.15771)
 - [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/pdf/2304.12244.pdf)
@@ -141,7 +146,9 @@ state-of-the-art AI results are increasingly obtained by compound systems with m
 - []()
 
 ## Learning
-A best place to learn all in one place https://huggingface.co/docs & [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index)
+
+**A best place to learn all in one place** https://huggingface.co/docs & [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index)
+
 - [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
   - [Byte Pair Encoding: building the GPT tokenizer with Karpathy](https://francescopochetti.com/byte-pair-encoding-building-the-gpt-tokenizer-with-karpathy/)
 
