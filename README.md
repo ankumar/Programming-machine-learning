@@ -32,11 +32,20 @@ Common LLM workloads:
 - [OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement](https://github.com/OpenCodeInterpreter)
 - [OpenAI Evals](https://github.com/withmartian/martian-evals)
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark)
-- [Evaluate-Iterate-Improve](https://github.com/uptrain-ai/uptrain)
-- [Open-Source Evaluation for GenAI Application Pipelines](https://github.com/relari-ai/continuous-eval)  
+- [We’re doing cutting edge research for transparent, auditable AI alignment](https://www.synthlabs.ai/)
+"Current methods of “alignment” are insufficient;evaluations are even worse. Human intent reflects a rich tapestry of preferences, collapsed by uniform models. AI`s potential hinges on trust, from interpretable data to every layer built upon it. Informed decisions around risk are not binary. Training on raw human data doesn’t scale. Your models should adapt and scale, automatically."  
+
 - []()
-- []()
+
+--
+
 - [Artificial Analysis](https://artificialanalysis.ai/)
+
+--
+- [Martian Model Router](https://docs.withmartian.com/martian-model-router)
+- [Intelligent Language Model Router(https://docs.pulze.ai/overview/introductions)
+- [Evaluate-Iterate-Improve](https://github.com/uptrain-ai/uptrain)
+- [Open-Source Evaluation for GenAI Application Pipelines](https://github.com/relari-ai/continuous-eval)
 
 ## "Open" vs Closed Models  
 
