@@ -17,8 +17,7 @@ Common LLM workloads:
 
 - [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
   - [LLM Judge](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)
-  - [Predictive Human Preference(PHP)](https://huyenchip.com/2024/02/28/predictive-human-preference.html)
-      **Conclusion:** LMSYS folks told me that due to the noisiness of crowd-sourced annotations and the costs of expert annotations, they’ve found that using GPT-4 to compare two responses works better. Depending on the complexity of the queries, generating 10,000 comparisons using GPT-4 would cost only $200 - 500, making this very affordable for companies that want to test it out.  
+  - [Predictive Human Preference(PHP)](https://huyenchip.com/2024/02/28/predictive-human-preference.html) / **Conclusion:** "LMSYS folks told me that due to the noisiness of crowd-sourced annotations and the costs of expert annotations, they’ve found that using GPT-4 to compare two responses works better. Depending on the complexity of the queries, generating 10,000 comparisons using GPT-4 would cost only $200 - 500, making this very affordable for companies that want to test it out."  
 
 - [SWE-bench coding benchmark](https://www.swebench.com/)
 - [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
