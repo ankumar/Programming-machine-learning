@@ -9,7 +9,7 @@ Common LLM workloads
 Agent, Reasoning, Chat, RAG, few-shot benchmark,  
 Freshness  
 Rankings by domain  
-From claude 3 model card - Coding, Creative Writing, Instruction-following, Long Document Q&A  
+From [claude 3 model card](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf) Coding, Creative Writing, Instruction-following, Long Document Q&A  
 
 - [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
   - [LLM Judge](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)
