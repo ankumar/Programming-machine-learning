@@ -48,7 +48,7 @@
 - []()
 
 ## Training
-- [SkyPilot: A framework for running ML and batch jobs on any cloud cost-effectively](https://github.com/skypilot-org))
+- [SkyPilot: A framework for running ML and batch jobs on any cloud cost-effectively](https://github.com/skypilot-org)
 - []()
 - []()
 
