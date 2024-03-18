@@ -19,11 +19,9 @@
 - [Artificial Analysis](https://artificialanalysis.ai/)
 
 ## "Open" vs Closed Models  
-- weights
-- training and inference code
-- data
-- evaluation
-  - [OLMo](https://allenai.org/olmo) / [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
+Weights, Training & Inference Code, Data & Evaluation  
+- [OLMo](https://allenai.org/olmo) / [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
+
 ---
 - [Llama](https://llama.meta.com/)
 - [Gemma](https://opensource.googleblog.com/2024/02/building-open-models-responsibly-gemini-era.html)
