@@ -1,9 +1,9 @@
 ## Leaderboards, Benchmarks & Evaluations
 
 We don't know how to measure LLM abilities well. Most tests are groups of multiple choice questions, tasks, or trivia - they don't represent real world uses well, they are subject to gaming & results are impacted by prompt design in unknown ways. Or they use human preference.  
-non-trivial / Taxonomy in real-world / Starting with clear domains  
-language  
-coding  
+Non-trivial / Taxonomy in real-world / Starting with clear domains  
+Language  
+Coding  
 Multimodal (images and video)  
 Common LLM workloads  
 Agent, Reasoning, Chat, RAG, few-shot benchmark,  
