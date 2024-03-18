@@ -30,10 +30,9 @@ Common LLM workloads:
 - [Functional Benchmarks and the Reasoning Gap](https://github.com/ConsequentAI/fneval)
 - [CodeMind is a generic framework for evaluating inductive code reasoning of LLMs. It is equipped with a static analysis component that enables in-depth analysis of the results.](https://github.com/Intelligent-CAT-Lab/CodeMind)
 - [OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement](https://github.com/OpenCodeInterpreter)
-- [OpenAI Evals](https://github.com/withmartian/martian-evals)
 - [Yet Another Applied LLM Benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark)
 - [We’re doing cutting edge research for transparent, auditable AI alignment](https://www.synthlabs.ai/)
-"Current methods of “alignment” are insufficient;evaluations are even worse. Human intent reflects a rich tapestry of preferences, collapsed by uniform models. AI`s potential hinges on trust, from interpretable data to every layer built upon it. Informed decisions around risk are not binary. Training on raw human data doesn’t scale. Your models should adapt and scale, automatically."  
+"Current methods of “alignment” are insufficient;evaluations are even worse. Human intent reflects a rich tapestry of preferences, collapsed by uniform models. AI`s potential hinges on trust, from interpretable data to every layer built upon it. Informed decisions around risk are not binary. Training on raw human data doesn’t scale. Your models should adapt and scale, automatically." -> [Suppressing Pink Elephants with Direct Principle Feedback](https://arxiv.org/abs/2402.07896)
 
 - []()
 
@@ -42,10 +41,17 @@ Common LLM workloads:
 - [Artificial Analysis](https://artificialanalysis.ai/)
 
 --
-- [Martian Model Router](https://docs.withmartian.com/martian-model-router)
-- [Intelligent Language Model Router(https://docs.pulze.ai/overview/introductions)
+
+- [OpenAI Evals](https://github.com/openai/evals)
+- [Martian Model Router](https://docs.withmartian.com/martian-model-router) / [OpenAI Evals](https://github.com/withmartian/martian-evals)
+- [Intelligent Language Model Router](https://docs.pulze.ai/overview/introductions)
 - [Evaluate-Iterate-Improve](https://github.com/uptrain-ai/uptrain)
 - [Open-Source Evaluation for GenAI Application Pipelines](https://github.com/relari-ai/continuous-eval)
+
+--
+
+- [A large-scale, fine-grained, diverse preference dataset](https://github.com/OpenBMB/UltraFeedback)
+- [Generate Synthetic Data Using OpenAI, MistralAI or AnthropicAI](https://github.com/migtissera/Sensei)
 
 ## "Open" vs Closed Models  
 
