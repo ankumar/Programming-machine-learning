@@ -48,7 +48,7 @@
 - []()
 
 ## Training
-- []()
+- [SkyPilot: A framework for running ML and batch jobs on any cloud cost-effectively](https://github.com/skypilot-org))
 - []()
 - []()
 
@@ -131,4 +131,4 @@ A best place to learn all in one place https://huggingface.co/docs & [Open-Sourc
 - [Easily use and train state of the art retrieval methods in any RAG pipeline. Designed for modularity and ease-of-use, backed by research](https://github.com/bclavie/RAGatouille)
 - [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
 - [Data Provenance Explorer](https://dataprovenance.org/)
-- [SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface](https://github.com/skypilot-org)
+
