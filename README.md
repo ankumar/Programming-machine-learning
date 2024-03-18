@@ -60,6 +60,7 @@ Common LLM workloads:
 
 ---
 - [Llama](https://llama.meta.com/)
+  - [Discover the possibilities of building on Llama](https://llama.meta.com/community-stories/)
 - [Gemma](https://opensource.googleblog.com/2024/02/building-open-models-responsibly-gemini-era.html)
 - [Grok open release](https://github.com/xai-org/grok-1)
 - [Robust recipes to align language models with human and AI preferences](https://github.com/huggingface/alignment-handbook)
