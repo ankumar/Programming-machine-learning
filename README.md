@@ -46,14 +46,14 @@ Weights, Training & Inference Code, Data & Evaluation
 - []()
 
 ## Training
-Abstract away cloud infra burdens, Launch jobs & clusters on any cloud, Maximize GPU usage  
+abstract away cloud infra burdens, Launch jobs & clusters on any cloud, Maximize GPU usage  
 - [SkyPilot: A framework for running ML and batch jobs on any cloud cost-effectively](https://github.com/skypilot-org)
 - []()
 - []()
 
 ## Compound AI Systems
-
-- []()
+state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models  
+- [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 - [ALTO: An Efficient Network Orchestrator for Compound AI Systems](https://arxiv.org/pdf/2403.04311.pdf)
 - []()
 - []()
