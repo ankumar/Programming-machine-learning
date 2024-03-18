@@ -1,4 +1,16 @@
 ## Leaderboards, Benchmarks & Evaluations
+
+We don't know how to measure LLM abilities well. Most tests are groups of multiple choice questions, tasks, or trivia - they don't represent real world uses well, they are subject to gaming & results are impacted by prompt design in unknown ways. Or they use human preference.  
+non-trivial / Taxonomy in real-world / Starting with clear domains  
+language  
+coding  
+Multimodal (images and video)  
+Common LLM workloads  
+Agent, Reasoning, Chat, RAG, few-shot benchmark,  
+Freshness  
+Rankings by domain  
+From claude 3 model card - Coding, Creative Writing, Instruction-following, Long Document Q&A  
+
 - [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
   - [LLM Judge](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)
 - [SWE-bench coding benchmark](https://www.swebench.com/)
@@ -19,6 +31,7 @@
 - [Artificial Analysis](https://artificialanalysis.ai/)
 
 ## "Open" vs Closed Models  
+
 Weights, Training & Inference Code, Data & Evaluation  
 - [OLMo](https://allenai.org/olmo) / [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
 
