@@ -58,8 +58,6 @@ state-of-the-art AI results are increasingly obtained by compound systems with m
 - []()
 - []()
 
-## GPTs
-
 ### Prompt
 - [Anthropic Prompt library](https://docs.anthropic.com/claude/prompt-library)
 - [Prompt Engineering with Llama 2](https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb)
