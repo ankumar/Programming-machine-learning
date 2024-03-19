@@ -84,9 +84,9 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 - []()
 - []()
-- [PeoplePlusAI - Where AI meets people and purpose](https://github.com/PeoplePlusAI)
 - [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
 - [Little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
+- [PeoplePlusAI - Where AI meets people and purpose](https://github.com/PeoplePlusAI)
 
 ### Inferencing
 
