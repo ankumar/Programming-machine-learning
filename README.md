@@ -116,8 +116,8 @@ Non-trivial Taxonomy in real-world, Starting with clear domains;Common LLM workl
 - [Stanford DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
 - [Stanford NLP Python Library for Understanding and Improving PyTorch Models via Interventions](https://github.com/stanfordnlp/pyvene)
 
-### Scripting
-- [LangChain OpenGPTs](https://github.com/langchain-ai/opengpts)
+### Frameworks & Scripting
+- [LangChain OpenGPTs](https://github.com/langchain-ai/opengpts) / [Elixir implementation of a LangChain style framework](https://github.com/brainlid/langchain) / [LangChain for Go](https://github.com/tmc/langchaingo)
 - [GPTScript](https://github.com/gptscript-ai/gptscript)
 -
 
