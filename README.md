@@ -17,8 +17,8 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 4) Coding - "Code a login component in React"
 5) Freshness - "What was the Warriors game score last night?"  
 6) Agent - Web Agents -> https://turkingbench.github.io/
-7) Reasoning? 
-8) Multimodal (images and video)  
+7) Multimodal (images and video)
+8) Reasoning? 
 
 - [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
   - [LLM Judge](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)
