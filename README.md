@@ -4,11 +4,9 @@
 
 ![Attention Timeline](https://github.com/ankumar/awesome-llm-architectures/assets/658791/6c70defb-8a21-4397-ba13-2b49783f0bb5)
 
-# Hardware
+## Hardware
 
 - [Trying to Build commodity ~petaflop compute node](https://tinygrad.org/) / https://x.com/karpathy/status/1770164518758633590?s=20
-
-# Software
 
 ## Leaderboards, Benchmarks & Evaluations
 
