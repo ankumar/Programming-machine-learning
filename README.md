@@ -71,8 +71,6 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 
 ### "Open" vs Closed Models  
 
-**1)** Inflection will likely be the first of many VC-backed Foundation Model companies to fail. Foundation models without proprietary, real-time data AND massive distribution for RLHF are the fastest depreciating assets in history. Full Thread: https://twitter.com/GavinSBaker/status/1770161261533331606
-
 **Weights, Training & Inference Code, Data & Evaluation**  
 - [OLMo](https://allenai.org/olmo) / [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
 
