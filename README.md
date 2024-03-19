@@ -12,7 +12,7 @@ Non-trivial Taxonomy in real-world, Starting with clear domains;Common LLM workl
 3) Freshness - "What was the Warriors game score last night?"  
 4) Multimodal (images and video)  
 5) Agent, Reasoning, Chat, RAG, few-shot benchmark,  
-6) From [claude 3 model card](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf) Coding, Creative Writing, Instruction-following, Long Document Q&A
+6) In [claude 3 model card](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf) Coding, Creative Writing, Instruction-following, Long Document Q&A
 7) Rankings by domain -> https://huggingface.co/models -> **Tasks** & **Languages**
 
 - [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
