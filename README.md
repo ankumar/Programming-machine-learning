@@ -6,18 +6,15 @@
 
 **We don't know how to measure LLM abilities well. Most tests are groups of multiple choice questions, tasks, or trivia - they don't represent real world uses well, they are subject to gaming & results are impacted by prompt design in unknown ways. Or they use human preference.**   
 
-Non-trivial Taxonomy in real-world  
-
-Starting with clear domains  
+Non-trivial Taxonomy in real-world;Starting with clear domains  
+Common LLM workloads:  
 1) Language  
 2) Coding - "Code a login component in React"
-3) Multimodal (images and video)  
-
-Common LLM workloads:  
-1) Agent, Reasoning, Chat, RAG, few-shot benchmark,  
-2) Freshness - "What was the Warriors game score last night?"  
-3) From [claude 3 model card](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf) Coding, Creative Writing, Instruction-following, Long Document Q&A
-4) Rankings by domain   
+3) Freshness - "What was the Warriors game score last night?"  
+4) Multimodal (images and video)  
+5) Agent, Reasoning, Chat, RAG, few-shot benchmark,  
+6) From [claude 3 model card](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf) Coding, Creative Writing, Instruction-following, Long Document Q&A
+7) Rankings by domain -> https://huggingface.co/models -> **Tasks** & **Languages**
 
 - [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
   - [LLM Judge](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)
