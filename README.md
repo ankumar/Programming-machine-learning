@@ -57,7 +57,14 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 - [A large-scale, fine-grained, diverse preference dataset](https://github.com/OpenBMB/UltraFeedback)
 - [Generate Synthetic Data Using OpenAI, MistralAI or AnthropicAI](https://github.com/migtissera/Sensei)
 
-## "Open" vs Closed Models  
+## Compound AI Systems
+
+**state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models**  
+
+- [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
+- [ALTO: An Efficient Network Orchestrator for Compound AI Systems](https://arxiv.org/pdf/2403.04311.pdf)
+
+### "Open" vs Closed Models  
 
 **Weights, Training & Inference Code, Data & Evaluation**  
 - [OLMo](https://allenai.org/olmo) / [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
@@ -76,7 +83,7 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 - [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
 - [Little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
 
-## Inferencing
+### Inferencing
 
 - [Text Generation Inference](https://huggingface.co/docs/text-generation-inference/index)
 - [vLLM](https://github.com/vllm-project/vllm)
@@ -87,24 +94,12 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 - []()
 - []()
 
-## Training
+### Training
 
 **abstract away cloud infra burdens, Launch jobs & clusters on any cloud, Maximize GPU usage**  
 - [SkyPilot: A framework for running ML and batch jobs on any cloud cost-effectively](https://github.com/skypilot-org)
 - []()
 - []()
-
-## Compound AI Systems
-
-**state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models**  
-
-- [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
-- [ALTO: An Efficient Network Orchestrator for Compound AI Systems](https://arxiv.org/pdf/2403.04311.pdf)
-- []()
-- []()
-
-- []()
-
 
 ### Prompt
 - [Anthropic Prompt library](https://docs.anthropic.com/claude/prompt-library)
