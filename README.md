@@ -1,3 +1,6 @@
+![Attention Timeline](https://github.com/ankumar/awesome-llm-architectures/assets/658791/6c70defb-8a21-4397-ba13-2b49783f0bb5)
+
+
 ## Leaderboards, Benchmarks & Evaluations
 
 - [Artificial Analysis](https://artificialanalysis.ai/)
