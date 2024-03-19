@@ -8,7 +8,7 @@
 
 Non-trivial Taxonomy in real-world;Starting with clear domains  
 Common LLM workloads:  
-1) Language  
+1) Languages  
 2) Coding - "Code a login component in React"
 3) Freshness - "What was the Warriors game score last night?"  
 4) Multimodal (images and video)  
