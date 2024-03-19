@@ -73,7 +73,8 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 **Weights, Training & Inference Code, Data & Evaluation**  
 - [OLMo](https://allenai.org/olmo) / [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
 
----
+--
+
 - [Llama](https://llama.meta.com/)
   - [Discover the possibilities of building on Llama](https://llama.meta.com/community-stories/)
 - [Gemma](https://opensource.googleblog.com/2024/02/building-open-models-responsibly-gemini-era.html)
