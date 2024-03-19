@@ -35,6 +35,7 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 - [Beyond Probabilities: Unveiling the Misalignment in Evaluating Large Language Models](https://arxiv.org/abs/2402.13887)  
 
 - [SWE-bench coding benchmark](https://www.swebench.com/)
+  - [SWE-bench Lite](https://www.swebench.com/lite) 
 - [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 - [A holistic framework for evaluating foundation models](https://crfm.stanford.edu/helm/lite/latest/)
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
