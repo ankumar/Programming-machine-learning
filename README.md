@@ -1,5 +1,8 @@
 <p align="center">
   <img src="https://github.com/ankumar/awesome-llm-architectures/assets/658791/6c70defb-8a21-4397-ba13-2b49783f0bb5" alt="Attention Timeline" width="400"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/ankumar/awesome-llm-architectures/assets/658791/d5c14f6e-8242-4a64-b721-82f2944f3241" alt="United States Patent" width="400"/> 
   <img src="https://github.com/ankumar/awesome-llm-architectures/assets/658791/bc4e7567-bddf-4a6c-9b96-236067a6bf71" alt="Neural Network System" width="400"/> 
 </p>
