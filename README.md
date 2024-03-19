@@ -12,12 +12,13 @@
 Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM workloads:  
 
 1) Languages - Rankings by domain -> https://huggingface.co/models -> **Tasks** & **Languages**
-2) Coding - "Code a login component in React"
-3) Freshness - "What was the Warriors game score last night?"  
-4) Multimodal (images and video)  
-5) Agent - Web Agents -> https://turkingbench.github.io/
-6) Reasoning, Chat, RAG, few-shot benchmark,  
-7) In [claude 3 model card](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf) Coding, Creative Writing, Instruction-following, Long Document Q&A
+2) Model Card - [claude 3 model card](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf) Coding, Creative Writing, Instruction-following, Long Document Q&A
+3) Chat, RAG, few-shot benchmark, etc.  
+4) Coding - "Code a login component in React"
+5) Freshness - "What was the Warriors game score last night?"  
+6) Agent - Web Agents -> https://turkingbench.github.io/
+7) Reasoning? 
+8) Multimodal (images and video)  
 
 - [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
   - [LLM Judge](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)
