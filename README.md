@@ -9,7 +9,7 @@
 
 **We don't know how to measure LLM abilities well. Most tests are groups of multiple choice questions, tasks, or trivia - they don't represent real world uses well, they are subject to gaming & results are impacted by prompt design in unknown ways. Or they use human preference.**   
 
-Non-trivial Taxonomy in real-world, Starting with clear domains;Common LLM workloads:  
+Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM workloads:  
 1) Languages  
 2) Coding - "Code a login component in React"
 3) Freshness - "What was the Warriors game score last night?"  
