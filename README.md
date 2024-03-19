@@ -110,6 +110,15 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 - [Anthropic Prompt library](https://docs.anthropic.com/claude/prompt-library)
 - [Prompt Engineering with Llama 2](https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb)
 - 
+  
+### Programming—not prompting—Language Models
+- [Stanford DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
+- [Stanford NLP Python Library for Understanding and Improving PyTorch Models via Interventions](https://github.com/stanfordnlp/pyvene)
+
+### Frameworks & Scripting
+- [LangChain OpenGPTs](https://github.com/langchain-ai/opengpts) / [Elixir implementation of a LangChain style framework](https://github.com/brainlid/langchain) / [LangChain for Go](https://github.com/tmc/langchaingo)
+- [GPTScript](https://github.com/gptscript-ai/gptscript)
+-
 
 ### Hugging Face Chat UI
 - [Chat UI](https://github.com/huggingface/chat-ui)  
@@ -122,15 +131,6 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
   - [Prompt Playground](https://sdk.vercel.ai/prompt) Like Chatbot Arena https://chat.lmsys.org/
   - [AI SDK](https://sdk.vercel.ai/)
   - [v0](https://v0.dev/)
-  
-### Programming—not prompting—Language Models
-- [Stanford DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
-- [Stanford NLP Python Library for Understanding and Improving PyTorch Models via Interventions](https://github.com/stanfordnlp/pyvene)
-
-### Frameworks & Scripting
-- [LangChain OpenGPTs](https://github.com/langchain-ai/opengpts) / [Elixir implementation of a LangChain style framework](https://github.com/brainlid/langchain) / [LangChain for Go](https://github.com/tmc/langchaingo)
-- [GPTScript](https://github.com/gptscript-ai/gptscript)
--
 
 ## Standards
 - [Establishing industry wide AI best practices and standards for AI Engineers](https://github.com/AI-Engineer-Foundation)
