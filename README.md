@@ -11,7 +11,7 @@
 
 ## Leaderboards, Benchmarks & Evaluations
 
-[Artificial Analysis](https://artificialanalysis.ai/)
+[**Artificial** Analysis](https://artificialanalysis.ai/)
 
 --
 
@@ -109,20 +109,27 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 - []()
 
 ### Prompt
+
 - [Anthropic Prompt library](https://docs.anthropic.com/claude/prompt-library)
 - [Prompt Engineering with Llama 2](https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb)
 - 
   
 ### Programming—not prompting—Language Models
+
+**Artificial** Programmable Intelligence?
+
 - [Stanford DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
+
 - [Stanford NLP Python Library for Understanding and Improving PyTorch Models via Interventions](https://github.com/stanfordnlp/pyvene)
 
 ### Frameworks & Scripting
+
 - [LangChain OpenGPTs](https://github.com/langchain-ai/opengpts) / [Elixir implementation of a LangChain style framework](https://github.com/brainlid/langchain) / [LangChain for Go](https://github.com/tmc/langchaingo)
 - [GPTScript](https://github.com/gptscript-ai/gptscript)
 -
 
 ### Hugging Face Chat UI
+
 - [Chat UI](https://github.com/huggingface/chat-ui)  
   - [Hugging Face's Chat Assistants](https://huggingface.co/chat/assistants)
   - [Open source implementation of the OpenAI 'data analysis mode' (aka ChatGPT + Python execution) based on Mistral-7B](https://github.com/xingyaoww/code-act) / [Hugging Face for Chat UI, ProjectJupyter for code executor](https://chat.xwang.dev)
