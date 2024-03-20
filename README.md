@@ -4,16 +4,16 @@
 
 ![Attention Timeline](https://github.com/ankumar/awesome-llm-architectures/assets/658791/6c70defb-8a21-4397-ba13-2b49783f0bb5)
 
+[**Artificial** Analysis](https://artificialanalysis.ai/)  
+
+**Artificial** Programmable Intelligence?
+
 ## Hardware
 
 - [Trying to Build commodity ~petaflop compute node](https://tinygrad.org/) / https://x.com/karpathy/status/1770164518758633590?s=20
 - [NVIDIA](https://nvdam.widen.net/s/xqt56dflgh/nvidia-blackwell-architecture-technical-brief)
 
 ## Leaderboards, Benchmarks & Evaluations
-
-[**Artificial** Analysis](https://artificialanalysis.ai/)
-
---
 
 **We don't know how to measure LLM abilities well. Most tests are groups of multiple choice questions, tasks, or trivia - they don't represent real world uses well, they are subject to gaming & results are impacted by prompt design in unknown ways. Or they use human preference.**   
 
@@ -115,8 +115,6 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 - 
   
 ### Programming—not prompting—Language Models
-
-**Artificial** Programmable Intelligence?
 
 - [Stanford DSPy: The framework for programming—not prompting—foundation models](https://github.com/stanfordnlp/dspy)
 
