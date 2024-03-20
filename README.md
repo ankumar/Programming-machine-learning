@@ -185,6 +185,8 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 
 **A best place to learn all in one place** https://huggingface.co/docs & [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index)
 
+- [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/README.md)
+
 - [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
   - [Byte Pair Encoding: building the GPT tokenizer with Karpathy](https://francescopochetti.com/byte-pair-encoding-building-the-gpt-tokenizer-with-karpathy/)
 
@@ -199,6 +201,7 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 - [Easily use and train state of the art retrieval methods in any RAG pipeline. Designed for modularity and ease-of-use, backed by research](https://github.com/bclavie/RAGatouille)
 - [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
 - [Data Provenance Explorer](https://dataprovenance.org/)
+- 
 
 --
 
