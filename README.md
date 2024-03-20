@@ -129,14 +129,19 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 - [GPTScript](https://github.com/gptscript-ai/gptscript)
 -
 
-### Hugging Face Chat UI
+### UI/UX
 
+#### Hugging Face
+
+- [Demo your machine learning model](https://www.gradio.app/)
+  
 - [Chat UI](https://github.com/huggingface/chat-ui)  
   - [Hugging Face's Chat Assistants](https://huggingface.co/chat/assistants)
   - [Open source implementation of the OpenAI 'data analysis mode' (aka ChatGPT + Python execution) based on Mistral-7B](https://github.com/xingyaoww/code-act) / [Hugging Face for Chat UI, ProjectJupyter for code executor](https://chat.xwang.dev)
+
 - [Tokenizer Playground - How different models tokenize text](https://huggingface.co/spaces/Xenova/the-tokenizer-playground)
 
-### Vercel Generative UI
+#### Vercel
 - [AI RSC Demo](https://sdk.vercel.ai/demo)
   - [Prompt Playground](https://sdk.vercel.ai/prompt) Like Chatbot Arena https://chat.lmsys.org/
   - [AI SDK](https://sdk.vercel.ai/)
