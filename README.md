@@ -3,8 +3,7 @@
 ![GD7LKuvCY5w8OtmsOMASxS5mpCBUvkGdXxeYMSSYx3ZrOogCkN0GOdoBvCD5DK-1t64R31RpIJhUMYAhmRQJb7KuK1rFLSRiVPGXfPGrwQxorwybqc7rE-F7nVTH](https://github.com/ankumar/awesome-llm-architectures/assets/658791/bc4e7567-bddf-4a6c-9b96-236067a6bf71)
 
 ![Attention Timeline](https://github.com/ankumar/awesome-llm-architectures/assets/658791/6c70defb-8a21-4397-ba13-2b49783f0bb5)
-
-Application Programming Interfaces (APIs) are at the heart of all internet software + Foundational Models APIs [**Artificial** Analysis](https://artificialanalysis.ai/). What's **Artificial** Programming Intelligence ?  
+Application Programming Interfaces (APIs) are at the heart of all internet software + Foundational Models APIs [**Artificial** Analysis](https://artificialanalysis.ai/). This is an exploration of **Artificial** Programming Intelligence.  
 
 --
 
