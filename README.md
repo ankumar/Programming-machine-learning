@@ -6,7 +6,7 @@
 
 Application Programming Interfaces (APIs) are at the heart of all internet software 
 
--> **Artificial** Programmable Intelligence ?
+-> **Artificial** Programmable Intelligence ?  
 -> [**Artificial** Analysis](https://artificialanalysis.ai/)  
 
 --
