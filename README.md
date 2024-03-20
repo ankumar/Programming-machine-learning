@@ -6,7 +6,7 @@
 
 [**Artificial** Analysis](https://artificialanalysis.ai/)  
 
-APIs, **Artificial** Programmable Intelligence 
+Application Programming Interfaces(APIs) -> What's **Artificial** Programmable Intelligence ?
 
 --
 
