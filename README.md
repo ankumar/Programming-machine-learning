@@ -4,9 +4,8 @@
 
 ![Attention Timeline](https://github.com/ankumar/awesome-llm-architectures/assets/658791/6c70defb-8a21-4397-ba13-2b49783f0bb5)
 
-Application Programming Interfaces (APIs) are at the heart of all internet software 
+Application Programming Interfaces (APIs) are at the heart of all internet software + Foundational Models APIs. What's **Artificial** Programming Intelligence ?  
 
--> **Artificial** Programmable Intelligence ?  
 -> [**Artificial** Analysis](https://artificialanalysis.ai/)  
 
 --
