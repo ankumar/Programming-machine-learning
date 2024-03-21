@@ -82,8 +82,13 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 - [Robust recipes to align language models with human and AI preferences](https://github.com/huggingface/alignment-handbook)
 - [A natural language interface for computers](https://github.com/KillianLucas/open-interpreter)
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin)
+
+The successful art of model merging is often based purely on experience and intuition of a passionate model hacker, best illustrated in the above tweet by Omar Sanseviero. In fact, the current Open LLM Leaderboard is dominated by merged models. Surprisingly, merged models work without any additional training, making it very cost-effective (no GPUs required at all!), and so many people, researchers, hackers, and hobbyists alike, are trying this to create the best models for their purposes. If you want to learn more about model merging, we recommend reading this article by Maxime Labonne.
+- [Evolving New Foundation Models: Unleashing the Power of Automating Model Development](https://sakana.ai/evolutionary-model-merge/)
+
+
 - []()
-- []()
+
 - [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
 - [Little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
 - [PeoplePlusAI - Where AI meets people and purpose](https://github.com/PeoplePlusAI)
