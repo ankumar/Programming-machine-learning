@@ -1,7 +1,3 @@
-![(12) United States Patent](https://github.com/ankumar/awesome-llm-architectures/assets/658791/d5c14f6e-8242-4a64-b721-82f2944f3241) 
-
-![GD7LKuvCY5w8OtmsOMASxS5mpCBUvkGdXxeYMSSYx3ZrOogCkN0GOdoBvCD5DK-1t64R31RpIJhUMYAhmRQJb7KuK1rFLSRiVPGXfPGrwQxorwybqc7rE-F7nVTH](https://github.com/ankumar/awesome-llm-architectures/assets/658791/bc4e7567-bddf-4a6c-9b96-236067a6bf71)
-
 ![Attention Timeline](https://github.com/ankumar/awesome-llm-architectures/assets/658791/6c70defb-8a21-4397-ba13-2b49783f0bb5)
 Application Programming Interfaces (APIs) are at the heart of all internet software. With the availability of Foundational Model [**APIs - Artificial Analysis**](https://artificialanalysis.ai/) An exploration of **Artificial** Programming Intelligence.  
 
@@ -183,6 +179,10 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 - []()
 
 ## Learning
+
+![(12) United States Patent](https://github.com/ankumar/awesome-llm-architectures/assets/658791/d5c14f6e-8242-4a64-b721-82f2944f3241) 
+
+![GD7LKuvCY5w8OtmsOMASxS5mpCBUvkGdXxeYMSSYx3ZrOogCkN0GOdoBvCD5DK-1t64R31RpIJhUMYAhmRQJb7KuK1rFLSRiVPGXfPGrwQxorwybqc7rE-F7nVTH](https://github.com/ankumar/awesome-llm-architectures/assets/658791/bc4e7567-bddf-4a6c-9b96-236067a6bf71)
 
 **A best place to learn all in one place** https://huggingface.co/docs & [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index)
 
