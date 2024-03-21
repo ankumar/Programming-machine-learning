@@ -2,7 +2,7 @@
 Application Programming Interfaces (APIs) are at the heart of all internet software. With the growing availability of Foundational Model [**APIs**](https://artificialanalysis.ai/) 
 
 - [Javelin HuggingChat](https://hf.co/chat/assistant/65bdbbf7f10680b82361aa45)
-- [Javelin OpenAI GPT (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
+- [OpenAI GPT Actions with Javelin APIs (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
 
 --
 
