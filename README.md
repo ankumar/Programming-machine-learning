@@ -180,10 +180,6 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 
 ## Learning
 
-![(12) United States Patent](https://github.com/ankumar/awesome-llm-architectures/assets/658791/d5c14f6e-8242-4a64-b721-82f2944f3241) 
-
-![GD7LKuvCY5w8OtmsOMASxS5mpCBUvkGdXxeYMSSYx3ZrOogCkN0GOdoBvCD5DK-1t64R31RpIJhUMYAhmRQJb7KuK1rFLSRiVPGXfPGrwQxorwybqc7rE-F7nVTH](https://github.com/ankumar/awesome-llm-architectures/assets/658791/bc4e7567-bddf-4a6c-9b96-236067a6bf71)
-
 **A best place to learn all in one place** https://huggingface.co/docs & [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index)
 
 - [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/README.md)
@@ -205,6 +201,9 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 - 
 
 --
+![(12) United States Patent](https://github.com/ankumar/awesome-llm-architectures/assets/658791/d5c14f6e-8242-4a64-b721-82f2944f3241) 
+
+![GD7LKuvCY5w8OtmsOMASxS5mpCBUvkGdXxeYMSSYx3ZrOogCkN0GOdoBvCD5DK-1t64R31RpIJhUMYAhmRQJb7KuK1rFLSRiVPGXfPGrwQxorwybqc7rE-F7nVTH](https://github.com/ankumar/awesome-llm-architectures/assets/658791/bc4e7567-bddf-4a6c-9b96-236067a6bf71)
 
 - [Foundation models](https://docs.google.com/document/d/1POj8OKdKRYYnhPF_OwPVpCnv-xVGkYCS0Hw_OmOUNRo/edit?usp=sharing)
 
