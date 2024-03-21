@@ -7,7 +7,7 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 - [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 - [ALTO: An Efficient Network Orchestrator for Compound AI Systems](https://arxiv.org/pdf/2403.04311.pdf)
 
-**Unified** Foundational Model API:
+**Unified** "Gateway" API:
 
 ![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/b8a570ce-efe2-494e-9f25-f223e36a19c2)
 Source: https://docs.konghq.com/gateway/latest/get-started/ai-gateway/
