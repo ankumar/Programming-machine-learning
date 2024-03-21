@@ -1,13 +1,15 @@
 ![Attention Timeline](https://github.com/ankumar/awesome-llm-architectures/assets/658791/6c70defb-8a21-4397-ba13-2b49783f0bb5)
 Application Programming Interfaces (APIs) are at the heart of all internet software. With the growing availability of Foundational Model [**APIs**](https://artificialanalysis.ai/) 
 
-- [Javelin APIs - OpenAI GPT Actions Integrations(**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
+## Compound AI Systems
+
+**state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models**  
+- [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
+- [ALTO: An Efficient Network Orchestrator for Compound AI Systems](https://arxiv.org/pdf/2403.04311.pdf)
+
+**Unified** Foundational Model API:
+- [Javelin AI Gateway - OpenAI GPT Actions Integrations(**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
 - [HuggingChat](https://hf.co/chat/assistant/65bdbbf7f10680b82361aa45)
-
---
-
-- []()
-- []()
 
 ## Hardware
 
@@ -63,13 +65,6 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 
 - [A large-scale, fine-grained, diverse preference dataset](https://github.com/OpenBMB/UltraFeedback)
 - [Generate Synthetic Data Using OpenAI, MistralAI or AnthropicAI](https://github.com/migtissera/Sensei)
-
-## Compound AI Systems
-
-**state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models**  
-
-- [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
-- [ALTO: An Efficient Network Orchestrator for Compound AI Systems](https://arxiv.org/pdf/2403.04311.pdf)
 
 ### "Open" vs Closed Models  
 
