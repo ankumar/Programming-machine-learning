@@ -75,7 +75,7 @@ Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM wor
 - [A large-scale, fine-grained, diverse preference dataset](https://github.com/OpenBMB/UltraFeedback)
 - [Generate Synthetic Data Using OpenAI, MistralAI or AnthropicAI](https://github.com/migtissera/Sensei)
 
-### "Open" vs Closed Models  
+### "Open" & Closed Models  
 
 **Weights, Training & Inference Code, Data & Evaluation**  
 - [OLMo](https://allenai.org/olmo) / [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
