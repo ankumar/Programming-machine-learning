@@ -10,7 +10,7 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 **Unified** Foundational Model API:
 
 ![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/b8a570ce-efe2-494e-9f25-f223e36a19c2)
-- Source: https://docs.konghq.com/gateway/latest/get-started/ai-gateway/
+Source: https://docs.konghq.com/gateway/latest/get-started/ai-gateway/
 
 - [Javelin AI Gateway <-> OpenAI GPT Actions (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
 - [HuggingChat](https://hf.co/chat/assistant/65bdbbf7f10680b82361aa45)
