@@ -11,7 +11,7 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 - [Javelin AI Gateway <-> OpenAI GPT Actions (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
 - [HuggingChat](https://hf.co/chat/assistant/65bdbbf7f10680b82361aa45)
 
-## Hardware
+## Hardware & Accelerators
 
 - [Trying to Build commodity ~petaflop compute node](https://tinygrad.org/) / https://x.com/karpathy/status/1770164518758633590?s=20
 - NVIDIA: Hopper -> [Blackwell](https://nvdam.widen.net/s/xqt56dflgh/nvidia-blackwell-architecture-technical-brief)
