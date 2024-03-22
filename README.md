@@ -4,8 +4,12 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 
 ## Compound AI Systems
 
-**Unified execution engine:** **state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models**  
-- [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
+**Unified execution engine:** 
+
+**state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models**  
+[The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
+
+
 - [ALTO: An Efficient Network Orchestrator for Compound AI Systems](https://arxiv.org/pdf/2403.04311.pdf)
 
 **Big Picture:** In the ever-evolving cloud computing landscape, understanding the Gateway API is crucial for those using Kubernetes. This API enhances application traffic management, offering better routing and security. For seamless integration of AI into cloud-native applications, Javelin emerges as a robust framework, streamlining the deployment and management of AI-driven solutions. Dive into the Gateway API for insights and explore Use Cases for cutting-edge application management.
