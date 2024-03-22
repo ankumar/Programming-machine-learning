@@ -4,25 +4,32 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 
 ## Compound AI Systems
 
-**Unified execution engine:** 
-
 **state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models**  
 [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 
-
 - [ALTO: An Efficient Network Orchestrator for Compound AI Systems](https://arxiv.org/pdf/2403.04311.pdf)
+
+**1. "AI ROUTE":** 
 
 **Big Picture:** In the ever-evolving cloud computing landscape, understanding the Gateway API is crucial for those using Kubernetes. This API enhances application traffic management, offering better routing and security. For seamless integration of AI into cloud-native applications, Javelin emerges as a robust framework, streamlining the deployment and management of AI-driven solutions. Dive into the Gateway API for insights and explore Use Cases for cutting-edge application management.
 
 ![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/73be23c5-6812-42c6-822c-2bec13ffce52)
 
+Example #1:
 ![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/b8a570ce-efe2-494e-9f25-f223e36a19c2)
 Source: https://docs.konghq.com/gateway/latest/get-started/ai-gateway/
+
+**2. Unified execution engine:** 
 
 **Gateway API Concepts:** https://gateway-api.sigs.k8s.io/
 **Use Cases:** https://gateway-api.sigs.k8s.io/#use-cases
 - [Javelin AI Gateway <-> OpenAI GPT Actions (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
 - [HuggingChat](https://hf.co/chat/assistant/65bdbbf7f10680b82361aa45)
+
+
+**2. Unified execution engine:** 
+
+</>
 
 ## Hardware & Accelerators
 
