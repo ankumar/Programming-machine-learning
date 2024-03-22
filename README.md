@@ -1,4 +1,8 @@
 ![Attention Timeline](https://github.com/ankumar/awesome-llm-architectures/assets/658791/6c70defb-8a21-4397-ba13-2b49783f0bb5)
+
+Artificial intelligence has recently experienced remarkable advances, fueled by large models, vast datasets, accelerated hardware, and, last but not least, the transformative power of differentiable programming. This new programming paradigm enables end-to-end differentiation of complex computer programs (including those with control flows and data structures), making gradient-based optimization of program parameters possible.
+https://arxiv.org/pdf/2403.14606.pdf
+
 Application Programming Interfaces (APIs) are at the heart of all internet software, evolving with Foundational Model [**APIs**](https://artificialanalysis.ai/). An Exploration of **Artificial** Programming **Intelligence** 
  ...
 
