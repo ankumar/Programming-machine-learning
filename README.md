@@ -211,6 +211,8 @@ The successful art of model merging is often based purely on experience and intu
 
 **A best place to learn all in one place** https://huggingface.co/docs & [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index)
 
+- [The Elements of Differentiable Programming](https://arxiv.org/pdf/2403.14606.pdf)
+
 - [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/README.md)
 
 - [Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization](https://github.com/karpathy/minbpe)
