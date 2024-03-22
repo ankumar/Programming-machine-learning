@@ -227,8 +227,6 @@ The successful art of model merging is often based purely on experience and intu
 
 --
 
-![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/ea68e65a-4357-4cfb-9fff-d35a6f47984c)
-
 ![(12) United States Patent](https://github.com/ankumar/awesome-llm-architectures/assets/658791/d5c14f6e-8242-4a64-b721-82f2944f3241) 
 
 ![GD7LKuvCY5w8OtmsOMASxS5mpCBUvkGdXxeYMSSYx3ZrOogCkN0GOdoBvCD5DK-1t64R31RpIJhUMYAhmRQJb7KuK1rFLSRiVPGXfPGrwQxorwybqc7rE-F7nVTH](https://github.com/ankumar/awesome-llm-architectures/assets/658791/bc4e7567-bddf-4a6c-9b96-236067a6bf71)
