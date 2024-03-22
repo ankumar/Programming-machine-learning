@@ -21,7 +21,9 @@ https://arxiv.org/pdf/2403.14606.pdf
 
 **AIRoute & Unified execution engine:** 
 Application Programming Interfaces (APIs) are at the heart of all internet software, evolving with Foundational Model [**APIs**](https://artificialanalysis.ai/). An Exploration of **Artificial** Programming **Intelligence**  
+
 ![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/891d71e4-a4e9-40d4-991f-d3c091a02b0e)
+
 **Use Cases:**
 - **Chat:**
   - [Javelin AI Gateway <-> OpenAI GPT Actions (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
