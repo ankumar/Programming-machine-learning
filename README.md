@@ -9,7 +9,7 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 
 - [ALTO: An Efficient Network Orchestrator for Compound AI Systems](https://arxiv.org/pdf/2403.04311.pdf)
 
-**1. AIRoute:** 
+**AIRoute & Unified execution engine:** 
 
 **Big Picture:** In the ever-evolving cloud computing landscape, understanding the Gateway API is crucial for those using Kubernetes. This API enhances application traffic management, offering better routing and security. For seamless integration of AI into cloud-native applications, Javelin emerges as a robust framework, streamlining the deployment and management of AI-driven solutions. Dive into the Gateway API for insights and explore Use Cases for cutting-edge application management.
 
@@ -25,11 +25,6 @@ Source: https://docs.konghq.com/gateway/latest/get-started/ai-gateway/
 ![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/891d71e4-a4e9-40d4-991f-d3c091a02b0e)
 - [Javelin AI Gateway <-> OpenAI GPT Actions (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
 - [HuggingChat](https://hf.co/chat/assistant/65bdbbf7f10680b82361aa45)
-
-
-**2. Unified execution engine:** 
-
-</>
 
 ## Hardware & Accelerators
 
