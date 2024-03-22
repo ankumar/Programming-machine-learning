@@ -4,7 +4,7 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 
 ## Compound AI Systems
 
-**state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models**  
+**state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models.**  
 [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)  
 
 **Generative language models (LMs) are often chained together and combined with other components into compound AI systems. Compound AI system applications include retrieval-augmented generation (RAG). structured prompting, chatbot verification, multi-hop question answering, agents, and SQL query generation.**
