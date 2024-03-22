@@ -9,7 +9,7 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 
 - [ALTO: An Efficient Network Orchestrator for Compound AI Systems](https://arxiv.org/pdf/2403.04311.pdf)
 
-**1. "AI ROUTE":** 
+**1. AIRoute:** 
 
 **Big Picture:** In the ever-evolving cloud computing landscape, understanding the Gateway API is crucial for those using Kubernetes. This API enhances application traffic management, offering better routing and security. For seamless integration of AI into cloud-native applications, Javelin emerges as a robust framework, streamlining the deployment and management of AI-driven solutions. Dive into the Gateway API for insights and explore Use Cases for cutting-edge application management.
 
