@@ -139,7 +139,7 @@ The successful art of model merging is often based purely on experience and intu
 
 ### Prompt
 
-- [Anthropic Prompt library](https://docs.anthropic.com/claude/prompt-library)
+- [Anthropic Prompt library](https://docs.anthropic.com/claude/prompt-library) / [Prompt engineering](https://docs.anthropic.com/claude/docs/prompt-engineering)
 - [Prompt Engineering with Llama 2](https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb)
 - 
   
