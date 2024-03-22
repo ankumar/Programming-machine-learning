@@ -3,11 +3,9 @@
 Artificial intelligence has recently experienced remarkable advances, fueled by large models, vast datasets, accelerated hardware, and, last but not least, the transformative power of differentiable programming. This new programming paradigm enables end-to-end differentiation of complex computer programs (including those with control flows and data structures), making gradient-based optimization of program parameters possible.
 https://arxiv.org/pdf/2403.14606.pdf
 
-Application Programming Interfaces (APIs) are at the heart of all internet software, evolving with Foundational Model [**APIs**](https://artificialanalysis.ai/). An Exploration of **Artificial** Programming **Intelligence** 
- ...
+...
 
 ## Compound AI Systems
-
 **state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models.**  
 [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)  
 
@@ -22,7 +20,7 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 **Use Cases:** https://gateway-api.sigs.k8s.io/#use-cases
 
 **AIRoute & Unified execution engine:** 
-
+Application Programming Interfaces (APIs) are at the heart of all internet software, evolving with Foundational Model [**APIs**](https://artificialanalysis.ai/). An Exploration of **Artificial** Programming **Intelligence**  
 ![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/891d71e4-a4e9-40d4-991f-d3c091a02b0e)
 **Use Cases:**
 - **Chat:**
