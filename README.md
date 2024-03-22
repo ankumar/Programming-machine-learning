@@ -15,10 +15,6 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 
 ![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/73be23c5-6812-42c6-822c-2bec13ffce52)
 
-Example #1:
-![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/b8a570ce-efe2-494e-9f25-f223e36a19c2)
-Source: https://docs.konghq.com/gateway/latest/get-started/ai-gateway/
-
 **Gateway API Concepts:** https://gateway-api.sigs.k8s.io/
 **Use Cases:** https://gateway-api.sigs.k8s.io/#use-cases
 
