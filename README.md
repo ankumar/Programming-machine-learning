@@ -40,6 +40,9 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 
 ## Leaderboards, Benchmarks & Evaluations
 
+**Intelligence is the computational part of the ability to achieve goals. A goal achieving system is one that is more usefully understood in terms of outcomes than in terms of mechanisms.**  
+[The Definition of Intelligence](http://www.incompleteideas.net/IncIdeas/DefinitionOfIntelligence.html)
+
 **We don't know how to measure LLM abilities well. Most tests are groups of multiple choice questions, tasks, or trivia - they don't represent real world uses well, they are subject to gaming & results are impacted by prompt design in unknown ways. Or they use human preference.**   
 
 Non-trivial Taxonomy in real-world, Starting with clear domains / Common LLM workloads:  
