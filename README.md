@@ -32,6 +32,10 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 
 - [Trying to Build commodity ~petaflop compute node](https://tinygrad.org/) / https://x.com/karpathy/status/1770164518758633590?s=20
 - NVIDIA: Hopper -> [Blackwell](https://nvdam.widen.net/s/xqt56dflgh/nvidia-blackwell-architecture-technical-brief)
+- Mac M1/M2/M3: Get a MacBook Pro M3 Max (CPU, GPU cores + up to 128GB Unified Memory) https://www.apple.com/shop/buy-mac/macbook-pro/16-inch 
+  - pip install -U mlx
+  - https://github.com/ml-explore 
+  - https://github.com/ml-explore/mlx-examples/tree/main/lora 
 
 ## Leaderboards, Benchmarks & Evaluations
 
