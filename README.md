@@ -35,8 +35,7 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 - Mac M1/M2/M3: Get a MacBook Pro M3 Max (CPU, GPU cores + up to 128GB Unified Memory) https://www.apple.com/shop/buy-mac/macbook-pro/16-inch 
   - pip install -U mlx
   - https://github.com/ml-explore 
-  - https://github.com/ml-explore/mlx-examples/tree/main/lora 
-
+  
 ## Leaderboards, Benchmarks & Evaluations
 
 **We don't know how to measure LLM abilities well. Most tests are groups of multiple choice questions, tasks, or trivia - they don't represent real world uses well, they are subject to gaming & results are impacted by prompt design in unknown ways. Or they use human preference.**   
