@@ -1,5 +1,7 @@
 ![Attention Timeline](https://github.com/ankumar/awesome-llm-architectures/assets/658791/6c70defb-8a21-4397-ba13-2b49783f0bb5)
 
+Application Programming Interfaces (APIs) are at the heart of all internet software, evolving with Foundational Model [**APIs**](https://artificialanalysis.ai/). An Exploration of **Artificial** Programming **Intelligence** 
+
 ...
 
 ## Compound AI Systems
@@ -17,8 +19,7 @@
 **Use Cases:** https://gateway-api.sigs.k8s.io/#use-cases
 
 **AIRoute & Unified execution engine:** 
-Application Programming Interfaces (APIs) are at the heart of all internet software, evolving with Foundational Model [**APIs**](https://artificialanalysis.ai/). An Exploration of **Artificial** Programming **Intelligence**  
-
+ 
 ![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/891d71e4-a4e9-40d4-991f-d3c091a02b0e)
 
 **Use Cases:**
