@@ -236,12 +236,21 @@ Differentiable programming is not merely the differentiation of programs, but al
   - https://github.com/ml-explore/mlx/issues/12
 
 - [AI GUIDE](https://ai-guide.future.mozilla.org/)
+
 - [A little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
+
+- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+
 - [Large Language Model Course](https://github.com/mlabonne/llm-course)
+
 - [RAGStack](https://docs.datastax.com/en/ragstack/docs/index.html)
+
 - [Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)
+
 - [Easily use and train state of the art retrieval methods in any RAG pipeline. Designed for modularity and ease-of-use, backed by research](https://github.com/bclavie/RAGatouille)
+
 - [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
+
 - [Data Provenance Explorer](https://dataprovenance.org/)
 - 
 
