@@ -102,6 +102,8 @@ Intelligence is the computational part of the **ability to achieve goals**. A go
 **Weights, Training & Inference Code, Data & Evaluation**  
 - [OLMo](https://allenai.org/olmo) / [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
 
+- [NOUS RESEARCH](https://nousresearch.com/forge/)
+
 - [An awesome repository of local AI tools](https://github.com/janhq/awesome-local-ai)
   - [Jan - Rethink the Computer](https://jan.ai/)
 
