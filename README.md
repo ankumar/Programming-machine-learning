@@ -18,7 +18,7 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 **Gateway API Concepts:** https://gateway-api.sigs.k8s.io/
 **Use Cases:** https://gateway-api.sigs.k8s.io/#use-cases
 
-**AIRoute for Models:** 
+**AIRoute for Model Execution:** 
  
 ![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/891d71e4-a4e9-40d4-991f-d3c091a02b0e)
 
