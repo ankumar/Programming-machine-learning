@@ -33,7 +33,7 @@ How should **AIRoute** be designed for
 
 - **Evaluation:** [https://openfeature.dev/](https://openfeature.dev/docs/reference/concepts/evaluation-context)
 
-- **...:** 
+- **...** 
 
 ## Hardware & Accelerators
 
