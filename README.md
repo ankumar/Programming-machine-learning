@@ -15,7 +15,7 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 
 This thread has a rich discussion of the AI vs Cloud Providers https://x.com/rakyll/status/1771641289840242754?s=20
 
-**Big Picture:** The emerging AI Cloud is simpler to use. In the ever-evolving cloud computing landscape, understanding the Gateway API is crucial for those using Kubernetes. This API enhances application traffic management, offering better routing and security. For seamless integration of AI into cloud-native applications, a robust framework like [Javelin](https://www.getjavelin.io/) streamlining the deployment and management of AI-driven solutions. Dive into the Gateway API for insights and explore Use Cases for cutting-edge application management.
+The emerging AI Cloud is simpler to use. In the ever-evolving cloud computing landscape, understanding the Gateway API is crucial for those using Kubernetes. This API enhances application traffic management, offering better routing and security. For seamless integration of AI into cloud-native applications, a robust framework like [Javelin](https://www.getjavelin.io/) streamlining the deployment and management of AI-driven solutions. Dive into the Gateway API for insights and explore Use Cases for cutting-edge application management.
 
 ![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/73be23c5-6812-42c6-822c-2bec13ffce52)
 
