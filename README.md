@@ -93,7 +93,7 @@ Intelligence is the computational part of the **ability to achieve goals**. A go
 - [A large-scale, fine-grained, diverse preference dataset](https://github.com/OpenBMB/UltraFeedback)
 - [Generate Synthetic Data Using OpenAI, MistralAI or AnthropicAI](https://github.com/migtissera/Sensei)
 
-### "Open" & Closed Models  
+### "Open" & Closed   
 
 **Weights, Training & Inference Code, Data & Evaluation**  
 - [OLMo](https://allenai.org/olmo) / [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
@@ -121,8 +121,11 @@ The successful art of model merging is often based purely on experience and intu
 
 - []()
 
-- [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
+![image](https://github.com/ankumar/Artificial-programming-intelligence/assets/658791/8eaba9f3-ec3d-4803-a7e6-4b6864039c0a)
+[What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
+
 - [Little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
+
 - [PeoplePlusAI - Where AI meets people and purpose](https://github.com/PeoplePlusAI)
 
 ### Inferencing
