@@ -25,12 +25,15 @@ Cloud Providers: In the ever-evolving cloud computing landscape, understanding t
 **Gateway API Concepts:** https://gateway-api.sigs.k8s.io/
 **Use Cases:** https://gateway-api.sigs.k8s.io/#use-cases
 
-How should **AIRoute** be designed for:
+How should **AIRoute** be designed for 
  
 - **Chat + Assistants:**
   - [OpenAI GPT Actions (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
   - [HuggingChat](https://hf.co/chat/assistant/65bdbbf7f10680b82361aa45)
-- **feature flagging:** https://openfeature.dev/
+
+- **Evaluation:** [https://openfeature.dev/](https://openfeature.dev/docs/reference/concepts/evaluation-context)
+
+- **...:** 
 
 ## Hardware & Accelerators
 
