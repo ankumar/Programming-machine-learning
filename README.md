@@ -4,6 +4,8 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 
 ...
 
+![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/73be23c5-6812-42c6-822c-2bec13ffce52)
+
 ## Compound AI Systems
 **state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models.**  
 [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)  
