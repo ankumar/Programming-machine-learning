@@ -25,7 +25,7 @@ Cloud Providers: In the ever-evolving cloud computing landscape, understanding t
 **Gateway API Concepts:** https://gateway-api.sigs.k8s.io/
 **Use Cases:** https://gateway-api.sigs.k8s.io/#use-cases
 
-**AIRoute for Model Execution:** 
+How should **AIRoute** be designed for:
  
 - **Chat + Assistants:**
   - [OpenAI GPT Actions (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
