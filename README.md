@@ -104,6 +104,9 @@ Intelligence is the computational part of the **ability to achieve goals**. A go
 ### "Open" & Closed   
 
 **Weights, Training & Inference Code, Data & Evaluation**  
+
+[Tour of Modern LLMs (and surrounding topics)](https://phontron.com/class/anlp2024/assets/slides/anlp-15-tourofllms.pdf)
+
 - [OLMo](https://allenai.org/olmo) / [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
 
 - [NOUS RESEARCH](https://nousresearch.com/forge/)
