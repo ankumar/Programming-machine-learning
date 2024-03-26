@@ -54,7 +54,7 @@ Intelligence is the computational part of the **ability to achieve goals**. A go
 
 1) Languages - Rankings by domain -> https://huggingface.co/models -> **Tasks** & **Languages**
 2) Model Card - [claude 3 model card](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf) Coding, Creative Writing, Instruction-following, Long Document Q&A
-3) Chat, RAG, few-shot benchmark, etc.  
+3) Chat, [RAG](https://trec-rag.github.io/about/), few-shot benchmark, etc.  
 4) Coding - "Code a login component in React"
 5) Freshness - "What was the Warriors game score last night?"  
 6) Agent - Web Agents -> https://turkingbench.github.io/
