@@ -11,7 +11,7 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 **Generative language models (LMs) are often chained together and combined with other components into compound AI systems. Compound AI system applications include retrieval-augmented generation (RAG). structured prompting, chatbot verification, multi-hop question answering, agents, and SQL query generation.**
 [ALTO: An Efficient Network Orchestrator for Compound AI Systems](https://arxiv.org/pdf/2403.04311.pdf)
 
-The emerging AI Cloud is simpler to use. As we evolve to Compound AI Systems **Let's strive to preserve the simplicity**.  
+The emerging AI Cloud is simpler to use. As we evolve to Compound AI Systems **I hope we preserve the simplicity**.  
 
 <img width="607" alt="Screenshot 2024-03-25 at 1 44 32 PM" src="https://github.com/ankumar/Artificial-programming-intelligence/assets/658791/e21c5ef7-0515-4e06-a222-f2bed645cb9a">
 
