@@ -17,23 +17,18 @@ The emerging AI Cloud is simpler to use. As we evolve to Compound AI Systems **I
 
 This thread has a rich discussion of the AI vs Cloud Providers https://x.com/rakyll/status/1771641289840242754?s=20.
 
-Cloud Providers: In the ever-evolving cloud computing landscape, understanding the Gateway API is crucial for those using Kubernetes. This API enhances application traffic management, offering better routing and security. For seamless integration of AI into cloud-native applications, a robust framework 
- ? streamlining the deployment and management of AI-driven solutions. Dive into the Gateway API for insights and explore Use Cases for cutting-edge application management.
-
-![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/73be23c5-6812-42c6-822c-2bec13ffce52)
-
 **Gateway API Concepts:** https://gateway-api.sigs.k8s.io/
 **Use Cases:** https://gateway-api.sigs.k8s.io/#use-cases
 
-How should **AIRoute** be designed for 
+
  
 - **Chat + Assistants:**
   - [OpenAI GPT Actions (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
   - [HuggingChat](https://hf.co/chat/assistant/65bdbbf7f10680b82361aa45)
 
-- **Evaluation:** [https://openfeature.dev/](https://openfeature.dev/docs/reference/concepts/evaluation-context)
+- **Tools:** 
 
-- **...** 
+- **Evaluation:** [https://openfeature.dev/](https://openfeature.dev/docs/reference/concepts/evaluation-context)
 
 ## Hardware & Accelerators
 
@@ -140,6 +135,11 @@ The successful art of model merging is often based purely on experience and intu
 - [PeoplePlusAI - Where AI meets people and purpose](https://github.com/PeoplePlusAI)
 
 ### Inferencing
+
+Cloud Providers: In the ever-evolving cloud computing landscape, understanding the Gateway API is crucial for those using Kubernetes. This API enhances application traffic management, offering better routing and security. For seamless integration of AI into cloud-native applications, a robust framework 
+ ? streamlining the deployment and management of AI-driven solutions. Dive into the Gateway API for insights and explore Use Cases for cutting-edge application management.
+
+![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/73be23c5-6812-42c6-822c-2bec13ffce52)
 
 - [Text Generation Inference](https://huggingface.co/docs/text-generation-inference/index)
 - [vLLM](https://github.com/vllm-project/vllm)
