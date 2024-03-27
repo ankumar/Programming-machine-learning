@@ -15,7 +15,7 @@ A thread has a rich discussion of the AI vs Cloud Providers https://x.com/rakyll
   - [OpenAI GPT Actions (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
   - [HuggingChat](https://hf.co/chat/assistant/65bdbbf7f10680b82361aa45)
 
-- **Tools:** 
+- **Tools Usage:** 
 
 - **Evaluation:** [https://openfeature.dev/](https://openfeature.dev/docs/reference/concepts/evaluation-context)
 
