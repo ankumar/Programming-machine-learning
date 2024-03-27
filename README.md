@@ -16,11 +16,6 @@ The emerging AI Cloud is simpler to use. As we evolve to Compound AI Systems **I
 <img width="607" alt="Screenshot 2024-03-25 at 1 44 32 PM" src="https://github.com/ankumar/Artificial-programming-intelligence/assets/658791/e21c5ef7-0515-4e06-a222-f2bed645cb9a">
 
 This thread has a rich discussion of the AI vs Cloud Providers https://x.com/rakyll/status/1771641289840242754?s=20.
-
-**Gateway API Concepts:** https://gateway-api.sigs.k8s.io/
-**Use Cases:** https://gateway-api.sigs.k8s.io/#use-cases
-
-
  
 - **Chat + Assistants:**
   - [OpenAI GPT Actions (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
@@ -135,6 +130,9 @@ The successful art of model merging is often based purely on experience and intu
 - [PeoplePlusAI - Where AI meets people and purpose](https://github.com/PeoplePlusAI)
 
 ### Inferencing
+
+**Gateway API Concepts:** https://gateway-api.sigs.k8s.io/
+**Use Cases:** https://gateway-api.sigs.k8s.io/#use-cases
 
 Cloud Providers: In the ever-evolving cloud computing landscape, understanding the Gateway API is crucial for those using Kubernetes. This API enhances application traffic management, offering better routing and security. For seamless integration of AI into cloud-native applications, a robust framework 
  ? streamlining the deployment and management of AI-driven solutions. Dive into the Gateway API for insights and explore Use Cases for cutting-edge application management.
