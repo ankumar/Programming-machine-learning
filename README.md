@@ -10,9 +10,7 @@ Application Programming Interfaces (APIs) are at the heart of all internet softw
 [ALTO: An Efficient Network Orchestrator for Compound AI Systems](https://arxiv.org/pdf/2403.04311.pdf)  
 
 <img width="607" alt="Screenshot 2024-03-25 at 1 44 32 PM" src="https://github.com/ankumar/Artificial-programming-intelligence/assets/658791/e21c5ef7-0515-4e06-a222-f2bed645cb9a">.  
-A thread has a rich discussion of the AI vs Cloud Providers https://x.com/rakyll/status/1771641289840242754?s=20.
-
-The emerging AI Cloud is simpler to use. As we evolve to Compound AI Systems **I hope we preserve the simplicity**.  
+A thread has a rich discussion of the AI vs Cloud Providers https://x.com/rakyll/status/1771641289840242754?s=20. The emerging AI Cloud is simpler to use, as we evolve to Compound AI Systems **I hope we preserve the simplicity**.  
 - **Chat + Assistants:**
   - [OpenAI GPT Actions (**ChatPlus subscription is needed to access**) ](https://chat.openai.com/g/g-7kq4uSfJ4-javelin) 
   - [HuggingChat](https://hf.co/chat/assistant/65bdbbf7f10680b82361aa45)
