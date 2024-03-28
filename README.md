@@ -196,35 +196,6 @@ Cloud Providers: In the ever-evolving cloud computing landscape, understanding t
 - []()
 - []()
 
-## Articles & Talks
-- [LLM App Stack aka Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
-- [A Guide to Large Language Model Abstractions](https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/)
-- [AI Fundamentals: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
-- [The Modern AI Stack: Design Principles for the Future of Enterprise AI Architectures](https://menlovc.com/perspective/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures/)
-- [AI Copilot Interfaces](https://byrnemluke.com/ideas/llm-interfaces)
-- [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
-- [Large Language Models and Theories of Meaning](https://drive.google.com/file/d/15oXHUBaUWwhFziB1G2Tg5kQ1PPJ3XqP7/view)
-
-## AI Twitter & Discord
-- [@karpathy](https://twitter.com/karpathy)
-- [@simonw](https://twitter.com/simonw)
-- []()
-- [@antirez](https://twitter.com/antirez/status/1746857737584099781)
-- [@ivanfioravanti](https://twitter.com/ivanfioravanti)
-
-## Papers
-
-- [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196)
-- [On the Planning Abilities of Large Language Models : A Critical Investigation](https://arxiv.org/abs/2305.15771)
-- [Demystifying Embedding Spaces using Large Language Models](https://arxiv.org/abs/2310.04475)
-- [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/pdf/2304.12244.pdf)
-- [RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture](https://arxiv.org/abs/2401.08406)
-- [Multi-line AI-assisted Code Authoring](https://huggingface.co/papers/2402.04141)
-- [Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](https://arxiv.org/pdf/2402.14207.pdf)
-- []()
-- []()
-- []()
-
 ## Learning
 Artificial intelligence has recently experienced remarkable advances, fueled by large models, vast datasets, accelerated hardware, and, last but not least, the transformative power of differentiable programming. This new programming paradigm enables end-to-end differentiation of complex computer programs (including those with control flows and data structures), making gradient-based optimization of program parameters possible.  
 As an emerging paradigm, differentiable programming builds upon several areas of computer science and applied mathematics, including automatic differentiation, graphical models, optimization and statistics. This book presents a comprehensive review of the fundamental concepts useful for differentiable programming. We adopt two main perspectives, that of optimization and that of probability, with clear analogies between the two.  
@@ -259,6 +230,35 @@ Differentiable programming is not merely the differentiation of programs, but al
 
 - [Data Provenance Explorer](https://dataprovenance.org/)
 - 
+
+### Articles & Talks
+- [LLM App Stack aka Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
+- [A Guide to Large Language Model Abstractions](https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/)
+- [AI Fundamentals: Benchmarks 101](https://www.latent.space/p/benchmarks-101)
+- [The Modern AI Stack: Design Principles for the Future of Enterprise AI Architectures](https://menlovc.com/perspective/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures/)
+- [AI Copilot Interfaces](https://byrnemluke.com/ideas/llm-interfaces)
+- [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
+- [Large Language Models and Theories of Meaning](https://drive.google.com/file/d/15oXHUBaUWwhFziB1G2Tg5kQ1PPJ3XqP7/view)
+
+### AI Twitter & Discord
+- [@karpathy](https://twitter.com/karpathy)
+- [@simonw](https://twitter.com/simonw)
+- []()
+- [@antirez](https://twitter.com/antirez/status/1746857737584099781)
+- [@ivanfioravanti](https://twitter.com/ivanfioravanti)
+
+### Papers
+
+- [Large Language Models: A Survey](https://arxiv.org/abs/2402.06196)
+- [On the Planning Abilities of Large Language Models : A Critical Investigation](https://arxiv.org/abs/2305.15771)
+- [Demystifying Embedding Spaces using Large Language Models](https://arxiv.org/abs/2310.04475)
+- [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/pdf/2304.12244.pdf)
+- [RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture](https://arxiv.org/abs/2401.08406)
+- [Multi-line AI-assisted Code Authoring](https://huggingface.co/papers/2402.04141)
+- [Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models](https://arxiv.org/pdf/2402.14207.pdf)
+- []()
+- []()
+- []()
 
 --
 
