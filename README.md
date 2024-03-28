@@ -1,6 +1,6 @@
 ![Attention Timeline](https://github.com/ankumar/awesome-llm-architectures/assets/658791/6c70defb-8a21-4397-ba13-2b49783f0bb5)
 
-[Application Programming Interfaces](https://www.stainlessapi.com/) (APIs) are at the heart of all internet software, compounding with Foundational Model [**API-First**](https://artificialanalysis.ai/). This repo is an Exploration of critical components around **Artificial** programming **[intelligence](http://www.incompleteideas.net/IncIdeas/DefinitionOfIntelligence.html)**  ...
+[Application Programming Interfaces](https://www.stainlessapi.com/) (APIs) are at the heart of all internet software, compounding with Foundational Model [**API-First**](https://artificialanalysis.ai/). This repo is an Exploration of critical components for **Artificial** programming **[intelligence](http://www.incompleteideas.net/IncIdeas/DefinitionOfIntelligence.html)**  ...
 
 ## Compound AI Systems
 **state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models.**  
