@@ -88,6 +88,8 @@ Intelligence is the computational part of the **ability to achieve goals**. A go
 
 ### "Open" & Closed   
 
+[Ecosystem Graphs](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
+
 **Weights, Training & Inference Code, Data & Evaluation**  
 
 [Tour of Modern LLMs (and surrounding topics)](https://phontron.com/class/anlp2024/assets/slides/anlp-15-tourofllms.pdf)
