@@ -88,7 +88,7 @@ Intelligence is the computational part of the **ability to achieve goals**. A go
 
 ### "Open" & Closed   
 
-[Ecosystem Graphs](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
+- [Ecosystem Graphs](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
 
 **Weights, Training & Inference Code, Data & Evaluation**  
 
