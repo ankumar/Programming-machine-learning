@@ -270,6 +270,8 @@ Differentiable programming is not merely the differentiation of programs, but al
 
 --
 
+[Transformers Slides](https://phontron.com/class/anlp2024/assets/slides/anlp-05-transformers.pdf)
+
 ![image](https://github.com/ankumar/Artificial-programming-intelligence/assets/658791/4939683c-7076-409b-b52d-0121e35d0c2b)
 
 
