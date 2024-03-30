@@ -1,3 +1,5 @@
+# This is an attempt to implement this article https://huyenchip.com/2024/02/28/predictive-human-preference.html
+
 import datetime
 import pandas as pd
 import transformers
