@@ -1,10 +1,9 @@
 # Predictive Human Preference - PHP
-# 
-# 1. This is an attempt to implement this article https://huyenchip.com/2024/02/28/predictive-human-preference.html
-# 2. Datasets curated from these sources:
-# a. https://huggingface.co/datasets/lmsys/chatbot_arena_conversations
-# b. ...
-# c. ...
+# This is an attempt to implement this article https://huyenchip.com/2024/02/28/predictive-human-preference.html
+# Datasets curated from these sources:
+# 1. https://huggingface.co/datasets/lmsys/chatbot_arena_conversations
+# 2. ...
+# 3. ...
 
 import datetime
 import pandas as pd
