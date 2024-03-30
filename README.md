@@ -3,7 +3,7 @@
 <img width="607" alt="Screenshot 2024-03-25 at 1 44 32 PM" src="https://github.com/ankumar/Artificial-programming-intelligence/assets/658791/e21c5ef7-0515-4e06-a222-f2bed645cb9a">.  
 A thread has a rich discussion of the AI vs Cloud Providers https://x.com/rakyll/status/1771641289840242754?s=20. The emerging AI Cloud is simpler to use, as we evolve Compound AI Systems **I hope we preserve the simplicity**.  
 
-[Application Programming Interfaces](https://www.stainlessapi.com/) (APIs) are at the heart of all internet software, compounding with Foundational Model [**API-First**](https://artificialanalysis.ai/). This repo is an Exploration of critical components for **Artificial** programming **[intelligence](http://www.incompleteideas.net/IncIdeas/DefinitionOfIntelligence.html)**  ...
+This repo is an Exploration of critical components for **Artificial** programming **[intelligence](http://www.incompleteideas.net/IncIdeas/DefinitionOfIntelligence.html)**  ...
 
 ## Compound AI Systems
 **state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models.**  
@@ -129,6 +129,8 @@ The successful art of model merging is often based purely on experience and intu
 
 ### Inferencing
 ![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/73be23c5-6812-42c6-822c-2bec13ffce52)
+
+[Application Programming Interfaces](https://www.stainlessapi.com/) (APIs) are at the heart of all internet software, compounding with Foundational Model [**API-First**](https://artificialanalysis.ai/). 
 
 **Gateway API Concepts:** https://gateway-api.sigs.k8s.io/
 **Use Cases:** https://gateway-api.sigs.k8s.io/#use-cases
