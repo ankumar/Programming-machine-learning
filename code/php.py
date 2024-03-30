@@ -19,7 +19,6 @@ from torch.utils.data import Dataset, DataLoader
 
 embedding_dim = 128
 
-pair_wise_words = []
 winner = []
 
 tokenizer = transformers.DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
