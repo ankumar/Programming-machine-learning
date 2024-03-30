@@ -112,14 +112,18 @@ class PairwiseClassifer(nn.Module):
 #                                   nn.Sigmoid())
 
     def forward(self, x):
-        inp = x[0]
+        inp = x[0] # Sentence transformer embeddings
         inp = torch.squeeze(inp, dim=1)
-        f2 = x[1]
+        f2 = x[1] # Model ID pair
+
         # A inp = self.dbert(input_ids=inp)
         # A inp = inp["last_hidden_state"][:,0,:]
+
+        # Combine with sentence transformer features
         x = self.embedding(f2)
         x = torch.flatten(x, start_dim=1)
         y = torch.cat((inp, x), dim=1)
+        
         logits = self.model(y)
         return logits
        
