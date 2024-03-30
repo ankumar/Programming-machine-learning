@@ -6,11 +6,11 @@ This repo is an exploration of critical components & implementations of **Artifi
 
 ### "Open" & Closed   
 
+Open ? w/ **Weights, Training & Inference Code, Data & Evaluation**  
+
 [Andrej Karpathy Talking about the importance of building a more open and vibrant AI ecosystem](https://www.youtube.com/watch?v=c3b-JASoPi0)
 
 - [Ecosystem Graphs](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
-
-**Weights, Training & Inference Code, Data & Evaluation**  
 
 [Tour of Modern LLMs (and surrounding topics)](https://phontron.com/class/anlp2024/assets/slides/anlp-15-tourofllms.pdf)
 
