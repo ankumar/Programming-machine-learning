@@ -5,6 +5,48 @@ A thread has a rich discussion of the AI vs Cloud Providers https://x.com/rakyll
 
 This repo is an exploration of critical components & implementations of **Artificial** programming **[intelligence](http://www.incompleteideas.net/IncIdeas/DefinitionOfIntelligence.html)**  ...
 
+### "Open" & Closed   
+
+[Andrej Karpathy Talking about the importance of building a more open and vibrant AI ecosystem](https://www.youtube.com/watch?v=c3b-JASoPi0)
+
+- [Ecosystem Graphs](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
+
+**Weights, Training & Inference Code, Data & Evaluation**  
+
+[Tour of Modern LLMs (and surrounding topics)](https://phontron.com/class/anlp2024/assets/slides/anlp-15-tourofllms.pdf)
+
+- [OLMo](https://allenai.org/olmo) / [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
+
+- [NOUS RESEARCH](https://nousresearch.com/forge/)
+
+- [An awesome repository of local AI tools](https://github.com/janhq/awesome-local-ai)
+  - [Jan - Rethink the Computer](https://jan.ai/)
+
+- []()
+  
+--
+
+- [Llama](https://llama.meta.com/)
+  - [Discover the possibilities of building on Llama](https://llama.meta.com/community-stories/)
+- [Gemma](https://opensource.googleblog.com/2024/02/building-open-models-responsibly-gemini-era.html)
+- [Grok open release](https://github.com/xai-org/grok-1)
+- [Robust recipes to align language models with human and AI preferences](https://github.com/huggingface/alignment-handbook)
+- [A natural language interface for computers](https://github.com/KillianLucas/open-interpreter)
+- [OpenDevin](https://github.com/OpenDevin/OpenDevin)
+
+The successful art of model merging is often based purely on experience and intuition of a passionate model hacker, .... In fact, the current Open LLM Leaderboard is dominated by merged models. Surprisingly, merged models work without any additional training, making it very cost-effective (**no GPUs required at all!**), and so many people, researchers, hackers, and hobbyists alike, are trying this to create the best models for their purposes. 
+- [Evolving New Foundation Models: Unleashing the Power of Automating Model Development](https://sakana.ai/evolutionary-model-merge/)
+
+
+- []()
+
+![image](https://github.com/ankumar/Artificial-programming-intelligence/assets/658791/8eaba9f3-ec3d-4803-a7e6-4b6864039c0a)
+[What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
+
+- [Little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
+
+- [PeoplePlusAI - Where AI meets people and purpose](https://github.com/PeoplePlusAI)
+
 ## Compound AI Systems
 **state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models.**  
 [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)  
@@ -86,46 +128,6 @@ Intelligence is the computational part of the **ability to achieve goals**. A go
 
 - [A large-scale, fine-grained, diverse preference dataset](https://github.com/OpenBMB/UltraFeedback)
 - [Generate Synthetic Data Using OpenAI, MistralAI or AnthropicAI](https://github.com/migtissera/Sensei)
-
-### "Open" & Closed   
-
-- [Ecosystem Graphs](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
-
-**Weights, Training & Inference Code, Data & Evaluation**  
-
-[Tour of Modern LLMs (and surrounding topics)](https://phontron.com/class/anlp2024/assets/slides/anlp-15-tourofllms.pdf)
-
-- [OLMo](https://allenai.org/olmo) / [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
-
-- [NOUS RESEARCH](https://nousresearch.com/forge/)
-
-- [An awesome repository of local AI tools](https://github.com/janhq/awesome-local-ai)
-  - [Jan - Rethink the Computer](https://jan.ai/)
-
-- []()
-  
---
-
-- [Llama](https://llama.meta.com/)
-  - [Discover the possibilities of building on Llama](https://llama.meta.com/community-stories/)
-- [Gemma](https://opensource.googleblog.com/2024/02/building-open-models-responsibly-gemini-era.html)
-- [Grok open release](https://github.com/xai-org/grok-1)
-- [Robust recipes to align language models with human and AI preferences](https://github.com/huggingface/alignment-handbook)
-- [A natural language interface for computers](https://github.com/KillianLucas/open-interpreter)
-- [OpenDevin](https://github.com/OpenDevin/OpenDevin)
-
-The successful art of model merging is often based purely on experience and intuition of a passionate model hacker, .... In fact, the current Open LLM Leaderboard is dominated by merged models. Surprisingly, merged models work without any additional training, making it very cost-effective (**no GPUs required at all!**), and so many people, researchers, hackers, and hobbyists alike, are trying this to create the best models for their purposes. 
-- [Evolving New Foundation Models: Unleashing the Power of Automating Model Development](https://sakana.ai/evolutionary-model-merge/)
-
-
-- []()
-
-![image](https://github.com/ankumar/Artificial-programming-intelligence/assets/658791/8eaba9f3-ec3d-4803-a7e6-4b6864039c0a)
-[What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
-
-- [Little guide to building Large Language Models in 2024](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing)
-
-- [PeoplePlusAI - Where AI meets people and purpose](https://github.com/PeoplePlusAI)
 
 ### Inferencing
 ![image](https://github.com/ankumar/artificial-programming-intelligence/assets/658791/73be23c5-6812-42c6-822c-2bec13ffce52)
