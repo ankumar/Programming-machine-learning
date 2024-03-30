@@ -2,9 +2,10 @@
 # Models, Evals & Routes
 # 
 # 1. This is an attempt to implement this article https://huyenchip.com/2024/02/28/predictive-human-preference.html
-# 2. Datasets curated from these sources
-# - https://huggingface.co/datasets/lmsys/chatbot_arena_conversations
-#
+# 2. Datasets curated from these sources:
+# a. https://huggingface.co/datasets/lmsys/chatbot_arena_conversations
+# b. ...
+# c. ...
 
 import datetime
 import pandas as pd
