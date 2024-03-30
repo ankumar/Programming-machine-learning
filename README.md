@@ -147,6 +147,8 @@ The successful art of model merging is often based purely on experience and intu
 
 ### Training
 
+![image](https://github.com/ankumar/Artificial-programming-intelligence/assets/658791/317234d8-9aa0-474d-8c22-90bf7e53b137)
+
 **abstract away cloud infra burdens, Launch jobs & clusters on any cloud, Maximize GPU usage**  
 - [SkyPilot: A framework for running ML and batch jobs on any cloud cost-effectively](https://github.com/skypilot-org)
 - []()
