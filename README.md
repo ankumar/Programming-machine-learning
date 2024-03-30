@@ -1,3 +1,5 @@
+[Application Programming Interfaces](https://www.stainlessapi.com/) (APIs) are at the heart of all internet software, compounding with Foundational Model [**API-First**](https://artificialanalysis.ai/). This repo is an Exploration of critical components for **Artificial** programming **[intelligence](http://www.incompleteideas.net/IncIdeas/DefinitionOfIntelligence.html)**  ...
+
 ![Attention Timeline](https://github.com/ankumar/awesome-llm-architectures/assets/658791/6c70defb-8a21-4397-ba13-2b49783f0bb5)
 
 <img width="607" alt="Screenshot 2024-03-25 at 1 44 32 PM" src="https://github.com/ankumar/Artificial-programming-intelligence/assets/658791/e21c5ef7-0515-4e06-a222-f2bed645cb9a">.  
