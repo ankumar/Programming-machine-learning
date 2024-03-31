@@ -9,7 +9,7 @@ import datetime
 import pandas as pd
 import transformers
 import numpy as np
-from sentence_transformers import SentenceTransformer
+# from sentence_transformers import SentenceTransformer
 
 import torch
 from torch import nn
@@ -19,12 +19,10 @@ from torch.utils.data import Dataset, DataLoader
 
 embedding_dim = 128
 
-winner = []
-
 tokenizer = transformers.DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
 config = transformers.DistilBertConfig(dropout=0.2, attention_dropout=0.2)
 dbert_pt = transformers.DistilBertModel.from_pretrained('distilbert-base-uncased', config=config)
-sentence_transformer_model = SentenceTransformer("all-mpnet-base-v2")
+# sentence_transformer_model = SentenceTransformer("all-mpnet-base-v2")
 
 for param in dbert_pt.parameters():
     param.requires_grad = False
@@ -50,25 +48,24 @@ model2id = {token: id for id, token in id2model.items()}
 print(id2model)
 print(model2id)
 
+# A X_encoded  = []
 training_data = []
 for elem in X_list:
-    # A word_tokens = tokenizer(elem[0], padding='max_length', max_length = 512, truncation=True, return_tensors='pt')["input_ids"]
-    sent_emb = sentence_transformer_model.encode(elem[0])
+    word_tokens = tokenizer(elem[0], padding='max_length', max_length = 512, truncation=True, return_tensors='pt')["input_ids"]
+    # sent_emb = sentence_transformer_model.encode(elem[0])
     model_array = np.array([model2id[elem[1]], model2id[elem[2]]])
     model_pair = torch.from_numpy(model_array)
-    # A training_data.append((word_tokens, (model_pair)))
-    training_data.append((sent_emb, (model_pair)))
-    
+    training_data.append((word_tokens, (model_pair)))
+    # training_data.append((sent_emb, (model_pair)))
+
 y_list = []
+winner = []
 for winner in df['winner']:
     y_list.append(model2id[winner])
 
 y_pt = torch.Tensor(y_list).long()
 
-# A X_pt_train, X_pt_test, y_pt_train, y_pt_test = train_test_split(training_data, y_pt)
-
 X_pt_train, X_pt_test, y_pt_train, y_pt_test = train_test_split(training_data, y_pt, test_size=0.10, random_state=42, stratify=y_pt)
-
 
 class PairWiseDataSet(Dataset):
     def __init__(self, X, y):
@@ -113,18 +110,14 @@ class PairwiseClassifer(nn.Module):
 #                                   nn.Sigmoid())
 
     def forward(self, x):
-        inp = x[0] # Sentence transformer embeddings
+        inp = x[0]
         inp = torch.squeeze(inp, dim=1)
-        f2 = x[1] # Model ID pair
-
-        # A inp = self.dbert(input_ids=inp)
-        # A inp = inp["last_hidden_state"][:,0,:]
-
-        # Combine with sentence transformer features
+        f2 = x[1]
+        inp = self.dbert(input_ids=inp)
+        inp = inp["last_hidden_state"][:,0,:]
         x = self.embedding(f2)
         x = torch.flatten(x, start_dim=1)
         y = torch.cat((inp, x), dim=1)
-        
         logits = self.model(y)
         return logits
        
