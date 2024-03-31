@@ -1,207 +1,152 @@
 import datetime
 import pandas as pd
-import transformers
 import numpy as np
-# from sentence_transformers import SentenceTransformer
-
 import torch
 from torch import nn
-
+from transformers import DistilBertTokenizer, DistilBertModel, DistilBertConfig
 from sklearn.model_selection import train_test_split
 from torch.utils.data import Dataset, DataLoader
+from tqdm import tqdm
 
+# Initialization and Data Preparation
 embedding_dim = 128
+tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
+# Load the configuration for DistilBERT
+config = DistilBertConfig(dropout=0.2, attention_dropout=0.2)
+dbert_model = DistilBertModel.from_pretrained('distilbert-base-uncased', config=config)
 
-tokenizer = transformers.DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
-config = transformers.DistilBertConfig(dropout=0.2, attention_dropout=0.2)
-dbert_pt = transformers.DistilBertModel.from_pretrained('distilbert-base-uncased', config=config)
-# sentence_transformer_model = SentenceTransformer("all-mpnet-base-v2")
-
-# Print the size of the hidden states
-# print(dbert_pt.config.hidden_size)
-
-for param in dbert_pt.parameters():
+# Freeze all the parameters in the DistilBERT model.
+for param in dbert_model.parameters():
     param.requires_grad = False
 
+# Load your dataset. Assuming it's a CSV file with columns 'conversation', 'model_a', 'model_b', 'winner'
 datapath = 'pair_wise.csv'
 df = pd.read_csv(datapath)
 
-X = df[['conversation', 'model_a', 'model_b']]
-X_list=X.values.tolist()
-
-unique_model_names = []
-for conv, model_a, model_b in X_list:
-    if model_a not in unique_model_names:
-        unique_model_names.append(model_a)
-    if model_b not in unique_model_names:
-        unique_model_names.append(model_b)
-
-print("Number of Unique Models ", len(unique_model_names))
-
-id2model = dict(enumerate(unique_model_names))
-model2id = {token: id for id, token in id2model.items()}
-
-print(id2model)
-print(model2id)
-
-training_data = []
-for elem in X_list:
-    word_tokens = tokenizer(elem[0], padding='max_length', max_length = 512, truncation=True, return_tensors='pt')["input_ids"]
-    # sent_emb = sentence_transformer_model.encode(elem[0])
-    model_array = np.array([model2id[elem[1]], model2id[elem[2]]])
-    model_pair = torch.from_numpy(model_array)
-    training_data.append((word_tokens, (model_pair)))
-    # training_data.append((sent_emb, (model_pair)))
-
-y_list = []
-winner = []
-for winner in df['winner']:
-    y_list.append(model2id[winner])
-
-y_pt = torch.Tensor(y_list).long()
-
-X_pt_train, X_pt_test, y_pt_train, y_pt_test = train_test_split(training_data, y_pt, test_size=0.10, random_state=42, stratify=y_pt)
+unique_model_names = list(set(df['model_a'].unique()).union(set(df['model_b'].unique())))
+model2id = {model: idx for idx, model in enumerate(unique_model_names)}
 
 class PairWiseDataSet(Dataset):
-    def __init__(self, X, y):
-        self.X_train = X
-        self.y_train = y
+    def __init__(self, dataframe, tokenizer, model2id, max_length=512):
+        self.dataframe = dataframe
+        self.tokenizer = tokenizer
+        self.model2id = model2id
+        self.max_length = max_length
 
     def __len__(self):
-        return len(self.y_train)
+        return len(self.dataframe)
 
     def __getitem__(self, idx):
-        return self.X_train[idx], self.y_train[idx]
+        row = self.dataframe.iloc[idx]
+        text = row['conversation']
+        model_a_id = self.model2id[row['model_a']]
+        model_b_id = self.model2id[row['model_b']]
+        winner_id = self.model2id[row['winner']]
+        
+        encoding = self.tokenizer(
+            text,
+            padding='max_length',
+            truncation=True,
+            max_length=self.max_length,
+            return_tensors='pt'
+        )
+        input_ids = encoding['input_ids'].squeeze(0)
+        attention_mask = encoding['attention_mask'].squeeze(0)
+        
+        return input_ids, attention_mask, torch.tensor([model_a_id, model_b_id]), torch.tensor(winner_id)
 
-train_data_pt = PairWiseDataSet(X=X_pt_train, y=y_pt_train)
-test_data_pt = PairWiseDataSet(X=X_pt_test, y=y_pt_test)
+# Split the dataset
+train_df, test_df = train_test_split(df, test_size=0.1, random_state=42)
+train_dataset = PairWiseDataSet(train_df, tokenizer, model2id)
+test_dataset = PairWiseDataSet(test_df, tokenizer, model2id)
 
-# Get train and test data in form of Dataloader class
-train_loader_pt = DataLoader(train_data_pt, batch_size=32)
-test_loader_pt = DataLoader(test_data_pt, batch_size=32)
+train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True)
+test_loader = DataLoader(test_dataset, batch_size=32, shuffle=False)
 
-# device = "cuda" if torch.cuda.is_available() else "cpu"
-# print(f"Using {device} device")
+class PairwiseClassifier(nn.Module):
+    def __init__(self, dbert_model, num_models, embedding_dim):
+        super(PairwiseClassifier, self).__init__()
+        self.dbert_model = dbert_model
+        self.model_embeddings = nn.Embedding(num_models, embedding_dim)
+        self.classifier = nn.Sequential(
+            nn.Linear(dbert_model.config.hidden_size + 2 * embedding_dim, 768),
+            nn.ReLU(),
+            nn.Dropout(0.1),
+            nn.Linear(768, num_models)
+        )
 
+    def forward(self, input_ids, attention_mask, model_pair_ids):
+        outputs = self.dbert_model(input_ids=input_ids, attention_mask=attention_mask)
+        pooled_output = outputs.last_hidden_state[:, 0]
+        model_embeddings = self.model_embeddings(model_pair_ids)
+        model_embeddings = model_embeddings.view(model_embeddings.size(0), -1)
+        combined = torch.cat((pooled_output, model_embeddings), 1)
+        logits = self.classifier(combined)
+        return logits
+
+# device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # Adjust for Metal GPU
 device = "mps" if torch.backends.mps.is_available() else "cpu"
 print(f"Using {device} device")
-
-class PairwiseClassifer(nn.Module):
-    def __init__(self):
-        super(PairwiseClassifer, self).__init__()
-        self.dbert = dbert_pt
-        self.embedding = nn.Embedding(len(unique_model_names), embedding_dim) 
-        self.model = nn.Sequential(nn.Linear(1024, 768),
-                                   nn.Dropout(p=0.2),  # Adding dropout layer with a dropout rate of 0.2
-                                   nn.ReLU(),
-                                   nn.Linear(768,256),
-                                   nn.ReLU(),
-                                   nn.Linear(256,128),
-                                   nn.ReLU(),
-                                   nn.Linear(128,64),
-                                   nn.ReLU(),
-                                   nn.Linear(64,len(unique_model_names)))
-#                                   nn.Sigmoid())
-
-    def forward(self, x):
-        inp = x[0]
-        inp = torch.squeeze(inp, dim=1)
-        f2 = x[1]
-        inp = self.dbert(input_ids=inp)
-        inp = inp["last_hidden_state"][:,0,:]
-        x = self.embedding(f2)
-        x = torch.flatten(x, start_dim=1)
-        y = torch.cat((inp, x), dim=1)
-        logits = self.model(y)
-        return logits
-       
-model_pt = PairwiseClassifer().to(device)
-print(model_pt)
-
-total_params = sum(p.numel() for p in model_pt.parameters())
-total_params_trainable = sum(p.numel() for p in model_pt.parameters() if p.requires_grad)
-print("Number of parameters: ", total_params)
-print("Number of trainable parameters: ", total_params_trainable)
-
-epochs = 5
-criterion = nn.CrossEntropyLoss()
-optimizer = torch.optim.Adam(model_pt.parameters(), lr=0.0001)
-from tqdm import tqdm
-# Define the dictionary "history" that will collect key performance indicators during training
-history = {}
-history["epoch"]=[]
-history["train_loss"]=[]
-history["valid_loss"]=[]
-history["train_accuracy"]=[]
-history["valid_accuracy"]=[]
-
+model = PairwiseClassifier(dbert_model, len(model2id), embedding_dim).to(device)
 
 # Measure time for training
 start_time = datetime.datetime.now()
 
-# Loop on epochs
-for e in range(epochs):
-    
-    # Set mode in train mode
-    model_pt.train()
-    
+# Training loop
+epochs = 5 # Number of epochs
+optimizer = torch.optim.Adam(model.parameters(), lr=0.0001)  # Define the optimizer
+criterion = nn.CrossEntropyLoss()  # Define the loss function
+for epoch in range(epochs):
+    model.train()
     train_loss = 0.0
-    train_accuracy = []
-    
-    # Loop on batches
-    for X, y in tqdm(train_loader_pt):
-        X = (X[0].to(device), X[1].to(device))  # Pass all elements to device
-        y = y.to(device)
+    correct_predictions = 0
+    total_predictions = 0
 
-        # Get prediction & loss
-        prediction = model_pt(X)
-        prediction = torch.squeeze(prediction)
-        loss = criterion(prediction, y)
+    for input_ids, attention_mask, model_pairs, labels in train_loader:
+        input_ids, attention_mask, model_pairs, labels = input_ids.to(device), attention_mask.to(device), model_pairs.to(device), labels.to(device)
         
-        # Adjust the parameters of the model
-        optimizer.zero_grad()
-        loss.backward()
-        optimizer.step()
+        optimizer.zero_grad() # Zero the gradients
+        outputs = model(input_ids, attention_mask, model_pairs) # Forward pass
+        loss = criterion(outputs, labels) # Compute the loss
+        loss.backward() # Backward pass
+        optimizer.step() # Update weights
         
         train_loss += loss.item()
-        
-        prediction_index = prediction.argmax(axis=1)
-        accuracy = (prediction_index==y)
-        train_accuracy += accuracy
-    
-    train_accuracy = (sum(train_accuracy) / len(train_accuracy)).item()
-    
-    # Calculate the loss on the test data after each epoch
-    # Set mode to evaluation (by opposition to training)
-    model_pt.eval()
-    valid_loss = 0.0
-    valid_accuracy = []
-    for X, y in test_loader_pt:
-        X = (X[0].to(device), X[1].to(device))  # Pass all elements to device
-        y = y.to(device)
-    
-        prediction = model_pt(X)
-        loss = criterion(prediction, y)
+        _, preds = torch.max(outputs, dim=1)
+        correct_predictions += torch.sum(preds == labels).item()
+        total_predictions += labels.size(0)
 
-        valid_loss += loss.item()
-        
-        
-        prediction_index = prediction.argmax(axis=1)
-        accuracy = (prediction_index==y)
-        valid_accuracy += accuracy
-    valid_accuracy = (sum(valid_accuracy) / len(valid_accuracy)).item()
+    train_accuracy = correct_predictions / total_predictions
+    print(f'Epoch {epoch+1}/{epochs}, Train Loss: {train_loss / len(train_loader)}, Train Accuracy: {train_accuracy}')
     
-    # Populate history
-    history["epoch"].append(e+1)
-    history["train_loss"].append(train_loss / len(train_loader_pt))
-    history["valid_loss"].append(valid_loss / len(test_loader_pt))
-    history["train_accuracy"].append(train_accuracy)
-    history["valid_accuracy"].append(valid_accuracy)    
-        
-    print(f'Epoch {e+1} \t\t Training Loss: {train_loss / len(train_loader_pt) :10.3f} \t\t Validation Loss: {valid_loss / len(test_loader_pt) :10.3f}')
-    print(f'\t\t Training Accuracy: {train_accuracy :10.3%} \t\t Validation Accuracy: {valid_accuracy :10.3%}')
-    
-# Measure time for training
+    # Validation loop
+    model.eval()  # Set the model to evaluation mode
+    val_loss = 0.0
+    correct_predictions = 0
+    total_predictions = 0
+
+    with torch.no_grad():
+        for inputs, masks, model_pairs, labels in test_loader:
+            inputs, masks, model_pairs, labels = inputs.to(device), masks.to(device), model_pairs.to(device), labels.to(device)
+
+            outputs = model(inputs, masks, model_pairs)
+            loss = criterion(outputs, labels)
+            val_loss += loss.item()
+            _, preds = torch.max(outputs, dim=1)
+            correct_predictions += torch.sum(preds == labels).item()
+            total_predictions += labels.size(0)
+
+    val_accuracy = correct_predictions / total_predictions
+    print(f'Validation Loss: {val_loss / len(test_loader)}, Validation Accuracy: {val_accuracy}')
+
+# Save the model
+torch.save(model.state_dict(), 'pairwise_classifier_model.pth')
+print('Model saved to pairwise_classifier_model.pth')
+
+# Measure training time
 end_time = datetime.datetime.now()
+print(f'Training completed in: {end_time - start_time}')
+
+
 
