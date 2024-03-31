@@ -17,6 +17,9 @@ config = transformers.DistilBertConfig(dropout=0.2, attention_dropout=0.2)
 dbert_pt = transformers.DistilBertModel.from_pretrained('distilbert-base-uncased', config=config)
 # sentence_transformer_model = SentenceTransformer("all-mpnet-base-v2")
 
+# Print the size of the hidden states
+# print(dbert_pt.config.hidden_size)
+
 for param in dbert_pt.parameters():
     param.requires_grad = False
 
@@ -201,3 +204,4 @@ for e in range(epochs):
     
 # Measure time for training
 end_time = datetime.datetime.now()
+
