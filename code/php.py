@@ -48,7 +48,6 @@ model2id = {token: id for id, token in id2model.items()}
 print(id2model)
 print(model2id)
 
-# A X_encoded  = []
 training_data = []
 for elem in X_list:
     word_tokens = tokenizer(elem[0], padding='max_length', max_length = 512, truncation=True, return_tensors='pt')["input_ids"]
@@ -85,8 +84,8 @@ test_data_pt = PairWiseDataSet(X=X_pt_test, y=y_pt_test)
 train_loader_pt = DataLoader(train_data_pt, batch_size=32)
 test_loader_pt = DataLoader(test_data_pt, batch_size=32)
 
-# A device = "cuda" if torch.cuda.is_available() else "cpu"
-# A print(f"Using {device} device")
+# device = "cuda" if torch.cuda.is_available() else "cpu"
+# print(f"Using {device} device")
 
 # Adjust for Metal GPU
 device = "mps" if torch.backends.mps.is_available() else "cpu"
