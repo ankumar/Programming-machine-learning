@@ -6,7 +6,7 @@ This repo is an exploration of critical components & implementations of **Artifi
 
 ### "Open" & Closed   
 
-Open ? w/ **Weights, Training & Inference Code, Data & Evaluation**  
+Open - w/ **Weights, Training & Inference Code, Data & Evaluation**  
 
 [Andrej Karpathy Talking about the importance of building a more open and vibrant AI ecosystem](https://www.youtube.com/watch?v=c3b-JASoPi0)
 
