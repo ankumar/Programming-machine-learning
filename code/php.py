@@ -103,11 +103,12 @@ for epoch in range(epochs):
     correct_predictions = 0
     total_predictions = 0
 
-    for input_ids, attention_mask, model_pairs, labels in train_loader:
-        input_ids, attention_mask, model_pairs, labels = input_ids.to(device), attention_mask.to(device), model_pairs.to(device), labels.to(device)
+    train_loop = tqdm(train_loader, position=0, leave=True, desc=f'Epoch {epoch+1}/{epochs} [Training]')
+    for inputs, attention_mask, model_pairs, labels in train_loop:
+        inputs, attention_mask, model_pairs, labels = inputs.to(device), attention_mask.to(device), model_pairs.to(device), labels.to(device)
         
         optimizer.zero_grad() # Zero the gradients
-        outputs = model(input_ids, attention_mask, model_pairs) # Forward pass
+        outputs = model(inputs, attention_mask, model_pairs) # Forward pass
         loss = criterion(outputs, labels) # Compute the loss
         loss.backward() # Backward pass
         optimizer.step() # Update weights
@@ -117,28 +118,36 @@ for epoch in range(epochs):
         correct_predictions += torch.sum(preds == labels).item()
         total_predictions += labels.size(0)
 
+        train_loop.set_postfix(loss=(train_loss / (train_loop.n + 1)))
+
     train_accuracy = correct_predictions / total_predictions
-    print(f'Epoch {epoch+1}/{epochs}, Train Loss: {train_loss / len(train_loader)}, Train Accuracy: {train_accuracy}')
-    
+        
     # Validation loop
     model.eval()  # Set the model to evaluation mode
     val_loss = 0.0
     correct_predictions = 0
     total_predictions = 0
 
+    val_loop = tqdm(test_loader, position=0, leave=True, desc=f'Epoch {epoch+1}/{epochs} [Validation]')
     with torch.no_grad():
-        for inputs, masks, model_pairs, labels in test_loader:
-            inputs, masks, model_pairs, labels = inputs.to(device), masks.to(device), model_pairs.to(device), labels.to(device)
+        for inputs, attention_mask, model_pairs, labels in val_loop:
+            inputs, attention_mask, model_pairs, labels = inputs.to(device), attention_mask.to(device), model_pairs.to(device), labels.to(device)
 
-            outputs = model(inputs, masks, model_pairs)
+            outputs = model(inputs, attention_mask, model_pairs)
             loss = criterion(outputs, labels)
             val_loss += loss.item()
             _, preds = torch.max(outputs, dim=1)
             correct_predictions += torch.sum(preds == labels).item()
             total_predictions += labels.size(0)
 
+            val_loop.set_postfix(loss=(val_loss / (val_loop.n + 1)))
+
     val_accuracy = correct_predictions / total_predictions
-    print(f'Validation Loss: {val_loss / len(test_loader)}, Validation Accuracy: {val_accuracy}')
+
+    # Print formatted loss and accuracy
+    print(f'\nEpoch {epoch+1} \t Training Loss: {train_loss / len(train_loader):.3f} \t Validation Loss: {val_loss / len(test_loader):.3f}')
+    print(f'\t Training Accuracy: {train_accuracy:.3%} \t Validation Accuracy: {val_accuracy:.3%}')
+
 
 # Save the model
 torch.save(model.state_dict(), 'pairwise_classifier_model.pth')
@@ -147,6 +156,7 @@ print('Model saved to pairwise_classifier_model.pth')
 # Measure training time
 end_time = datetime.datetime.now()
 print(f'Training completed in: {end_time - start_time}')
+
 
 
 
