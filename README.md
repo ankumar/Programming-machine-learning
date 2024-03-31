@@ -181,7 +181,7 @@ Intelligence is the computational part of the **ability to achieve goals**. A go
 
 - [Demo your machine learning model](https://www.gradio.app/)
   
-- [Chat UI](https://github.com/huggingface/chat-ui)  
+- [Chat UI (an open ChatGPT)](https://github.com/huggingface/chat-ui)  
   - [Hugging Face's Chat Assistants](https://huggingface.co/chat/assistants)
   - [Open source implementation of the OpenAI 'data analysis mode' (aka ChatGPT + Python execution) based on Mistral-7B](https://github.com/xingyaoww/code-act) / [Hugging Face for Chat UI, ProjectJupyter for code executor](https://chat.xwang.dev)
 
