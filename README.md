@@ -1,5 +1,4 @@
-Predictive Human Preference - PHP  
-
-Personal Identifiable Information - PII
+PHP - Predictive Human Preference  
+PII - Personal Identifiable Information
 
 
