@@ -1,5 +1,3 @@
-Personal Identifiable Information - PII
-
 Datasets:  
 1. https://huggingface.co/datasets/bigcode/bigcode-pii-dataset
 2. ...
