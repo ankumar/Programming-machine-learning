@@ -31,5 +31,7 @@ Epoch 5/5 [Validation]: 100%|█████████████████
 Epoch 5 	 Training Loss: 0.635 	 Validation Loss: 0.663
 	 Training Accuracy: 66.118% 	 Validation Accuracy: 65.212%
 Current learning rate is: 0.001
+
 Model saved to pairwise_classifier_model.pth
+
 Training completed in: 0:36:16.605659
