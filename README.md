@@ -1,12 +1,12 @@
 Tasks:  
 
-PHP - Predictive Human Preference  
+php - Predictive Human Preference  
 
-PII - Personal Identifiable Information  
+pii - Personal Identifiable Information  
 
-Toxicity - Online Conversations, ...
+toxicity - Online Conversations, ...
 
-LLM - Small LLMs
+llm - Small LLMs
 
 
 
