@@ -1,5 +1,5 @@
 Training 1B param model from scratch  
 
-MicroLlama:  
-- https://github.com/keeeeenw/MicroLlama (MicroLlama-300M)
+MicroLlama-300M:  
+- https://github.com/keeeeenw/MicroLlama 
 - https://huggingface.co/keeeeenw/MicroLlama
