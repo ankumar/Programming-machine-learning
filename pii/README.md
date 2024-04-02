@@ -1,5 +1,5 @@
 Datasets:  
-1. https://github.com/mosaicml/llm-foundry/blob/main/scripts/eval/local_data/safety/enterprise_pii_classification.jsonl
-2. https://huggingface.co/datasets/bigcode/bigcode-pii-dataset
+1. enterprise pii - https://github.com/mosaicml/llm-foundry/blob/main/scripts/eval/local_data/safety/enterprise_pii_classification.jsonl
+2. code pii - https://huggingface.co/datasets/bigcode/bigcode-pii-dataset
 3. ...
 4. ...
