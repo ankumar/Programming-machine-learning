@@ -4,7 +4,7 @@ PHP - Predictive Human Preference
 
 PII - Personal Identifiable Information  
 
-Chat - Toxicity, ...
+Toxicity - Online Conversations, ...
 
 LLM - Small LLMs
 
