@@ -8,6 +8,8 @@ Code - [coding](coding)
 
 Genomics - [genomics](genomics)
 
+Audio - [audio](audio)
+
 Personal Identifiable Information - [pii](pii)
 
 Conversations - [toxicity](toxicity)
