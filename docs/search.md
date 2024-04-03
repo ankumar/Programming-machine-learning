@@ -1,5 +1,7 @@
 ![Attention Timeline](https://github.com/ankumar/awesome-llm-architectures/assets/658791/6c70defb-8a21-4397-ba13-2b49783f0bb5)
 
+-- [Introduction to Transformers w/ Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E)
+
 <img width="607" alt="Screenshot 2024-03-25 at 1 44 32 PM" src="https://github.com/ankumar/Artificial-programming-intelligence/assets/658791/e21c5ef7-0515-4e06-a222-f2bed645cb9a">. Twitter thread has a rich discussion of the AI vs Cloud Providers https://x.com/rakyll/status/1771641289840242754?s=20. The emerging AI Cloud is simpler to use.
 
 This repo is an exploration & building modals Programming **Artificial [intelligence](http://www.incompleteideas.net/IncIdeas/DefinitionOfIntelligence.html)**. As we evolve Compound AI Systems **I hope we preserve the simplicity**.  
