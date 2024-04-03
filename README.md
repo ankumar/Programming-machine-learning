@@ -1,6 +1,6 @@
 ## Tasks:  
 
-Small LLMs - [llm](llm)
+Small Language Models - [llm](llm)
 
 Predictive Human Preference - [php](php)
 
