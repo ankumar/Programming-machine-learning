@@ -2,6 +2,8 @@
 
 Small Language Models - [llm](llm)
 
+Fine Tuning - [fine-tuning](fine-tuning)
+
 Predictive Human Preference - [php](php)
 
 Code - [coding](coding)
