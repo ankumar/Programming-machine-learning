@@ -18,7 +18,7 @@ Conversations - [toxicity](toxicity)
 
 --
 
-This is my current favorite right now [NousResearch]((https://github.com/orgs/NousResearch/repositories)
+This is my current favorite right now [NousResearch](https://github.com/orgs/NousResearch/repositories)
 
 
 
