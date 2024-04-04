@@ -18,7 +18,10 @@ Conversations - [toxicity](toxicity)
 
 --
 
-This is my current favorite right now [NousResearch](https://github.com/orgs/NousResearch/repositories)
+This is the list of my current favorite repos right now:
+
+- [NousResearch](https://github.com/orgs/NousResearch/repositories)
+- [AI2](https://github.com/allenai/open-instruct?tab=readme-ov-file)
 
 
 
