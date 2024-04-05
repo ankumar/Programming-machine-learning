@@ -4,7 +4,7 @@
 
 1. **Get Code** - git clone https://github.com/karpathy/nanoGPT.git
 2. **Get Data** - python data/shakespeare_char/prepare.py
-3. **I have a Apple M1** - 
+3. **I have a Apple M1** - python train.py config/train_shakespeare_char.py --device=mps --compile=False
    
 4. 
 
