@@ -15,22 +15,21 @@
 
 ## Tasks:  
 
-Small Language Models - [llm](llm)
+Personal Identifiable Information - [pii](pii)
 
-Fine Tuning - [fine-tuning](fine-tuning)
+Genomics - [genomics](genomics)
 
 Predictive Human Preference - [php](php)
 
 Code - [coding](coding)
 
-Genomics - [genomics](genomics)
+Conversations - [toxicity](toxicity)
+
+Fine Tuning - [fine-tuning](fine-tuning)
 
 Audio - [audio](audio)
 
-Personal Identifiable Information - [pii](pii)
-
-Conversations - [toxicity](toxicity)
-
+Small Language Models - [llm](llm)
 
 
 
