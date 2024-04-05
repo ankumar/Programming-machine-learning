@@ -1,4 +1,4 @@
-Agents capable of writing go plugins (specs TBD)
+S/W Agent capable of writing go plugins (specs TBD)
 
 Exploring these repos currently:
 - https://github.com/princeton-nlp/SWE-agent
