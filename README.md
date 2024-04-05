@@ -3,6 +3,9 @@
 - [karpathy](https://github.com/karpathy)
 
 1. git clone https://github.com/karpathy/nanoGPT.git
+2. edit settings config/train_shakespeare_char.py
+   
+3. 
 
 - [NousResearch](https://github.com/orgs/NousResearch/repositories)
 - [ml-explore](https://github.com/ml-explore)
