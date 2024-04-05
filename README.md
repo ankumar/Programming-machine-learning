@@ -24,6 +24,6 @@ My personal favorite list of repos:
 - [ml-explore](https://github.com/ml-explore)
 - [AI2](https://github.com/allenai/open-instruct?tab=readme-ov-file)
 - [LMSYS](https://github.com/lm-sys)
-
+- [karpathy](https://github.com/karpathy)
 
 
