@@ -2,15 +2,13 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-# Transformer model components
-
+# Transformer model components        
 class Head(nn.Module):
     def __init__(self, head_size):
         super().__init__()
         self.key = nn.Linear(n_embed, head_size, bias=False)
         self.query = nn.Linear(n_embed, head_size, bias=False)
         self.value = nn.Linear(n_embed, head_size, bias=False)
-        self.register_buffer('tril', torch.tril(torch.ones(block_size, block_size)))
         self.dropout = nn.Dropout(dropout)
 
     def forward(self, x):
@@ -19,13 +17,14 @@ class Head(nn.Module):
         q = self.query(x)
         v = self.value(x)
 
-        weights = q @ k.transpose(-2, -1) * C ** -0.5
-        weights = weights.masked_fill(self.tril[:T, :T] == 0, float('-inf'))
+        weights = q @ k.transpose(-2, -1) * C**-0.5  # Scale dot-product attention
+        # Dynamically create the mask based on the sequence length `T`
+        mask = torch.tril(torch.ones((T, T), device=x.device)).bool()
+        weights = weights.masked_fill(~mask, float('-inf'))  # Apply the mask
         weights = F.softmax(weights, dim=-1)
         weights = self.dropout(weights)
         out = weights @ v
         return out
-
 
 class MultiHeadAttention(nn.Module):
     def __init__(self, num_heads, head_size):
@@ -182,7 +181,7 @@ def generate_text(model, tokenizer, prompt, max_length=50):
         generated_ids = model.generate(input_ids, max_new_tokens=max_length - input_ids.size(1))
     return tokenizer.decode(generated_ids[0], skip_special_tokens=True)
 
-prompt = "The mysteries of the universe are"
+prompt = "The capital of France is"
 generated_text = generate_text(model, tokenizer, prompt)
 print(generated_text)
 
