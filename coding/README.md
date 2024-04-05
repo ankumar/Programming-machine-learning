@@ -1,4 +1,4 @@
-S/W Agent capable of writing go plugins (specs TBD)
+S/W Agent capable of writing go plugins (specs TBD, this looks interesting https://www.benthos.dev/blog/2021/10/12/new-plugins-stable)
 
 Exploring these repos currently:
 - https://github.com/princeton-nlp/SWE-agent
