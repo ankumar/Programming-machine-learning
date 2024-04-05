@@ -153,8 +153,6 @@ vocab_size = 10000  # Example vocabulary size
 device = "mps" if torch.backends.mps.is_available() else "cpu"
 print(f"Using {device} device")
 # model = TransformerModel(vocab_size=vocab_size).to(device)
-
-# Assuming your TransformerModel class is defined as in previous instructions
 model = TransformerModel(vocab_size=len(tokenizer)).to(device)
 
 optimizer = Adam(model.parameters(), lr=5e-5)
