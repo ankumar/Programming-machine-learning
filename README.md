@@ -18,12 +18,11 @@ Conversations - [toxicity](toxicity)
 
 --
 
-This is the list of my current favorite repos right now:
+My personal favorite list of repos:
 
 - [NousResearch](https://github.com/orgs/NousResearch/repositories)
 - [AI2](https://github.com/allenai/open-instruct?tab=readme-ov-file)
-
-
+- [LMSYS](https://github.com/lm-sys)
 
 
 
