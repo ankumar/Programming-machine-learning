@@ -15,7 +15,7 @@
 - [ml-explore](https://github.com/ml-explore)
 - [NousResearch](https://github.com/orgs/NousResearch/repositories)
 
-## Tasks:  
+## Neural Networks:  
 
 Personal Identifiable Information - [pii](pii)  
 Genomics - [genomics](genomics)  
