@@ -8,12 +8,6 @@
    
 ## Problem spaces:
 
-- [DeepMind](https://github.com/google-deepmind/long-form-factuality/tree/main/longfact)
-- [AI2](https://github.com/allenai/open-instruct?tab=readme-ov-file)
-- [LMSYS](https://github.com/lm-sys)
-- [ml-explore](https://github.com/ml-explore)
-- [NousResearch](https://github.com/orgs/NousResearch/repositories)
-
 Personal Identifiable Information - [pii](pii)  
 Genomics - [genomics](genomics)  
 Predictive Human Preference - [php](php)  
