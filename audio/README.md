@@ -1,1 +1,2 @@
 - https://levanter.readthedocs.io/en/latest/tutorials/Training-On-Audio-Data/
+- https://amgadhasan.substack.com/
