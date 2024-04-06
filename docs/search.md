@@ -249,6 +249,7 @@ Differentiable programming is not merely the differentiation of programs, but al
 - [AI Copilot Interfaces](https://byrnemluke.com/ideas/llm-interfaces)
 - [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
 - [Large Language Models and Theories of Meaning](https://drive.google.com/file/d/15oXHUBaUWwhFziB1G2Tg5kQ1PPJ3XqP7/view)
+- [Objective-Driven AI](https://drive.google.com/file/d/1Ymx_LCVzy7vZXalrVHPXjX9qbpd9k_bo/view?usp=sharing)
 
 ### AI Twitter & Discord
 - [@karpathy](https://twitter.com/karpathy)
