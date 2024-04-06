@@ -1,3 +1,5 @@
+https://github.com/karpathy
+
 https://github.com/lilacai/lilac  
 
 https://github.com/adrienbrault/instructor-php  
