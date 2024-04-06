@@ -1,0 +1,1 @@
+- https://medium.com/snowflake/mistral-snowflake-the-new-frontier-in-sql-copilot-products-f71b8a939899
