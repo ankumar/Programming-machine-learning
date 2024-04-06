@@ -2,7 +2,7 @@
 
 Personal Identifiable Information - [pii](pii)  
 Predictive Human Preference - [php](php)  
-Security - [toxicity](toxicity)  
+Security - [security](security)  
 Fine Tuning - [fine-tuning](fine-tuning)  
 
 --
