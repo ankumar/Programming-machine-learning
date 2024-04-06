@@ -11,6 +11,6 @@ Code - [coding](coding)
 SQL - [sql](sql)  
 Audio - [audio](audio)  
 Small Language Models - [llm](llm)  
-Genomics - [genomics](genomics)  
+Genomics (Collab w/ My nephew [Ashish Phal](https://www.linkedin.com/in/ashish-phal-548b37125/)) - [genomics](genomics)  
 
 
