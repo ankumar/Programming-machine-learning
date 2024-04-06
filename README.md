@@ -10,6 +10,7 @@
 6. **Get Data** - python data/openwebtext/prepare.py
 7. **Training/I have a Apple M1** - python3 train.py --batch_size=32 --device=mps --compile=False 
    
+- [DeepMind](https://github.com/google-deepmind/long-form-factuality/tree/main/longfact)
 - [AI2](https://github.com/allenai/open-instruct?tab=readme-ov-file)
 - [LMSYS](https://github.com/lm-sys)
 - [ml-explore](https://github.com/ml-explore)
