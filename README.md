@@ -15,7 +15,8 @@
 - [ml-explore](https://github.com/ml-explore)
 - [NousResearch](https://github.com/orgs/NousResearch/repositories)
 
-## Neural Networks:  
+
+## Problem spaces:
 
 Personal Identifiable Information - [pii](pii)  
 Genomics - [genomics](genomics)  
