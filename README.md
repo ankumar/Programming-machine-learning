@@ -1,5 +1,3 @@
-## My personal favorite list of repos:
-
 - [karpathy](https://github.com/karpathy)
 
 1. **Get Code** - git clone https://github.com/karpathy/nanoGPT.git
@@ -10,14 +8,13 @@
 6. **Get Data** - python data/openwebtext/prepare.py
 7. **Training/ I have a Apple M1** - python3 train.py --batch_size=32 --device=mps --compile=False 
    
+## Problem spaces:
+
 - [DeepMind](https://github.com/google-deepmind/long-form-factuality/tree/main/longfact)
 - [AI2](https://github.com/allenai/open-instruct?tab=readme-ov-file)
 - [LMSYS](https://github.com/lm-sys)
 - [ml-explore](https://github.com/ml-explore)
 - [NousResearch](https://github.com/orgs/NousResearch/repositories)
-
-
-## Problem spaces:
 
 Personal Identifiable Information - [pii](pii)  
 Genomics - [genomics](genomics)  
