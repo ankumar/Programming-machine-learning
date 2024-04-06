@@ -8,11 +8,11 @@
 4. **Training/I have a Apple M1** - python train.py config/train_shakespeare_char.py --device=mps --compile=False (Ctrl+C to stop!)
 5. **Generating Text** - python sample.py --out_dir=out-shakespeare-char --device=mps 
 6. **Get Data** - python data/openwebtext/prepare.py
-7. **Training/I have a Apple M1** - 
-
-- [ml-explore](https://github.com/ml-explore)
+7. **Training/I have a Apple M1** -
+   
 - [AI2](https://github.com/allenai/open-instruct?tab=readme-ov-file)
 - [LMSYS](https://github.com/lm-sys)
+- [ml-explore](https://github.com/ml-explore)
 - [NousResearch](https://github.com/orgs/NousResearch/repositories)
 
 ## Tasks:  
