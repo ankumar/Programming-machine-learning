@@ -11,3 +11,7 @@ MicroLlama-300M:
 
 JetMoE-8B:
 - https://huggingface.co/jetmoe/jetmoe-8b
+
+--
+
+[Book: Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
