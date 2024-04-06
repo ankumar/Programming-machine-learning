@@ -1,5 +1,3 @@
-- [karpathy](https://github.com/karpathy)
-
 1. **Get Code** - git clone https://github.com/karpathy/nanoGPT.git
 2. **Get Data** - python data/shakespeare_char/prepare.py
 3. **Get PyTorch Nightly** - pip3 install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cpu   
