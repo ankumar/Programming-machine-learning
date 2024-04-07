@@ -3,6 +3,7 @@
 --
 
 Fine Tuning - [fine-tuning](fine-tuning) 
+Predictive Human Preference - [php](php) 
 
 --
 
@@ -20,8 +21,7 @@ Genomics (Collab w/ My nephew [Ashish Phal](https://www.linkedin.com/in/ashish-p
 
 --
 
-Personal Identifiable Information - [pii](pii)  
-Predictive Human Preference - [php](php)  
+Personal Identifiable Information - [pii](pii)   
 Security - [security](security)  
 
 --
