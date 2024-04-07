@@ -1,9 +1,8 @@
 ## Problem spaces:
 
-Personal Identifiable Information - [pii](pii)  
-Predictive Human Preference - [php](php)  
-Security - [security](security)  
-Fine Tuning - [fine-tuning](fine-tuning)  
+--
+
+Fine Tuning - [fine-tuning](fine-tuning) 
 
 --
 
@@ -17,6 +16,13 @@ Audio - [audio](audio)
 --
 
 Genomics (Collab w/ My nephew [Ashish Phal](https://www.linkedin.com/in/ashish-phal-548b37125/)) - [genomics](genomics)  
+
+
+--
+
+Personal Identifiable Information - [pii](pii)  
+Predictive Human Preference - [php](php)  
+Security - [security](security)  
 
 --
 
