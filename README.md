@@ -26,7 +26,7 @@ Security - [security](security)
 
 --
 
-Language Models - [llm](llm) 
+Models - [llm](llm) 
 
 --
 
