@@ -20,13 +20,7 @@ Predictive Human Preference - [php](php)
 
 Code - [coding](coding)  
 SQL - [sql](sql)  
-
---
- 
---
-
 Genomics (Collab w/ My nephew [Ashish Phal](https://www.linkedin.com/in/ashish-phal-548b37125/)) - [genomics](genomics)  
-
 More - [more](more)  
 
 --
