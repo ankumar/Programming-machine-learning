@@ -12,6 +12,9 @@ MicroLlama-300M:
 JetMoE-8B:
 - https://huggingface.co/jetmoe/jetmoe-8b
 
+hlb-GPT:
+- https://github.com/tysam-code/hlb-gpt
+
 --
 
 
