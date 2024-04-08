@@ -10,7 +10,7 @@
 **MLOps and AutoML:** Concentrates on the operationalization of ML models and the automation of the ML pipeline to streamline development and deployment processes.  
 **Hybrid Models:** Explores the integration of different model types or AI approaches to leverage their respective strengths in solving complex problems.  
 
-**Additional Considerations:**
+**Additional Considerations:**  
 **Fine Tuning:** The process of adjusting a pre-trained model to perform well on a specific task, often with a smaller dataset.  
 **Predictive Human Preference (PHP):** Could relate to leveraging human feedback in the loop of model training to refine outputs or predictions based on what is preferred or desired by humans.  
 Cross-cutting Themes
