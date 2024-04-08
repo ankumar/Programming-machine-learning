@@ -11,7 +11,7 @@
 **Hybrid Models:** Explores the integration of different model types or AI approaches to leverage their respective strengths in solving complex problems.  
 
 **Additional Considerations:**  
-**Fine Tuning:** The process of adjusting a pre-trained model to perform well on a specific task, often with a smaller dataset.  
+**Fine Tuning:** The process of training an existing pre-trained model on a specific task or dataset to improve its performance on that task.  
 **Predictive Human Preference (PHP):** Could relate to leveraging human feedback in the loop of model training to refine outputs or predictions based on what is preferred or desired by humans.  
 Cross-cutting Themes
 **Code, SQL, Genomics, and More:** These areas highlight the interdisciplinary nature of ML, where knowledge in programming, databases, biology, and other fields converge to advance ML applications.  
