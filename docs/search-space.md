@@ -239,8 +239,9 @@ Differentiable programming is not merely the differentiation of programs, but al
 - [Building the open-source feedback layer for LLMs](https://github.com/argilla-io)
 
 - [Data Provenance Explorer](https://dataprovenance.org/)
-- 
 
+- [The Engineer's Guide To Deep Learning(coming soon)](https://www.interdb.jp/dl/)
+  
 ### Articles & Talks
 - [LLM App Stack aka Emerging Architectures for LLM Applications](https://github.com/a16z-infra/llm-app-stack)
 - [A Guide to Large Language Model Abstractions](https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/)
