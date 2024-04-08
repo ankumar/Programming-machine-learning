@@ -1,5 +1,16 @@
 ## Problem spaces:
 
+1. Foundation Models
+2. Federated Learning
+3. Neural Architecture Search (NAS)
+4. Few-Shot Learning and Zero-Shot Learning
+5. AI Ethics and Bias Mitigation
+6. Energy-Efficient ML
+7. Transformers in Vision and Beyond
+8. Reinforcement Learning Enhancements
+9. MLOps and AutoML
+10. Hybrid Models
+
 --
 
 Fine Tuning - [fine-tuning](fine-tuning)  
