@@ -22,13 +22,12 @@ Code - [coding](coding)
 SQL - [sql](sql)  
 
 --
-
-Audio - [audio](audio)  
  
 --
 
 Genomics (Collab w/ My nephew [Ashish Phal](https://www.linkedin.com/in/ashish-phal-548b37125/)) - [genomics](genomics)  
 
+More - [more](more)  
 
 --
 
