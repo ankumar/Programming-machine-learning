@@ -12,8 +12,9 @@
 
 **Additional Considerations:**  
 **Fine Tuning:** The process of training an existing pre-trained model on a specific task or dataset to improve its performance on that task.  
-**Predictive Human Preference (PHP):** Could relate to leveraging human feedback in the loop of model training to refine outputs or predictions based on what is preferred or desired by humans.  
-Cross-cutting Themes
+**Predictive Human Preference (PHP):** Leveraging human feedback in the loop of model training to refine outputs or predictions based on what is preferred or desired by humans.   
+
+**Cross-cutting Themes:**
 **Code, SQL, Genomics, and More:** These areas highlight the interdisciplinary nature of ML, where knowledge in programming, databases, biology, and other fields converge to advance ML applications.  
 **Personal Identifiable Information (PII) and Security:** These considerations are crucial for ensuring that ML models respect privacy and are secure against potential threats.  
 **Hardware:** Points to the importance of developing and utilizing hardware optimized for ML tasks to improve efficiency and performance.  
