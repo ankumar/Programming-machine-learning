@@ -1,4 +1,5 @@
 - https://github.com/OpenAccess-AI-Collective/axolotl
+  - https://github.com/modal-labs/llm-finetuning
 
 - https://levanter.readthedocs.io/en/latest/Fine-Tuning/
 
