@@ -23,7 +23,8 @@
  
 Predictive Human Preference - [php](php)  
 Personal Identifiable Information - [pii](pii)  
-Genomics (Collab w/ My nephew [Ashish Phal](https://www.linkedin.com/in/ashish-phal-548b37125/)) - [genomics](genomics)  
+
+Genomics (Collab w/ My nephew [Ashish Phal](https://www.linkedin.com/in/ashish-phal-548b37125/)) - [genomics](docs/genomics.md)  
 
 
 
