@@ -2,7 +2,7 @@
 
 - https://github.com/modal-labs/llm-finetuning
 
-- https://github.com/mozilla-ai/lm-buddy
+**LM Buddy:** https://github.com/mozilla-ai/lm-buddy  
 
 - https://levanter.readthedocs.io/en/latest/Fine-Tuning/
 
