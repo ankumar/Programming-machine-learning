@@ -17,4 +17,8 @@ hlb-GPT:
 
 --
 
+[A list of all notable LLMs](https://docs.google.com/spreadsheets/d/1gc6yse74XCwBx028HV_cvdxwXkmXejVjkO-Mz2uwE0k/edit#gid=0)
+
+--
+
 [Book: Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
