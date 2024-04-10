@@ -25,7 +25,7 @@ pip install -e .
 python -m levanter.main.train_lm --config config/gpt2_nano.yaml
 ```
 
-- https://github.com/lm-sys/FastChat/blob/main/docs/training.md
+**FastChat:** https://github.com/lm-sys/FastChat/blob/main/docs/training.md  
 
 **Apple M1**  
 
