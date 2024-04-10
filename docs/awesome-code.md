@@ -36,3 +36,7 @@ Exploring these repos currently:
 - https://github.com/princeton-nlp/SWE-agent
 - https://github.com/stitionai/devika  
 - https://github.com/OpenDevin/OpenDevin
+
+--
+
+- https://medium.com/snowflake/mistral-snowflake-the-new-frontier-in-sql-copilot-products-f71b8a939899
