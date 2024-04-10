@@ -10,6 +10,7 @@ brew install rust
 brew install cmake
 pip3 install --upgrade pip
 pip3 install -e ".[model_worker,webui]"
+python3 -m fastchat.serve.cli --model-path lmsys/vicuna-7b-v1.5 --device mps --load-8bit
 pip install "mlx-lm>=0.0.6"
 python3 -m fastchat.serve.mlx_worker --model-path TinyLlama/TinyLlama-1.1B-Chat-v1.0
 ```
