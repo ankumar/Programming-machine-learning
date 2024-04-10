@@ -24,3 +24,23 @@ pip install -e .
 # Run a test
 python -m levanter.main.train_lm --config config/gpt2_nano.yaml
 ```
+
+- https://github.com/lm-sys/FastChat/blob/main/docs/training.md
+
+**Apple M1**  
+
+```
+pip install -U mlx
+git clone https://github.com/lm-sys/FastChat.git
+cd FastChat
+brew install rust 
+brew install cmake
+pip3 install --upgrade pip
+pip3 install -e ".[model_worker,webui]"
+pip install "mlx-lm>=0.0.6"
+python3 -m fastchat.serve.mlx_worker --model-path TinyLlama/TinyLlama-1.1B-Chat-v1.0
+```
+
+```
+pip3 install -e ".[train]"
+```
