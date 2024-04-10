@@ -1,5 +1,6 @@
-- https://github.com/OpenAccess-AI-Collective/axolotl
-  - https://github.com/modal-labs/llm-finetuning
+**Axolotl:** https://github.com/OpenAccess-AI-Collective/axolotl  
+
+- https://github.com/modal-labs/llm-finetuning
 
 - https://github.com/mozilla-ai/lm-buddy
 
