@@ -20,8 +20,7 @@
 **Hardware:** Points to the importance of developing and utilizing hardware optimized for ML tasks to improve efficiency and performance.  
 
 --
-
-Fine Tuning - [fine-tuning](fine-tuning)  
+ 
 Predictive Human Preference - [php](php) 
 
 --
