@@ -1,4 +1,17 @@
 **Axolotl:** https://github.com/OpenAccess-AI-Collective/axolotl  
+
+- **GCP:**
+
+```
+pip install "skypilot-nightly[gcp]"
+pip install google-api-python-client
+conda install -c conda-forge google-cloud-sdk -y
+git clone https://github.com/skypilot-org/skypilot.git
+cd skypilot/llm/axolotl
+# On-demand
+HF_TOKEN=xx sky launch axolotl.yaml --env HF_TOKEN
+```
+
 - Using Modal: https://github.com/modal-labs/llm-finetuning
 
 **FastChat:** https://github.com/lm-sys/FastChat/blob/main/docs/training.md  
