@@ -1,3 +1,6 @@
+**Axolotl:** https://github.com/OpenAccess-AI-Collective/axolotl  
+- Using Modal: https://github.com/modal-labs/llm-finetuning
+
 **FastChat:** https://github.com/lm-sys/FastChat/blob/main/docs/training.md  
 
 - **Apple M1**  
@@ -20,9 +23,6 @@ python3 -m fastchat.serve.mlx_worker --model-path mistralai/Mistral-7B-v0.1
 ```
 pip3 install -e ".[train]"
 ```
-
-**Axolotl:** https://github.com/OpenAccess-AI-Collective/axolotl  
-- Using Modal: https://github.com/modal-labs/llm-finetuning
 
 **LM Buddy:** https://github.com/mozilla-ai/lm-buddy  
 
