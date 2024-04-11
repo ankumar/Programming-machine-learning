@@ -14,7 +14,7 @@ Hackable implementation of state-of-the-art open-source large language models - 
 
 Better data, better AI - https://github.com/lilacai/lilac  
 
-https://github.com/adrienbrault/instructor-php  
+Structured data extraction in PHP - https://github.com/adrienbrault/instructor-php  
 
 https://github.com/vbwyrde/DSPY_VBWyrde  
 
