@@ -10,7 +10,7 @@ https://github.com/karpathy
 
 The Alignment Handbook - https://github.com/huggingface/alignment-handbook
 
-Lit-GPT - https://github.com/mozilla-ai/lit-gpt  
+Hackable implementation of state-of-the-art open-source large language models - https://github.com/mozilla-ai/lit-gpt  
 
 Better data, better AI - https://github.com/lilacai/lilac  
 
