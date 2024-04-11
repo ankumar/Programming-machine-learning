@@ -8,6 +8,8 @@ pip install google-api-python-client
 conda install -c conda-forge google-cloud-sdk -y
 conda activate
 sky check
+gcloud init
+gcloud auth application-default login    
 git clone https://github.com/skypilot-org/skypilot.git
 cd skypilot/llm/axolotl
 # On-demand
