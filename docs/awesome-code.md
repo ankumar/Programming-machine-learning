@@ -10,7 +10,7 @@ https://github.com/karpathy
 
 The Alignment Handbook - https://github.com/huggingface/alignment-handbook
 
-https://github.com/mozilla-ai/lit-gpt  
+Lit-GPT - https://github.com/mozilla-ai/lit-gpt  
 
 https://github.com/lilacai/lilac  
 
