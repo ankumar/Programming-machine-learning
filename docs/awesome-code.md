@@ -12,7 +12,7 @@ The Alignment Handbook - https://github.com/huggingface/alignment-handbook
 
 Lit-GPT - https://github.com/mozilla-ai/lit-gpt  
 
-https://github.com/lilacai/lilac  
+Better data, better AI - https://github.com/lilacai/lilac  
 
 https://github.com/adrienbrault/instructor-php  
 
