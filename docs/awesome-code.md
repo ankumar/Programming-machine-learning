@@ -8,6 +8,7 @@ https://github.com/karpathy
 6. **Get Data** - python data/openwebtext/prepare.py
 7. **Training/ I have a Apple M1** - python3 train.py --batch_size=32 --device=mps --compile=False 
 
+The Alignment Handbook - https://github.com/huggingface/alignment-handbook
 
 https://github.com/mozilla-ai/lit-gpt  
 
