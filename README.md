@@ -10,6 +10,8 @@
 
 **Fine Tuning:** The process of training an existing pre-trained model on a specific task or dataset to improve its performance on that task.  
 
+- https://llama.meta.com/docs/how-to-guides/fine-tuning
+
 - TODO: Link to Javelin Open Source Fine Tuning Repo goes here
 
 **Cross-cutting Themes:**
