@@ -10,7 +10,7 @@
 
 **Fine Tuning:** The process of training an existing pre-trained model on a specific task or dataset to improve its performance on that task.  
 
-- TODO: Link to Javelin Open Source Repo goes here
+- TODO: Link to Javelin Open Source Fine Tuning Repo goes here
 
 **Cross-cutting Themes:**
 
