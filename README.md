@@ -2,7 +2,7 @@
 
 **Foundation Models:** Emphasize the creation and application of large-scale models that can be adapted to a wide range of tasks with minimal task-specific tuning.  
 
-- https://github.com/orgs/getjavelin/repositories
+- https://github.com/orgs/getjavelin/repositories / SaaS: https://javelin.live/
 
 **Predictive Human Preference (PHP):** Leveraging human feedback in the loop of model training to refine outputs or predictions based on what is preferred or desired by humans.   
 
