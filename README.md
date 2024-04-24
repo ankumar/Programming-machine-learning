@@ -4,13 +4,13 @@
 
 - https://github.com/orgs/getjavelin/repositories
 
-**Fine Tuning:** The process of training an existing pre-trained model on a specific task or dataset to improve its performance on that task.  
-
-- TODO: Link to Javelin Open Source Repo goes here
-
 **Predictive Human Preference (PHP):** Leveraging human feedback in the loop of model training to refine outputs or predictions based on what is preferred or desired by humans.   
 
 - Predictive Human Preference - [php](php)  
+
+**Fine Tuning:** The process of training an existing pre-trained model on a specific task or dataset to improve its performance on that task.  
+
+- TODO: Link to Javelin Open Source Repo goes here
 
 **Cross-cutting Themes:**
 
@@ -27,13 +27,19 @@ https://ai.meta.com/research/publications/cyberseceval-2-a-wide-ranging-cybersec
 - Genomics (Collab w/ My nephew [Ashish Phal](https://www.linkedin.com/in/ashish-phal-548b37125/)) - [genomics](docs/genomics.md)  
 
 **Federated Learning:** Focuses on privacy-preserving techniques that enable model training across multiple decentralized devices or servers holding local data samples.  
+
 **Neural Architecture Search (NAS):** Highlights the automation of the design of neural network architectures to optimize performance for specific tasks.  
+
 **Few-Shot and Zero-Shot Learning:** Points to learning paradigms that aim to reduce the dependency on large labeled datasets for training models.  
+
 **AI Ethics and Bias Mitigation:** Underlines the importance of developing fair and ethical AI systems by addressing and mitigating biases in ML models.  
  
 **Transformers in Vision and Beyond:** Discusses the application of transformer models, originally designed for NLP tasks, in other domains like vision and audio processing.  
+
 **Reinforcement Learning Enhancements:** Looks at advancements in RL techniques that improve efficiency and applicability in various decision-making contexts.   
+
 **MLOps and AutoML:** Concentrates on the operationalization of ML models and the automation of the ML pipeline to streamline development and deployment processes.  
+
 **Hybrid Models:** Explores the integration of different model types or AI approaches to leverage their respective strengths in solving complex problems.  
 
 **Energy-Efficient ML:** Reflects the growing concern and need for environmentally sustainable AI by developing models that require less computational power and energy. 
