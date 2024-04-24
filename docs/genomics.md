@@ -1,6 +1,7 @@
 - [ChromBPNet](https://github.com/kundajelab/chrombpnet)
 - [BPNet-lite](https://github.com/jmschrei/bpnet-lite)
 - [tangermeme](https://github.com/jmschrei/tangermeme)
+- [Graph attention network for link prediction of gene regulations from single-cell RNA-sequencing data](https://academic.oup.com/bioinformatics/article/38/19/4522/6663989)
 
 --
 
