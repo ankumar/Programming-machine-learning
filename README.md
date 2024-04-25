@@ -29,7 +29,7 @@ https://ai.meta.com/research/publications/cyberseceval-2-a-wide-ranging-cybersec
 
 **Neural Architecture Search (NAS):** Highlights the automation of the design of neural network architectures to optimize performance for specific tasks.  
 
-- Genomics (Collab w/ [Ashish Phal](https://www.linkedin.com/in/ashish-phal-548b37125/)) - [genomics](docs/genomics.md)  
+- Biology (Collab w/ [Ashish Phal](https://www.linkedin.com/in/ashish-phal-548b37125/)) - [genomics](docs/genomics.md)  
 
 **Few-Shot and Zero-Shot Learning:** Points to learning paradigms that aim to reduce the dependency on large labeled datasets for training models.  
 
