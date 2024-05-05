@@ -4,7 +4,7 @@ This repo is an exploration & building modals Programming **Artificial [intellig
 
 ![Attention Timeline](https://github.com/ankumar/awesome-llm-architectures/assets/658791/6c70defb-8a21-4397-ba13-2b49783f0bb5)
 
--- [Introduction to Transformers w/ Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E)
+-- [Introduction to Transformers w/ Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E)  
 -- [A Comprehensive Overview of Large Language Models](https://arxiv.org/pdf/2307.06435)
 
 ### "Open" & Closed   
