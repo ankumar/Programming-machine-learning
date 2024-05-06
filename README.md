@@ -1,4 +1,4 @@
-## Problem (Search) Spaces
+## Problem Spaces
 
 **Foundation Models:** Emphasize the creation and application of large-scale models that can be adapted to a wide range of tasks with minimal task-specific tuning.  
 
