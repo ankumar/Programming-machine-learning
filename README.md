@@ -7,7 +7,6 @@
 **Predictive Human Preference (PHP):** Leveraging human feedback in the loop of model training to refine outputs or predictions based on what is preferred or desired by humans.   
 
 - Predictive Human Preference - [php](php)
-- [LMSYS - Chatbot Arena Human Preference Predictions](https://www.kaggle.com/competitions/lmsys-chatbot-arena)
 
 **Fine Tuning:** The process of training an existing pre-trained model on a specific task or dataset to improve its performance on that task.  
 
