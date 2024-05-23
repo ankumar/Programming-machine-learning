@@ -1,4 +1,4 @@
-https://www.kaggle.com/competitions/lmsys-chatbot-arena/ (Blog post: https://lmsys.org/blog/2024-05-02-kaggle-competition/)
+- [LMSYS - Chatbot Arena Human Preference Predictions](https://www.kaggle.com/competitions/lmsys-chatbot-arena) (Blog post: https://lmsys.org/blog/2024-05-02-kaggle-competition/)
 
 Datasets:  
 - https://huggingface.co/datasets/lmsys/lmsys-arena-human-preference-55k
