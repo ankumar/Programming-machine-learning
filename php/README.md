@@ -8,4 +8,5 @@ Implement this article https://huyenchip.com/2024/02/28/predictive-human-prefere
 Datasets:  
 - https://huggingface.co/datasets/lmsys/chatbot_arena_conversations  
 
+- [ArmoRM](https://huggingface.co/RLHFlow/ArmoRM-Llama3-8B-v0.1)
 
