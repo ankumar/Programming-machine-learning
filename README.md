@@ -13,8 +13,6 @@
 
 - https://llama.meta.com/docs/how-to-guides/fine-tuning
 - https://github.com/hiyouga/LLaMA-Factory
-- 
-- TODO: Link to Javelin Open Source Fine Tuning Repo goes here
 
 **Cross-cutting Themes:**
 
