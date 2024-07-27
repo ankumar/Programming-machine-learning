@@ -2,8 +2,9 @@
 
 **Foundation Models:** Emphasize the creation and application of large-scale models that can be adapted to a wide range of tasks with minimal task-specific tuning.  
 
-- https://github.com/meta-llama/llama-agentic-system 
-- https://github.com/meta-llama/llama-toolchain
+- [Llama Stack RFC](https://github.com/meta-llama/llama-toolchain/blob/RFC-0001-The-Llama-Stack/rfcs/RFC-0001-llama-stack.md)
+  - https://github.com/meta-llama/llama-agentic-system 
+  - https://github.com/meta-llama/llama-toolchain
 
 **Predictive Human Preference (PHP):** Leveraging human feedback in the loop of model training to refine outputs or predictions based on what is preferred or desired by humans.   
 
