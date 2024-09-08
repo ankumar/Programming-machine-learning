@@ -3,7 +3,7 @@
 **Foundation Models:** Emphasize the creation and application of large-scale models that can be adapted to a wide range of tasks with minimal task-specific tuning.  
 
 - [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
-  - https://huyenchip.com/llama-police
+  - [Open Source LLM Tools](https://huyenchip.com/llama-police)
 
 - [Llama Stack RFC](https://github.com/meta-llama/llama-toolchain/blob/RFC-0001-The-Llama-Stack/rfcs/RFC-0001-llama-stack.md)
   - https://github.com/meta-llama/llama-agentic-system 
