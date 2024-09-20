@@ -78,7 +78,7 @@ I.e. if your agent is supposed to order food, it should be able to find an open 
   - https://github.com/meta-llama/llama-stack-apps
   - https://github.com/meta-llama/llama-stack
 
-## Problem Spaces
+# Problem Spaces
 
 **Foundation Models:** Emphasize the creation and application of large-scale models that can be adapted to a wide range of tasks with minimal task-specific tuning.  
 
