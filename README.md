@@ -23,6 +23,7 @@ Then ChatGPT with messages Input/Output
 - Fine-tuning  **/fine_tuning/jobs**
 - Batch				**/files /batches**
 
+
 - Function Calling - Query Database, Send Emails etc.
 - Response Formats - Building AGI with OpenAI's Structured Outputs API
 
