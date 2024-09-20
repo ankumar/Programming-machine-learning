@@ -27,7 +27,7 @@ Then ChatGPT with messages Input/Output
 - Function Calling - Query Database, Send Emails etc.
 - Response Formats - Building AGI with OpenAI's Structured Outputs API
 
-[OpenAPI specification for the OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)
+[OpenAPI specification for the OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)  
 Full coverage of OpenAI endpoints here: [Drop in replacement for the OpenAI Assistants API](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
 
 Specification for the Azure OpenAI API Azure OpenAI Service REST API reference
