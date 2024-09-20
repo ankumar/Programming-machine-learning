@@ -34,10 +34,44 @@ Then ChatGPT with messages Input/Output, Chat completions        	**/chat/comple
 - for the Llama API - ?
 
 ## Authentication & Authorization
-- API Key
-- Bearer Token
-- Microsoft Entra ID
-- AWS Signature
+
+### 1. API Key
+An API key is a simple string (often alphanumeric) used to authenticate requests. It can be included as:
+- **URL Parameter**:  
+  `https://example.com/api/resource?api_key=YOUR_API_KEY`
+- **Header**:  
+  `Authorization: ApiKey YOUR_API_KEY`
+
+API keys are typically used for simple authentication and are suited for server-to-server communication but are less secure if exposed in URLs.
+
+---
+
+### 2. Bearer Token
+A **Bearer Token** is a security token that is issued as part of OAuth 2.0. This token grants the bearer access to resources. It's usually passed in the request header:
+- **Header**:  
+  `Authorization: Bearer YOUR_TOKEN`
+
+Bearer tokens offer more security compared to API keys, especially when combined with token expiration and refresh mechanisms.
+
+---
+
+### 3. Microsoft Entra ID (formerly Azure AD)
+Entra ID provides **OAuth 2.0** or **OpenID Connect (OIDC)** based authentication and authorization, mostly used for securing enterprise apps. The flow typically involves:
+- **Access Token**: Obtained after a user or service authenticates with Entra ID.
+- **Header**:  
+  `Authorization: Bearer YOUR_ACCESS_TOKEN`
+
+Entra ID is often used in conjunction with Microsoft services or enterprise environments for user-based or service-based authentication.
+
+---
+
+### 4. AWS Signature
+**AWS Signature Version 4** is used to securely sign API requests to AWS services. This method calculates a signature based on the request parameters, headers, and the user's secret access key. The signature is added to the request as:
+- **Authorization Header**:  
+  `Authorization: AWS4-HMAC-SHA256 Credential=ACCESS_KEY/..., SignedHeaders=..., Signature=SIGNATURE`
+
+It is typically more secure because the signature is derived dynamically and is time-limited.
+
 
 ## Guardrails
 - Sensitive information filters - PII types, Regex patterns etc.
