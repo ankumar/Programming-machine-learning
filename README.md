@@ -58,7 +58,7 @@ Then ChatGPT with messages Input/Output, Chat completions        	**/chat/comple
 - File Formats
 
 ## Agents
-- “Agent is a more overloaded term at this point than node, service, and instance.”
+- “Agent is a more overloaded term at this point than node, service, and instance.” (https://x.com/rakyll/status/1837164761362133057)
 
 - “I'm wondering what would be the base requirements of "true agent" (i.e. not just over-hyped marketing). 
 For me: 
