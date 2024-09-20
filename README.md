@@ -10,18 +10,18 @@ _Figuring out the best practices for developing compound AI systems is still an 
 ## Endpoints
  
 started with this one endpoint text Input/Output 
-- Completions (Legacy)		/completions
+- Completions (Legacy)		**/completions**
 
 Then ChatGPT with messages Input/Output 
-- Chat completions        	/chat/completions
+- Chat completions        	**/chat/completions**
 
 - Image generation		/images/generations
-- Text to speech			/audio/speech
-- Speech to text			/audio/transcriptions
-- Embeddings			/embeddings
-- Moderation			/moderations
-- Fine-tuning                 		/fine_tuning/jobs
-- Batch				/files /batches
+- Text to speech			**/audio/speech**
+- Speech to text			**/audio/transcriptions**
+- Embeddings			**/embeddings**
+- Moderation			**/moderations**
+- Fine-tuning  **/fine_tuning/jobs**
+- Batch				**/files /batches**
 
 - Function Calling - Query Database, Send Emails etc.
 - Response Formats - Building AGI with OpenAI's Structured Outputs API
