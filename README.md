@@ -4,6 +4,10 @@ This Article [The Shift from Models to Compound AI Systems](https://bair.berkele
 
 _Figuring out the best practices for developing compound AI systems is still an open question, but there are already exciting approaches to aid with design, end-to-end optimization, and operation. We believe that compound AI systems will remain the best way to maximize the quality and reliability of AI applications going forward, and may be one of the most important trends in AI in 2024._
 
+![image](https://github.com/user-attachments/assets/d874e82f-9b89-487e-894c-1ed3b247294d)
+
+Increasingly many new AI results are from compound systems.
+
 ## Problem Spaces
 
 **Foundation Models:** Emphasize the creation and application of large-scale models that can be adapted to a wide range of tasks with minimal task-specific tuning.  
