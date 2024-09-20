@@ -10,18 +10,18 @@ _Figuring out the best practices for developing compound AI systems is still an 
 ## Endpoints
  
 started with this one endpoint text Input/Output 
-- Completions (Legacy)		**/completions**
+1. Completions (Legacy)		**/completions**
 
 Then ChatGPT with messages Input/Output 
-- Chat completions        	**/chat/completions**
-
-- Image generation		**/images/generations**
-- Text to speech			**/audio/speech**
-- Speech to text			**/audio/transcriptions**
-- Embeddings			**/embeddings**
-- Moderation			**/moderations**
-- Fine-tuning  **/fine_tuning/jobs**
-- Batch				**/files /batches**
+2. Chat completions        	**/chat/completions**  
+  
+3. Image generation		**/images/generations**
+4. Text to speech			**/audio/speech**
+5. Speech to text			**/audio/transcriptions**
+6. Embeddings			**/embeddings**
+7. Moderation			**/moderations**
+8. Fine-tuning  **/fine_tuning/jobs**
+9. Batch				**/files /batches**
 
 
 - Function Calling - Query Database, Send Emails etc.
