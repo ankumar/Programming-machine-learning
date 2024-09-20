@@ -41,10 +41,7 @@ Then ChatGPT with messages Input/Output, Chat completions        	**/chat/comple
 - Microsoft Entra ID
 - AWS Signature
 
-
-## Problem Spaces
-
-**Foundation Models:** Emphasize the creation and application of large-scale models that can be adapted to a wide range of tasks with minimal task-specific tuning.  
+## 
 
 - [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
   - [Open Source LLM Tools](https://huyenchip.com/llama-police)
@@ -52,6 +49,10 @@ Then ChatGPT with messages Input/Output, Chat completions        	**/chat/comple
 - [Llama Stack RFC](https://github.com/meta-llama/llama-stack/blob/main/rfcs/RFC-0001-llama-stack.md)
   - https://github.com/meta-llama/llama-stack-apps
   - https://github.com/meta-llama/llama-stack
+
+## Problem Spaces
+
+**Foundation Models:** Emphasize the creation and application of large-scale models that can be adapted to a wide range of tasks with minimal task-specific tuning.  
 
 **Predictive Human Preference (PHP):** Leveraging human feedback in the loop of model training to refine outputs or predictions based on what is preferred or desired by humans.   
 
