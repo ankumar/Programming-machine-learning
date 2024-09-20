@@ -12,7 +12,7 @@ _Figuring out the best practices for developing compound AI systems is still an 
 started with this one endpoint text Input/Output 
 1. Completions (Legacy)		**/completions**
 
-Then ChatGPT with messages Input/Output  
+Then ChatGPT with messages Input/Output    
 2. Chat completions        	**/chat/completions**  
   
 3. Image generation		**/images/generations**
