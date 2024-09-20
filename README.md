@@ -57,6 +57,17 @@ Then ChatGPT with messages Input/Output, Chat completions        	**/chat/comple
 - Persistent Threads
 - File Formats
 
+## Agents
+- “Agent is a more overloaded term at this point than node, service, and instance.”
+
+- “I'm wondering what would be the base requirements of "true agent" (i.e. not just over-hyped marketing). 
+For me: 
+Can use APIs reliably. 
+APIs by other companies, not just ones specifically written for the agent.
+The API usage should cover a large subset of the services that the agent is aiming to cover. 
+
+I.e. if your agent is supposed to order food, it should be able to find an open restaurant with take away, figure out how to do the delivery and at least support the 3 large delivery companies.”
+
 
 ## 
 
