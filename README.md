@@ -41,6 +41,23 @@ Then ChatGPT with messages Input/Output, Chat completions        	**/chat/comple
 - Microsoft Entra ID
 - AWS Signature
 
+## Guardrails
+- Sensitive information filters - PII types, Regex patterns etc.
+- Content filters - Configure content filters to detect & block harmful user inputs and model responses
+- Denied topics
+- Word filters
+- Contextual grounding check
+
+## Assistants
+- Tune Personality & Capabilities
+- Call Models
+- Access Tools in parallel
+    - Built-in code_interpreter, file_search etc.
+    - Function Calling
+- Persistent Threads
+- File Formats
+
+
 ## 
 
 - [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
