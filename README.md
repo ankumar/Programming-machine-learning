@@ -35,6 +35,13 @@ Then ChatGPT with messages Input/Output, Chat completions        	**/chat/comple
 - for the Gemini API - ?
 - for the Llama API - ?
 
+## Authentication & Authorization
+- API Key
+- Bearer Token
+- Microsoft Entra ID
+- AWS Signature
+
+
 ## Problem Spaces
 
 **Foundation Models:** Emphasize the creation and application of large-scale models that can be adapted to a wide range of tasks with minimal task-specific tuning.  
