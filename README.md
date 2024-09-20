@@ -67,6 +67,7 @@ APIs by other companies, not just ones specifically written for the agent.
 The API usage should cover a large subset of the services that the agent is aiming to cover. 
 
 I.e. if your agent is supposed to order food, it should be able to find an open restaurant with take away, figure out how to do the delivery and at least support the 3 large delivery companies.”
+-- https://x.com/gwenshap/status/1837167653338681819
 
 
 ## 
