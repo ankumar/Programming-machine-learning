@@ -28,7 +28,7 @@ Then ChatGPT with messages Input/Output
 - Response Formats - Building AGI with OpenAI's Structured Outputs API
 
 Specification for the OpenAI API openai-openapi/openapi.yaml at master  
-Full coverage of OpenAI endpoints here: astra-assistants-api/coverage.md at main 
+Full coverage of OpenAI endpoints here: [https://github.com/datastax/astra-assistants-api/blob/main/coverage.md](Drop in replacement for the OpenAI Assistants API)
 
 Specification for the Azure OpenAI API Azure OpenAI Service REST API reference
 
