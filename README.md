@@ -6,7 +6,7 @@ _Figuring out the best practices for developing compound AI systems is still an 
 
 ![image](https://github.com/user-attachments/assets/d874e82f-9b89-487e-894c-1ed3b247294d)
 
-Increasingly many new AI results are from compound systems.
+<p align="center">Increasingly many new AI results are from compound systems.</p>
 
 ## Problem Spaces
 
