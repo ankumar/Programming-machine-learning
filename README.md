@@ -15,7 +15,7 @@ started with this one endpoint text Input/Output
 Then ChatGPT with messages Input/Output 
 - Chat completions        	**/chat/completions**
 
-- Image generation		/images/generations
+- Image generation		**/images/generations**
 - Text to speech			**/audio/speech**
 - Speech to text			**/audio/transcriptions**
 - Embeddings			**/embeddings**
