@@ -21,12 +21,11 @@ Then ChatGPT with messages Input/Output, Chat completions        	**/chat/comple
 8. Fine-tuning  **/fine_tuning/jobs**
 9. Batch				**/files /batches**
 
-- [OpenAPI specification for the OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)  
-- Full coverage of OpenAI endpoints here [Drop in replacement for the OpenAI Assistants API](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
-
 - Function Calling - Query Database, Send Emails etc.
 - Response Formats - [Building AGI with OpenAI's Structured Outputs API](https://www.youtube.com/watch?v=NjOfH9D8aJo)
-  
+
+- [OpenAPI specification for the OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)  
+- Full coverage of OpenAI endpoints here [Drop in replacement for the OpenAI Assistants API](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
 - Specification for the [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#api-specs)
 
 **More Specifications:**
