@@ -7,6 +7,35 @@ _Figuring out the best practices for developing compound AI systems is still an 
 ![image](https://github.com/user-attachments/assets/d874e82f-9b89-487e-894c-1ed3b247294d)
 <p align="center">Increasingly many new AI results are from compound systems.</p>
 
+## Endpoints
+ 
+started with this one endpoint text Input/Output 
+- Completions (Legacy)		/completions
+
+Then ChatGPT with messages Input/Output 
+- Chat completions        	/chat/completions
+
+- Image generation		/images/generations
+- Text to speech			/audio/speech
+- Speech to text			/audio/transcriptions
+- Embeddings			/embeddings
+- Moderation			/moderations
+- Fine-tuning                 		/fine_tuning/jobs
+- Batch				/files /batches
+
+- Function Calling - Query Database, Send Emails etc.
+- Response Formats - Building AGI with OpenAI's Structured Outputs API
+
+Specification for the OpenAI API openai-openapi/openapi.yaml at master
+Full coverage of OpenAI endpoints here: astra-assistants-api/coverage.md at main 
+
+Specification for the Azure OpenAI API Azure OpenAI Service REST API reference
+
+**More Specifications:**
+- for the Bedrock API - ?
+- for the Gemini API - ?
+- for the Llama API - ?
+
 ## Problem Spaces
 
 **Foundation Models:** Emphasize the creation and application of large-scale models that can be adapted to a wide range of tasks with minimal task-specific tuning.  
