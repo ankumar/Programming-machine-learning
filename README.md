@@ -36,10 +36,6 @@ Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
 - [The official Python library for the OpenAI API](https://github.com/openai/openai-python)
 - [Drop in replacement for the OpenAI Assistants API](https://github.com/datastax/astra-assistants-api)
   - Full coverage of OpenAI endpoints [here](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
-
-## OpenTelemetry
-- [Semantic Conventions for Generative AI systems | OpenTelemetry](https://opentelemetry.io/docs/specs/semconv/gen-ai/)
-  - [Introduce semantic conventions for modern AI (LLMs, vector databases, etc.)](https://github.com/open-telemetry/semantic-conventions/issues/327)
     
 ## Authentication & Authorization
 
@@ -121,6 +117,10 @@ I.e. if your agent is supposed to order food, it should be able to find an open 
 - [Llama Stack RFC](https://github.com/meta-llama/llama-stack/blob/main/rfcs/RFC-0001-llama-stack.md)
   - https://github.com/meta-llama/llama-stack-apps
   - https://github.com/meta-llama/llama-stack
+ 
+- OpenTelemetry
+  - [Semantic Conventions for Generative AI systems | OpenTelemetry](https://opentelemetry.io/docs/specs/semconv/gen-ai/)
+    - [Introduce semantic conventions for modern AI (LLMs, vector databases, etc.)](https://github.com/open-telemetry/semantic-conventions/issues/327)
 
 # Problem Spaces
 
