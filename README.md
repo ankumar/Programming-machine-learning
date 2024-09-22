@@ -13,10 +13,10 @@ started with this one endpoint(now Legacy), Completions **/completions** with Te
 
 Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
   
-3. Image generation		**/images/generations**
-4. Text to speech			**/audio/speech**
-5. Speech to text			**/audio/transcriptions**
-6. Embeddings			**/embeddings**
+3. Embeddings			**/embeddings**
+4. Image generation		**/images/generations**
+5. Text to speech			**/audio/speech**
+6. Speech to text			**/audio/transcriptions**
 7. Moderation			**/moderations**
 8. Fine-tuning  **/fine_tuning/jobs**
 9. Batch				**/files /batches**
