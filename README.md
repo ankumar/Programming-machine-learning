@@ -25,8 +25,13 @@ Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
 - Response Formats - [Building AGI with OpenAI's Structured Outputs API](https://www.youtube.com/watch?v=NjOfH9D8aJo)
 
 - [OpenAPI specification for the OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)  
-- Full coverage of OpenAI endpoints here [Drop in replacement for the OpenAI Assistants API](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
 - Specification for the [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#api-specs)
+
+Open**API**
+- [The official Python library for the OpenAI API](https://github.com/openai/openai-python)
+- [Drop in replacement for the OpenAI Assistants API](https://github.com/datastax/astra-assistants-api)
+  - Full coverage of OpenAI endpoints here [Drop in replacement for the OpenAI Assistants API](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
+
 
 **More Specifications:**
 - for the Bedrock API - ?
