@@ -24,6 +24,7 @@ Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
 - Function Calling - Query Database, Send Emails etc.
 - Response Formats - [Building AGI with OpenAI's Structured Outputs API](https://www.youtube.com/watch?v=NjOfH9D8aJo)
 
+## OpenAPI
 - [OpenAPI specification for the OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)  
 - Specification for the [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#api-specs)
 
@@ -32,11 +33,14 @@ Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
 - for the Gemini API - ?
 - for the Llama API - ?
 
-## OpenAPI
+### Python
 - [OpenAI Python API library](https://github.com/openai/openai-python/blob/main/api.md)
   - [The official Python library for the OpenAI API](https://github.com/openai/openai-python)
 - [Drop in replacement for the OpenAI Assistants API](https://github.com/datastax/astra-assistants-api)
   - Full coverage of OpenAI endpoints [here](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
+
+### Go
+- [The official Go library for the OpenAI API](https://github.com/openai/openai-go)
     
 ## Authentication & Authorization
 
