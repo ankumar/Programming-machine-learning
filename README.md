@@ -32,7 +32,7 @@ Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
 - for the Gemini API - ?
 - for the Llama API - ?
 
-## Open**API**
+## OpenAPI
 - [OpenAI Python API library](https://github.com/openai/openai-python/blob/main/api.md)
   - [The official Python library for the OpenAI API](https://github.com/openai/openai-python)
 - [Drop in replacement for the OpenAI Assistants API](https://github.com/datastax/astra-assistants-api)
