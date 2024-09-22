@@ -33,7 +33,8 @@ Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
 - for the Llama API - ?
 
 ## Open**API**
-- [The official Python library for the OpenAI API](https://github.com/openai/openai-python)
+- [OpenAI Python API library](https://github.com/openai/openai-python/blob/main/api.md)
+  - [The official Python library for the OpenAI API](https://github.com/openai/openai-python)
 - [Drop in replacement for the OpenAI Assistants API](https://github.com/datastax/astra-assistants-api)
   - Full coverage of OpenAI endpoints [here](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
     
