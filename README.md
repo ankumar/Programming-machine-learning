@@ -27,17 +27,20 @@ Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
 - [OpenAPI specification for the OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)  
 - Specification for the [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#api-specs)
 
-Open**API**
-- [The official Python library for the OpenAI API](https://github.com/openai/openai-python)
-- [Drop in replacement for the OpenAI Assistants API](https://github.com/datastax/astra-assistants-api)
-  - Full coverage of OpenAI endpoints [here](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
-
-
 **More Specifications:**
 - for the Bedrock API - ?
 - for the Gemini API - ?
 - for the Llama API - ?
 
+## Open**API**
+- [The official Python library for the OpenAI API](https://github.com/openai/openai-python)
+- [Drop in replacement for the OpenAI Assistants API](https://github.com/datastax/astra-assistants-api)
+  - Full coverage of OpenAI endpoints [here](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
+
+## OpenTelemetry
+- [Semantic Conventions for Generative AI systems | OpenTelemetry](https://opentelemetry.io/docs/specs/semconv/gen-ai/)
+  - [Introduce semantic conventions for modern AI (LLMs, vector databases, etc.)](https://github.com/open-telemetry/semantic-conventions/issues/327)
+    
 ## Authentication & Authorization
 
 ### 1. API Key
