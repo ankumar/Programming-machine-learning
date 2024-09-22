@@ -9,9 +9,9 @@ _Figuring out the best practices for developing compound AI systems is still an 
 
 ## Endpoints
  
-started with this one endpoint, Completions (now Legacy) **/completions** with text Input/Output
+started with this one endpoint, Completions (now Legacy) **/completions** with Text Input/Output
 
-Then ChatGPT, Chat completions **/chat/completions**  with messages Input/Output
+Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
   
 3. Image generation		**/images/generations**
 4. Text to speech			**/audio/speech**
@@ -90,7 +90,7 @@ It is typically more secure because the signature is derived dynamically and is 
 - File Formats
 
 ## Agents
-- “Agent is a more overloaded term at this point than node, service, and instance.” (https://x.com/rakyll/status/1837164761362133057)
+- “Agent is a more overloaded term at this point than node, service, and instance.” -> https://x.com/rakyll/status/1837164761362133057
 
 - “I'm wondering what would be the base requirements of "true agent" (i.e. not just over-hyped marketing). 
 For me: 
@@ -100,7 +100,7 @@ The API usage should cover a large subset of the services that the agent is aimi
 
 I.e. if your agent is supposed to order food, it should be able to find an open restaurant with take away, figure out how to do the delivery and at least support the 3 large delivery companies.”
 
-(https://x.com/gwenshap/status/1837167653338681819)
+-> https://x.com/gwenshap/status/1837167653338681819
 
 
 ## 
