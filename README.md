@@ -123,7 +123,7 @@ I.e. if your agent is supposed to order food, it should be able to find an open 
   - https://github.com/meta-llama/llama-stack-apps
   - https://github.com/meta-llama/llama-stack
  
-- OpenTelemetry
+- [OpenTelemetry](https://opentelemetry.io/)
   - [Semantic Conventions for Generative AI systems | OpenTelemetry](https://opentelemetry.io/docs/specs/semconv/gen-ai/)
     - [Introduce semantic conventions for modern AI (LLMs, vector databases, etc.)](https://github.com/open-telemetry/semantic-conventions/issues/327)
 
