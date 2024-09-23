@@ -9,7 +9,7 @@ _Figuring out the best practices for developing compound AI systems is still an 
 
 ## Endpoints
  
-started with this one endpoint(now Legacy), Completions **/completions** with Text Input/Output
+started with this one endpoint(now Legacy) Completions **/completions** with Text Input/Output
 
 Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
   
