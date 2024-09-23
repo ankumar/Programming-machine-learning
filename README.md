@@ -41,7 +41,7 @@ Python:
 - for the Llama API - ?
 
 **More Languages:**
-- [The official Go library for the OpenAI API](https://github.com/openai/openai-go)
+- The official [Go](https://github.com/openai/openai-go) library for the OpenAI API
     
 ## Authentication & Authorization
 
