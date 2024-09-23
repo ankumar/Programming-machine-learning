@@ -39,7 +39,7 @@ Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
 - [Drop in replacement for the OpenAI Assistants API](https://github.com/datastax/astra-assistants-api)
   - Full coverage of OpenAI endpoints in the repo [here](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
 
-### Go
+**More Languages:**
 - [The official Go library for the OpenAI API](https://github.com/openai/openai-go)
     
 ## Authentication & Authorization
