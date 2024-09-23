@@ -40,6 +40,10 @@ Python SDK:
 
 **More Languages:**
 - The official [Go](https://github.com/openai/openai-go) library for the OpenAI API
+
+- [Llama Stack RFC](https://github.com/meta-llama/llama-stack/blob/main/rfcs/RFC-0001-llama-stack.md)
+  - https://github.com/meta-llama/llama-stack-apps
+  - https://github.com/meta-llama/llama-stack
     
 ## Authentication & Authorization
 
@@ -112,19 +116,15 @@ I.e. if your agent is supposed to order food, it should be able to find an open 
 
 -> https://x.com/gwenshap/status/1837167653338681819
 
+## Telemetry
+- [OpenTelemetry](https://opentelemetry.io/)
+  - [Semantic Conventions for Generative AI systems | OpenTelemetry](https://opentelemetry.io/docs/specs/semconv/gen-ai/)
+    - [Introduce semantic conventions for modern AI (LLMs, vector databases, etc.)](https://github.com/open-telemetry/semantic-conventions/issues/327)
 
 ## 
 
 - [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
   - [Open Source LLM Tools](https://huyenchip.com/llama-police)
-
-- [Llama Stack RFC](https://github.com/meta-llama/llama-stack/blob/main/rfcs/RFC-0001-llama-stack.md)
-  - https://github.com/meta-llama/llama-stack-apps
-  - https://github.com/meta-llama/llama-stack
- 
-- [OpenTelemetry](https://opentelemetry.io/)
-  - [Semantic Conventions for Generative AI systems | OpenTelemetry](https://opentelemetry.io/docs/specs/semconv/gen-ai/)
-    - [Introduce semantic conventions for modern AI (LLMs, vector databases, etc.)](https://github.com/open-telemetry/semantic-conventions/issues/327)
 
 # Problem Spaces
 
