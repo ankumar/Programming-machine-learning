@@ -7,8 +7,7 @@ _Figuring out the best practices for developing compound AI systems is still an 
 ![image](https://github.com/user-attachments/assets/d874e82f-9b89-487e-894c-1ed3b247294d)
 <p align="center">Increasingly many new AI results are from compound systems.</p>
 
-## Endpoints
- 
+## OpenAPI
 started with this one endpoint Completions **/completions** with Text Input/Output (now Legacy)
 
 Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
@@ -24,7 +23,6 @@ Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
 - Function Calling - Query Database, Send Emails etc.
 - Response Formats - [Building AGI with OpenAI's Structured Outputs API](https://www.youtube.com/watch?v=NjOfH9D8aJo)
 
-## OpenAPI
 REST API:  
 - OpenAPI specification for the [OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)  
 - Specification for the [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#api-specs)
