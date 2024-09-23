@@ -32,6 +32,10 @@ Python SDK:
 
 - [Drop in replacement](https://github.com/datastax/astra-assistants-api) for the OpenAI Assistants API
   - Full coverage of OpenAI endpoints in the repo [here](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
+ 
+- [Llama Stack RFC](https://github.com/meta-llama/llama-stack/blob/main/rfcs/RFC-0001-llama-stack.md)
+  - https://github.com/meta-llama/llama-stack-apps
+  - https://github.com/meta-llama/llama-stack
 
 **More Specifications:**
 - for the Bedrock API - ?
@@ -40,10 +44,6 @@ Python SDK:
 
 **More Languages:**
 - The official [Go](https://github.com/openai/openai-go) library for the OpenAI API
-
-- [Llama Stack RFC](https://github.com/meta-llama/llama-stack/blob/main/rfcs/RFC-0001-llama-stack.md)
-  - https://github.com/meta-llama/llama-stack-apps
-  - https://github.com/meta-llama/llama-stack
     
 ## Authentication & Authorization
 
