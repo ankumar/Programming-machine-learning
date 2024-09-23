@@ -26,7 +26,7 @@ Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
 
 ## OpenAPI
 REST API:  
-- [OpenAPI specification for the OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)  
+- OpenAPI specification for the [OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)  
 - Specification for the [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#api-specs)
 
 Python:  
