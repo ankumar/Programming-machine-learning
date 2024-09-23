@@ -30,9 +30,9 @@ REST API:
 - Specification for the [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#api-specs)
 
 Python:  
-- [OpenAI Python API library](https://github.com/openai/openai-python/blob/main/api.md) in the [The official Python library for the OpenAI API](https://github.com/openai/openai-python)
+- [OpenAI Python API library](https://github.com/openai/openai-python/blob/main/api.md) in the The official Python library for the [OpenAI API](https://github.com/openai/openai-python)
 
-- [Drop in replacement for the OpenAI Assistants API](https://github.com/datastax/astra-assistants-api)
+- [Drop in replacement](https://github.com/datastax/astra-assistants-api) for the OpenAI Assistants API
   - Full coverage of OpenAI endpoints in the repo [here](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
 
 **More Specifications:**
