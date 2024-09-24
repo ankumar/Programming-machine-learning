@@ -1,3 +1,8 @@
+#
+
+- [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
+  - [Open Source LLM Tools](https://huyenchip.com/llama-police)
+    
 # “Compound AI Systems”
 
 This Article [The Shift from Models to Compound AI Systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) from Berkeley AI Research(BAIR) introduces the concept of Compound AI Systems where the focus is rapidly changing: state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models. 
@@ -120,11 +125,6 @@ I.e. if your agent is supposed to order food, it should be able to find an open 
 - [OpenTelemetry](https://opentelemetry.io/)
   - [Semantic Conventions for Generative AI systems | OpenTelemetry](https://opentelemetry.io/docs/specs/semconv/gen-ai/)
     - [Introduce semantic conventions for modern AI (LLMs, vector databases, etc.)](https://github.com/open-telemetry/semantic-conventions/issues/327)
-
-## 
-
-- [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
-  - [Open Source LLM Tools](https://huyenchip.com/llama-police)
 
 # Problem Spaces
 
