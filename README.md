@@ -1,4 +1,3 @@
-#
 
 - [Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
   - [Open Source LLM Tools](https://huyenchip.com/llama-police)
