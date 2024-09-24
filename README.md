@@ -128,6 +128,10 @@ I.e. if your agent is supposed to order food, it should be able to find an open 
 
 # Problem Spaces
 
+![image](https://github.com/user-attachments/assets/6830c307-62ad-4255-ab3a-5d7037176e2b)
+<p align="center">Source: https://github.com/rasbt/LLMs-from-scratch</p>
+
+
 **Foundation Models:** Emphasize the creation and application of large-scale models that can be adapted to a wide range of tasks with minimal task-specific tuning.  
 
 **Predictive Human Preference (PHP):** Leveraging human feedback in the loop of model training to refine outputs or predictions based on what is preferred or desired by humans.   
