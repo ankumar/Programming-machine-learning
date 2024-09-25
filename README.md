@@ -1,5 +1,5 @@
 1. [**The Shift from Models to Compound AI Systems**](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)  
-This article from Berkeley AI Research (BAIR) highlights a growing trend where AI advancements increasingly rely on **compound AI systems**—combinations of multiple models and components—rather than traditional monolithic models. Compound systems offer more flexibility and adaptability, as each component can specialize in a different task or phase of the pipeline.
+This article from Berkeley AI Research (BAIR) highlights a growing trend where AI advancements increasingly rely on **compound AI systems**—combinations of multiple models and components—rather than traditional monolithic models. Compound systems offer more flexibility and adaptability, as each component can specialize in a different task or phase of the pipeline.  
 Key points:
 - **Design, optimization, and operation:** Approaches are still emerging, but compound AI systems are proving more efficient for complex tasks.
 - **Maximizing reliability and quality:** These systems promise higher reliability, particularly for large-scale applications, by breaking down tasks into smaller, more manageable units. 
