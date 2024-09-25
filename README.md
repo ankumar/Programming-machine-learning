@@ -12,8 +12,12 @@ Key points:
 - **Trend for 2024:** BAIR sees this as one of the most important trends, where developers will focus on how to assemble these components in effective ways.
 
 2. [**Building A Generative AI Platform**](https://huyenchip.com/2024/07/25/genai-platform.html)
-  - [Open Source LLM Tools](https://huyenchip.com/llama-police)
+This article explores the architecture and development of a generative AI platform, focusing on the challenges of integrating various AI components. It emphasizes:
+- Open Source LLM Tools: The article references several tools and techniques for building generative AI, especially focusing on model alignment, optimization, and adaptability. The referenced [Open Source LLM Tools](https://huyenchip.com/llama-police) are crucial for understanding the ecosystem surrounding generative AI models like Meta’s LLaMA.
+- Challenges in platform building: From model integration to ensuring the alignment of generative AI output with intended use cases, there are many hurdles in achieving an operational platform.
 
+Both articles stress that the future of AI will involve more sophisticated systems, relying on the cooperation of various specialized models (compound AI) and the integration of diverse tools for generative AI platform development. This aligns with your ongoing exploration of compound AI systems and generative AI platform architecture.
+   
 ## OpenAPI
 started with this one endpoint Completions **/completions** with Text Input/Output (now Legacy)
 
