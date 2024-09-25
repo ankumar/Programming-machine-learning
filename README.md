@@ -58,7 +58,7 @@ Python SDK:
 **More Languages:**
 - The official [Go](https://github.com/openai/openai-go) library for the OpenAI API
     
-## Authentication & Authorization
+## Auth(entication & orization)
 
 ### 1. API Key
 An API key is a simple string (often alphanumeric) used to authenticate requests. It can be included as:
