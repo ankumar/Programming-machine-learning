@@ -1,12 +1,10 @@
 1. [**The Shift from Models to Compound AI Systems**](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)  
-This article from Berkeley AI Research (BAIR) highlights a growing trend where AI advancements increasingly rely on **compound AI systems**—combinations of multiple models and components—rather than traditional monolithic models. Compound systems offer more flexibility and adaptability, as each component can specialize in a different task or phase of the pipeline.
-
-<p align="center">**state-of-the-art AI results are increasingly obtained by compound systems with multiple components, not just monolithic models**.</p>
-
+This article from Berkeley AI Research (BAIR) highlights a growing trend where AI advancements increasingly rely on **compound AI systems**—combinations of multiple models and components—rather than traditional monolithic models. Compound systems offer more flexibility and adaptability, as each component can specialize in a different task or phase of the pipeline.  
 Key points:
-	•	**Design, optimization, and operation:** Approaches are still emerging, but compound AI systems are proving more efficient for complex tasks.
-	•	**Maximizing reliability and quality:** These systems promise higher reliability, particularly for large-scale applications, by breaking down tasks into smaller, more manageable units. 
-	•	**Trend for 2024:** BAIR sees this as one of the most important trends, where developers will focus on how to assemble these components in effective ways.  
+- **Design, optimization, and operation:** Approaches are still emerging, but compound AI systems are proving more efficient for complex tasks.
+- **Maximizing reliability and quality:** These systems promise higher reliability, particularly for large-scale applications, by breaking down tasks into smaller, more manageable units. 
+- **Trend for 2024:** BAIR sees this as one of the most important trends, where developers will focus on how to assemble these components in effective ways.
+   
 "_Figuring out the best practices for developing compound AI systems is still an open question, but there are already exciting approaches to aid with design, end-to-end optimization, and operation. We believe that compound AI systems will remain the best way to maximize the quality and reliability of AI applications going forward, and may be one of the most important trends in AI in 2024._"
 
 ![image](https://github.com/user-attachments/assets/d874e82f-9b89-487e-894c-1ed3b247294d)
