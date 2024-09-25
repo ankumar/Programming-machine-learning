@@ -11,6 +11,7 @@ Key points:
 ![image](https://github.com/user-attachments/assets/d874e82f-9b89-487e-894c-1ed3b247294d)
 <p align="center">Increasingly many new AI results are from compound systems.</p>
 
+
 2. [**Building A Generative AI Platform**](https://huyenchip.com/2024/07/25/genai-platform.html)
   - [Open Source LLM Tools](https://huyenchip.com/llama-police)
 
