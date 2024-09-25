@@ -1,3 +1,5 @@
+# System Space
+
 1. [**The Shift from Models to Compound AI Systems**](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)  
 This article from Berkeley AI Research (BAIR) highlights a growing trend where AI advancements increasingly rely on **compound AI systems**—combinations of multiple models and components—rather than traditional monolithic models. Compound systems offer more flexibility and adaptability, as each component can specialize in a different task or phase of the pipeline.  
 
@@ -132,7 +134,7 @@ I.e. if your agent is supposed to order food, it should be able to find an open 
   - [Semantic Conventions for Generative AI systems | OpenTelemetry](https://opentelemetry.io/docs/specs/semconv/gen-ai/)
     - [Introduce semantic conventions for modern AI (LLMs, vector databases, etc.)](https://github.com/open-telemetry/semantic-conventions/issues/327)
 
-# Problem Spaces
+# More Spaces
 
 ![image](https://github.com/user-attachments/assets/6830c307-62ad-4255-ab3a-5d7037176e2b)
 <p align="center">Source: https://github.com/rasbt/LLMs-from-scratch</p>
