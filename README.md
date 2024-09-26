@@ -1,7 +1,6 @@
 # Systems Space
 
-1. [**The Shift from Models to Compound AI Systems**](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)  
-This article from Berkeley AI Research (BAIR) highlights a growing trend where AI advancements increasingly rely on **compound AI systems**—combinations of multiple models and components—rather than traditional monolithic models. Compound systems offer more flexibility and adaptability, as each component can specialize in a different task or phase of the pipeline.  
+1. [**The Shift from Models to Compound AI Systems**](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) - This article from Berkeley AI Research (BAIR) highlights a growing trend where AI advancements increasingly rely on **compound AI systems**—combinations of multiple models and components—rather than traditional monolithic models. Compound systems offer more flexibility and adaptability, as each component can specialize in a different task or phase of the pipeline.  
 
 Key points:
 - **Design, optimization, and operation:** Approaches are still emerging, but compound AI systems are proving more efficient for complex tasks.
@@ -13,8 +12,7 @@ Key points:
 
 "_Figuring out the best practices for developing compound AI systems is still an open question, but there are already exciting approaches to aid with design, end-to-end optimization, and operation. We believe that compound AI systems will remain the best way to maximize the quality and reliability of AI applications going forward, and may be one of the most important trends in AI in 2024._"
 
-2. [**Building A Generative AI Platform**](https://huyenchip.com/2024/07/25/genai-platform.html)
-This article explores the architecture and development of a generative AI platform, focusing on the challenges of integrating various AI components. It emphasizes:
+2. [**Building A Generative AI Platform**](https://huyenchip.com/2024/07/25/genai-platform.html) - This article explores the architecture and development of a generative AI platform, focusing on the challenges of integrating various AI components. It emphasizes:
 - **Open Source LLM Tools:** The article references several tools and techniques for building generative AI, especially focusing on model alignment, optimization, and adaptability. The referenced [Open Source LLM Tools](https://huyenchip.com/llama-police) are crucial for understanding the ecosystem surrounding generative AI models like Meta’s LLaMA.
 - **Challenges in platform building:** From model integration to ensuring the alignment of generative AI output with intended use cases, there are many hurdles in achieving an operational platform.
 
