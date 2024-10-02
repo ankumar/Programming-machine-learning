@@ -50,7 +50,7 @@ Python SDK:
   - https://github.com/meta-llama/llama-stack-apps
   - https://github.com/meta-llama/llama-stack
 
-**More Specifications:**
+**More APIs:**
 - [Bedrock API](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_InvokeModel.html) - ?
 - Gemini API - ?
 - [Llama Stack API](https://github.com/meta-llama/llama-stack/blob/main/docs/resources/llama-stack-spec.yaml) - ?
