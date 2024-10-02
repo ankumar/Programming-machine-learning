@@ -51,9 +51,9 @@ Python SDK:
   - https://github.com/meta-llama/llama-stack
 
 **More Specifications:**
-- for the Bedrock API - ?
-- for the Gemini API - ?
-- for the Llama API - ?
+- [Bedrock API](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_InvokeModel.html) - ?
+- Gemini API - ?
+- Llama API - ?
 
 **More Languages:**
 - The official [Go](https://github.com/openai/openai-go) library for the OpenAI API
