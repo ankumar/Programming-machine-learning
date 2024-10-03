@@ -64,6 +64,31 @@ chat_completion = client.chat.completions.create(
 
 print(chat_completion.to_json())
 # print(chat_completion.choices[0].message.content)
+
+from openai import AzureOpenAI
+
+# gets the API Key from environment variable AZURE_OPENAI_API_KEY
+client = AzureOpenAI(
+    # https://learn.microsoft.com/azure/ai-services/openai/reference#rest-api-versioning
+    # api_version="2023-07-01-preview",
+    api_version="2024-02-15-preview",
+    # https://learn.microsoft.com/azure/cognitive-services/openai/how-to/create-resource?pivots=web-portal#create-a-resource
+    # azure_endpoint="https://example-endpoint.openai.azure.com",
+    azure_endpoint="https://javelinpreview.openai.azure.com",
+    # azure_deployment="gpt35",
+)
+
+chat_completion = client.chat.completions.create(
+    # model="deployment-name",  # e.g. gpt-35-instant
+    model="gpt35",  # gpt-35-turbo
+    messages=[
+        {
+            "role": "user",
+            "content": "How do I output all files in a directory using Python?",
+        },
+    ],
+)
+print(chat_completion.to_json())
 ```
 
 - [Drop in replacement](https://github.com/datastax/astra-assistants-api) for the OpenAI Assistants API
