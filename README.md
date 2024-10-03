@@ -43,6 +43,7 @@ REST API:
 Python SDK:  
 - OpenAI Python [API](https://github.com/openai/openai-python/blob/main/api.md) library in the The official Python library for the [OpenAI API](https://github.com/openai/openai-python)
 
+python
 import os
 from openai import OpenAI
 
