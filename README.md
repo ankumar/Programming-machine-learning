@@ -40,7 +40,7 @@ REST API:
 - OpenAPI specification for the [OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)  
 - Specification for the [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#api-specs)
   
-- **More APIs:**
+**More APIs:**
   - [Bedrock API](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_InvokeModel.html) - ?
   - Gemini API - ?
   - [Llama Stack API](https://github.com/meta-llama/llama-stack/blob/main/docs/resources/llama-stack-spec.yaml) - ?
