@@ -64,6 +64,7 @@ chat_completion = client.chat.completions.create(
 
 print(chat_completion.to_json())
 # print(chat_completion.choices[0].message.content)
+```
 
 - [Drop in replacement](https://github.com/datastax/astra-assistants-api) for the OpenAI Assistants API
   - Full coverage of OpenAI endpoints in the repo [here](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
