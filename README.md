@@ -100,7 +100,9 @@ client = Anthropic()
 client = AnthropicBedrock()  
 client = AnthropicVertex()  
 
-client.messages.create()  
+message = client.messages.create()  
+print(message.content)  
+
   
 
 - [Drop in replacement](https://github.com/datastax/astra-assistants-api) for the OpenAI Assistants API
