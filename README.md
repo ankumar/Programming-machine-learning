@@ -94,6 +94,12 @@ chat_completion = client.chat.completions.create(
 print(chat_completion.to_json())
 ```
 
+We have similar patterns w/ Anthropic models:
+
+client = Anthropic()
+client = AnthropicBedrock()
+client = AnthropicVertex()
+
 - [Drop in replacement](https://github.com/datastax/astra-assistants-api) for the OpenAI Assistants API
   - Full coverage of OpenAI endpoints in the repo [here](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
  
