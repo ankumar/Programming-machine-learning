@@ -191,7 +191,7 @@ I.e. if your agent is supposed to order food, it should be able to find an open 
   - [Semantic Conventions for Generative AI systems | OpenTelemetry](https://opentelemetry.io/docs/specs/semconv/gen-ai/)
     - [Introduce semantic conventions for modern AI (LLMs, vector databases, etc.)](https://github.com/open-telemetry/semantic-conventions/issues/327)
 
-# More Spaces...
+# Model Spaces...
 
 ![image](https://github.com/user-attachments/assets/6830c307-62ad-4255-ab3a-5d7037176e2b)
 <p align="center">Source: https://github.com/rasbt/LLMs-from-scratch</p>
