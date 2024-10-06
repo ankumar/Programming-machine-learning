@@ -45,7 +45,7 @@ REST API:
   - Gemini API - ?
   - [Llama Stack API](https://github.com/meta-llama/llama-stack/blob/main/docs/resources/llama-stack-spec.yaml) - ?
 
-Python SDK:  
+Python SDKs:  
 - OpenAI Python [API](https://github.com/openai/openai-python/blob/main/api.md) library in the The official Python library for the [OpenAI API](https://github.com/openai/openai-python)
 
 ```python  
@@ -117,7 +117,7 @@ print(message.content)
     
 ## Secrets
 
-### 1. API Key
+### 1. API Keys
 An API key is a simple string (often alphanumeric) used to authenticate requests. It can be included as:
 - **URL Parameter**:  
   `https://example.com/api/resource?api_key=YOUR_API_KEY`
