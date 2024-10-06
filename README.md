@@ -1,4 +1,4 @@
-[Google Gemini NotebookLM Deep Dive](https://notebooklm.google.com/notebook/2c5d3409-08db-4627-8335-a871acb8d6ab/audio)
+[Listen to NotebookLM Deep Dive of this repository](https://notebooklm.google.com/notebook/2c5d3409-08db-4627-8335-a871acb8d6ab/audio)
 
 # Systems Space
 
