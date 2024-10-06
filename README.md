@@ -33,13 +33,13 @@ Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
 7. Moderation			**/moderations**
 8. Fine-tuning  **/fine_tuning/jobs**
 9. Batch				**/files /batches**
-
-- Function Calling - Query Database, Send Alerts etc.
-- Response Formats - [Building AGI with OpenAI's Structured Outputs API](https://www.youtube.com/watch?v=NjOfH9D8aJo)
-
 REST API:  
 - OpenAPI specification for the [OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)  
 - Specification for the [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#api-specs)
+
+  
+- Function Calling - Query Database, Send Alerts etc.
+- Response Formats - [Building AGI with OpenAI's Structured Outputs API](https://www.youtube.com/watch?v=NjOfH9D8aJo)
   
 **More APIs:**
   - [Bedrock API](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_InvokeModel.html) - ?
