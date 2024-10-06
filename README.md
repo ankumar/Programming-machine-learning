@@ -20,7 +20,7 @@ Key points:
 
 Both articles stress that the future of AI will involve **more sophisticated systems**, relying on the cooperation of various specialized models (compound AI) and the integration of diverse tools for generative AI platform development. This aligns with ongoing exploration of **compound AI systems** and **generative AI platform architecture**.
    
-## OpenAPI
+## API
 started with this one endpoint Completions **/completions** with Text Input/Output (now Legacy)
 
 Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
