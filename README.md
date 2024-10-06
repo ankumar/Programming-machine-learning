@@ -94,7 +94,7 @@ chat_completion = client.chat.completions.create(
 print(chat_completion.to_json())
 ```
 
-We have similar patterns w/ Anthropic models:
+**More API Patterns:**
 
 client = Anthropic()  
 client = AnthropicBedrock()  
