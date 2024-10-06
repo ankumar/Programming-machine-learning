@@ -34,17 +34,15 @@ Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
 8. Fine-tuning  **/fine_tuning/jobs**
 9. Batch				**/files /batches**
 REST API:  
-- OpenAPI specification for the [OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)  
-- Specification for the [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#api-specs)
-
-  
+- Full OpenAPI specification for the [OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)    
 - Response Formats - [Building AGI with OpenAI's Structured Outputs API](https://www.youtube.com/watch?v=NjOfH9D8aJo)
 - Function Calling - Query Database, Send Alerts etc.
 
 **More APIs:**
-  - [Bedrock API](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_InvokeModel.html) - ?
+  - [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#api-specs)
+  - [Bedrock API](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_InvokeModel.html)
+  - [Llama Stack API](https://github.com/meta-llama/llama-stack/blob/main/docs/resources/llama-stack-spec.yaml)
   - Gemini API - ?
-  - [Llama Stack API](https://github.com/meta-llama/llama-stack/blob/main/docs/resources/llama-stack-spec.yaml) - ?
 
 Python SDKs:  
 - OpenAI Python [API](https://github.com/openai/openai-python/blob/main/api.md) library in the The official Python library for the [OpenAI API](https://github.com/openai/openai-python)
