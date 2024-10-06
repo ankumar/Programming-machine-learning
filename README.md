@@ -33,7 +33,7 @@ Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
 8. Fine-tuning  **/fine_tuning/jobs**
 9. Batch				**/files /batches**
 
-- Function Calling - Query Database, Send Emails etc.
+- Function Calling - Query Database, Send Alerts etc.
 - Response Formats - [Building AGI with OpenAI's Structured Outputs API](https://www.youtube.com/watch?v=NjOfH9D8aJo)
 
 REST API:  
