@@ -38,9 +38,9 @@ REST API:
 - Specification for the [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#api-specs)
 
   
-- Function Calling - Query Database, Send Alerts etc.
 - Response Formats - [Building AGI with OpenAI's Structured Outputs API](https://www.youtube.com/watch?v=NjOfH9D8aJo)
-  
+- Function Calling - Query Database, Send Alerts etc.
+
 **More APIs:**
   - [Bedrock API](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_InvokeModel.html) - ?
   - Gemini API - ?
