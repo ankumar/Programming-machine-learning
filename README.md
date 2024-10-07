@@ -94,14 +94,16 @@ chat_completion = client.chat.completions.create(
 print(chat_completion.to_json())
 ```
   
-Anthropic SDK:  
-  
+- Anthropic Python:  
+
+```python
 client = Anthropic()  
 client = AnthropicBedrock()  
 client = AnthropicVertex()  
 
 message = client.messages.create()  
-print(message.content)  
+print(message.content)
+```
 
 **More Developments:**
   
