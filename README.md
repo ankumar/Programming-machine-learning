@@ -93,9 +93,9 @@ chat_completion = client.chat.completions.create(
 )
 print(chat_completion.to_json())
 ```
-
-**More API Patterns:**
-
+  
+Anthropic SDK:  
+  
 client = Anthropic()  
 client = AnthropicBedrock()  
 client = AnthropicVertex()  
@@ -103,8 +103,8 @@ client = AnthropicVertex()
 message = client.messages.create()  
 print(message.content)  
 
+**More Developments:**
   
-
 - [Drop in replacement](https://github.com/datastax/astra-assistants-api) for the OpenAI Assistants API
   - Full coverage of OpenAI endpoints in the repo [here](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
  
