@@ -111,6 +111,9 @@ print(message.content)
 - [Llama Stack RFC](https://github.com/meta-llama/llama-stack/blob/main/rfcs/RFC-0001-llama-stack.md)
   - https://github.com/meta-llama/llama-stack-apps
   - https://github.com/meta-llama/llama-stack
+ 
+- [Web APIs](https://developer.chrome.com/docs/ai/built-in)
+  - https://x.com/addyosmani/status/1843328653155062108  
 
 **More Languages:**
 - The official [Go](https://github.com/openai/openai-go) library for the OpenAI API
