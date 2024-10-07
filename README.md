@@ -34,6 +34,7 @@ Then ChatGPT, Chat completions **/chat/completions**  with Messages Input/Output
 7. Moderation			**/moderations**
 8. Fine-tuning  **/fine_tuning/jobs**
 9. Batch				**/files /batches**
+  
 REST API:  
 - Full OpenAPI specification for the [OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)    
 - Response Formats - [Building AGI with OpenAI's Structured Outputs API](https://www.youtube.com/watch?v=NjOfH9D8aJo)
