@@ -38,8 +38,7 @@ REST API:
 - Full OpenAPI specification for the [OpenAI API](https://github.com/openai/openai-openapi/blob/master/openapi.yaml)    
 - Response Formats - [Building AGI with OpenAI's Structured Outputs API](https://www.youtube.com/watch?v=NjOfH9D8aJo)
 - Function Calling - Query Database, Send Alerts etc.
-
-**More APIs:**
+-
   - [Azure OpenAI API](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#api-specs)
   - [Bedrock API](https://docs.aws.amazon.com/bedrock/latest/APIReference/API_runtime_InvokeModel.html)
   - [Llama Stack API](https://github.com/meta-llama/llama-stack/blob/main/docs/resources/llama-stack-spec.yaml)
@@ -105,7 +104,7 @@ message = client.messages.create()
 print(message.content)
 ```
 
-**More Developments:**
+**More APIs:**
   
 - [Drop in replacement](https://github.com/datastax/astra-assistants-api) for the OpenAI Assistants API
   - Full coverage of OpenAI endpoints in the repo [here](https://github.com/datastax/astra-assistants-api/blob/main/coverage.md)
