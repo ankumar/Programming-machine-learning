@@ -1,8 +1,8 @@
 ## NotebookLM Deep Dives
 
-[Deep Dive of this repo](https://notebooklm.google.com/notebook/79e7fe17-3ab6-4068-882b-af76e5692c81/audio)
+[Deep Dive of this Repo](https://notebooklm.google.com/notebook/79e7fe17-3ab6-4068-882b-af76e5692c81/audio)
 
-[garak: LLM vulnerability scanner](https://notebooklm.google.com/notebook/db77f24f-738b-4eed-af92-59b9bd519ea7/audio)
+[garak: LLM Vulnerability Scanner](https://notebooklm.google.com/notebook/db77f24f-738b-4eed-af92-59b9bd519ea7/audio)
 
 [Hopfield Networks is All You Need](https://notebooklm.google.com/notebook/e4b4dcff-eafc-4667-847d-451bb405d60b/audio)
 
