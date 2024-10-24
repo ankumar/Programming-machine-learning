@@ -2,13 +2,13 @@
 
 [Deep Dive of this Repo](https://notebooklm.google.com/notebook/79e7fe17-3ab6-4068-882b-af76e5692c81/audio)
 
+[Apple Private Cloud Compute](https://notebooklm.google.com/notebook/168417ca-eb4f-4755-909e-321dd67b259b/audio)
+
 [garak: LLM Vulnerability Scanner](https://notebooklm.google.com/notebook/db77f24f-738b-4eed-af92-59b9bd519ea7/audio)
 
 [Hopfield Networks is All You Need](https://notebooklm.google.com/notebook/e4b4dcff-eafc-4667-847d-451bb405d60b/audio)
 
 # Systems Space
-
-0. [Private Cloud Compute](https://security.apple.com/)
 
 1. [**The Shift from Models to Compound AI Systems**](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/) - This article from Berkeley AI Research (BAIR) highlights a growing trend where AI advancements increasingly rely on **compound AI systems**—combinations of multiple models and components—rather than traditional monolithic models. Compound systems offer more flexibility and adaptability, as each component can specialize in a different task or phase of the pipeline.  
 
