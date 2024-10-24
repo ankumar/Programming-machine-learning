@@ -2,7 +2,7 @@
 
 [Deep Dive of this Repo](https://notebooklm.google.com/notebook/79e7fe17-3ab6-4068-882b-af76e5692c81/audio)
 
-[Apple Private Cloud Compute(PCC)](https://notebooklm.google.com/notebook/168417ca-eb4f-4755-909e-321dd67b259b/audio)
+[Apple Private Cloud Compute (PCC)](https://notebooklm.google.com/notebook/168417ca-eb4f-4755-909e-321dd67b259b/audio)
 
 [garak: LLM Vulnerability Scanner](https://notebooklm.google.com/notebook/db77f24f-738b-4eed-af92-59b9bd519ea7/audio)
 
