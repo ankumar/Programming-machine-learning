@@ -1,8 +1,8 @@
 # Deep Dive
 
-[Deep Dive of this repo](https://notebooklm.google.com/notebook/2c5d3409-08db-4627-8335-a871acb8d6ab/audio))
+[Deep Dive of this repo](https://notebooklm.google.com/notebook/2c5d3409-08db-4627-8335-a871acb8d6ab/audio)
 
-[Deep Dive Version 2 W/ Updated content](https://notebooklm.google.com/notebook/79e7fe17-3ab6-4068-882b-af76e5692c81/audio))
+[Deep Dive Version 2 W/ Updated content](https://notebooklm.google.com/notebook/79e7fe17-3ab6-4068-882b-af76e5692c81/audio)
 
 [Hopfield Networks is All You Need](https://notebooklm.google.com/notebook/e4b4dcff-eafc-4667-847d-451bb405d60b/audio)
 
